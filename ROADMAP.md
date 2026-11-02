@@ -43,7 +43,7 @@ et à la maison.
 ### Droits d'utilisation et autorisations
 - [x] Page #apropos en ligne : sources, sons lus depuis leurs sites d'origine,
       illustrations générées par IA.
-- [ ] Présenter le courriel de demande à Yan-Daniel Vollant (rencontre de la
+- [x] Présenter le courriel de demande à Yan-Daniel Vollant (rencontre de la
       semaine prochaine).
 - [ ] Avec Yan-Daniel, vérifier ce que couvre l'entente sur l'éducation entre
       ITUM et Tshakapesh.
@@ -63,7 +63,7 @@ et à la maison.
       passe sous ITUM.
 - [x] Illustrations des affiches de Virginie : trouvées sur Google. Elles ne vont
       ni dans l'appli, ni dans le dépôt, ni dans les instructions données à l'IA.
-- [ ] Ne pas mettre les PDF des affiches dans le dépôt ni sur le site public.
+- [x] Ne pas mettre les PDF des affiches dans le dépôt ni sur le site public.
 - [ ] Vérifier l'origine des illustrations qui ne sont pas indiquées comme faites
       par IA (corps, couleurs, chiffres, calendrier).
 - [ ] Vérifier que les conditions de l'outil de génération permettent de publier
@@ -100,7 +100,7 @@ et à la maison.
 - [x] Défis propres à un thème lancés directement depuis la carte
       (Plateau, Muffins, Panier, Trier).
 - [ ] Faire valider les noms des sections avec Virginie (et leur version innue).
-- [ ] Tester avec des élèves (Hubert), sur tableau interactif et sur tablette.
+- [x] Tester avec des élèves (Hubert), sur tableau interactif et sur tablette.
 - [x] Fusionner dans `main` (30 octobre 2026).
 - [ ] Plus tard : recherche de mots, quand le matériel de Virginie sera intégré.
 
