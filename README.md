@@ -20,13 +20,14 @@ Le projet est développé au secteur de l'éducation d'Innu Takuaikan Uashat mak
 - **🧺 Prépare le plateau** (cuisine) : on dépose sur son plateau les aliments ou les objets demandés en innu-aimun.
 - **🧺 Remplis le panier** (fruits et légumes) : on met dans le panier les fruits et les légumes demandés.
 - **🧁 Prépare les muffins** (cuisine) : on reçoit une commande de muffins avec un petit fruit, on rassemble les ingrédients et le matériel de la recette « Pakueshikanissat », puis on remet les étapes dans l'ordre.
+- **🎨 Forme + couleur** (formes et couleurs) : une forme colorée s'affiche, on choisit le mot de la forme, puis celui de la couleur.
 - **🗂️ Animé ou inanimé ?** : on range chaque nom dans la bonne catégorie grammaticale.
 
 Une aide en français peut être affichée ou cachée, et chaque mot enregistré peut être écouté à vitesse normale ou ralentie.
 
 ## Thématiques
 
-Le corps (Uiau), les couleurs et les formes (Atishauiana), les chiffres (Atshitashuna), les animaux (Aueshishat), les poissons (Nameshat : eau douce et eau salée), le calendrier (Tshishtekaikan), les pronoms, animé ou inanimé, les moyens de transport (Utapana), les vêtements (Matshunisha), la cuisine (Mitshim : aliments, vaisselle et chaudrons) et les fruits et les légumes (Mina mak patshitinaun-mitshim, avec les petits fruits). Au total, 12 thématiques et 318 fiches de mots, dont 197 avec un enregistrement.
+Le corps (Uiau), les formes et les couleurs (Eshinakuak tshekuan mak Atishauiana), les chiffres (Atshitashuna), les animaux (Aueshishat), les poissons (Nameshat : eau douce et eau salée), le calendrier (Tshishtekaikan), les pronoms, animé ou inanimé, les moyens de transport (Utapana), les vêtements (Matshunisha), la cuisine (Mitshim : aliments, vaisselle et chaudrons) et les fruits et les légumes (Mina mak patshitinaun-mitshim, avec les petits fruits). Au total, 12 thématiques et 318 fiches de mots, dont 197 avec un enregistrement.
 
 On peut ouvrir directement une thématique avec l'adresse `index.html#corps`, `#couleurs`, `#chiffres`, `#animaux`, `#poissons`, `#calendrier`, `#pronoms`, `#genre`, `#transport`, `#vetements`, `#cuisine` ou `#fruits`.
 
