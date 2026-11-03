@@ -65,7 +65,7 @@ et à la maison.
       ni dans l'appli, ni dans le dépôt, ni dans les instructions données à l'IA.
 - [x] Ne pas mettre les PDF des affiches dans le dépôt ni sur le site public.
 - [ ] Vérifier l'origine des illustrations qui ne sont pas indiquées comme faites
-      par IA (corps, couleurs, chiffres, calendrier).
+      par IA (couleurs, chiffres, calendrier).
 - [ ] Vérifier que les conditions de l'outil de génération permettent de publier
       les images.
 - [ ] Photos d'objets culturels : obtenir l'accord écrit de l'équipe de Virginie
@@ -79,7 +79,7 @@ et à la maison.
   - [ ] nommer les producteurs des sons (Tshakapesh, Carleton, Memorial);
   - [ ] ajouter « outil éducatif gratuit et non commercial »;
   - [ ] préciser qui a fourni les fiches papier;
-  - [ ] indiquer l'origine des illustrations restantes (corps, fruits et légumes…);
+  - [ ] indiquer l'origine des illustrations restantes (fruits et légumes…);
   - [ ] ajouter une mention pour les photos d'objets culturels
         (« Photo : Eric Boily. Objet : [prêteur ou collection] »);
   - [x] ajouter #fruits aux adresses directes;
@@ -154,6 +154,10 @@ et à la maison.
 - [ ] Nouvelles thématiques tirées du plan de cours annuel d'Hubert.
 
 ### Images et photos
+- [x] Thématique du corps : photos de Maïté et Ezechiel Michel-Fontaine et des
+      mains de Stéphane Fontaine (avec leur accord), plus une illustration IA des
+      yeux (sourcil, cils, larme, lunettes). Crédits dans #apropos.
+- [ ] Trouver ou enregistrer les sons de Maunapui et Ussishikukauna.
 - [ ] Créer STYLE-IMAGES.md : instructions de base, palette, cadrage, 3 ou 4 images
       de référence tirées de l'appli, et ce qu'il faut éviter (texte dans l'image,
       personnages connus, symboles autochtones génériques).
