@@ -26,7 +26,7 @@ Une aide en français peut être affichée ou cachée, et chaque mot enregistré
 
 ## Thématiques
 
-Le corps (Uiau), les couleurs (Atishauiana), les chiffres (Atshitashuna), les animaux (Aueshishat), les poissons (Nameshat : eau douce et eau salée), le calendrier (Tshishtekaikan), les pronoms, animé ou inanimé, les moyens de transport (Utapana), les vêtements (Matshunisha), la cuisine (Mitshim : aliments, vaisselle et chaudrons) et les fruits et les légumes (Mina mak patshitinaun-mitshim, avec les petits fruits). Au total, 12 thématiques et 312 fiches de mots, dont 197 avec un enregistrement.
+Le corps (Uiau), les couleurs et les formes (Atishauiana), les chiffres (Atshitashuna), les animaux (Aueshishat), les poissons (Nameshat : eau douce et eau salée), le calendrier (Tshishtekaikan), les pronoms, animé ou inanimé, les moyens de transport (Utapana), les vêtements (Matshunisha), la cuisine (Mitshim : aliments, vaisselle et chaudrons) et les fruits et les légumes (Mina mak patshitinaun-mitshim, avec les petits fruits). Au total, 12 thématiques et 318 fiches de mots, dont 197 avec un enregistrement.
 
 On peut ouvrir directement une thématique avec l'adresse `index.html#corps`, `#couleurs`, `#chiffres`, `#animaux`, `#poissons`, `#calendrier`, `#pronoms`, `#genre`, `#transport`, `#vetements`, `#cuisine` ou `#fruits`.
 
