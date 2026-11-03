@@ -112,7 +112,8 @@ et à la maison.
       phrase (champs vides jusqu'à la phase 5).
 - [ ] Remplir le genre (animé ou inanimé) à partir du dictionnaire innu-aimun.ca.
 - [ ] Repérer les noms dépendants (parties du corps, parenté).
-- [ ] Trancher ushkush / ussun (« son nez ») avec Virginie ou Hubert.
+- [x] Trancher ushkush / ussun (« son nez ») : on garde ushkush (rencontre
+      avec les enseignants d’innu-aimun, 2 nov. 2026).
 - [ ] Valider les mots en attente de Fruits et légumes (dont ka uishakak min et
       kushimash, présents dans le cahier de Virginie).
 - [ ] Étendre « Animé ou inanimé ? » aux thématiques dont le genre est validé.
