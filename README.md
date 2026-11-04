@@ -1,4 +1,7 @@
-# Missions innu-aimun
+# Meshkanau
+
+Apprendre la langue innu-aimun avec les sons de Uashat Mak Mani-utenam.
+
 
 Outil web gratuit et non commercial pour apprendre le vocabulaire et les bases de l'**innu-aimun**, à l'école et à la maison. Il s'adresse aux élèves, à leurs familles, aux parents et à toute personne qui veut apprendre la langue ou la transmettre. Les sons proviennent du dialecte de **Uashat mak Mani-utenam**.
 
@@ -41,6 +44,7 @@ Le détail est dans la [feuille de route](ROADMAP.md). En bref :
 - genre (animé ou inanimé) et noms dépendants dans chaque fiche de mot, puis pluriels et possessifs;
 - verbes, mots de liaison et phrases courtes, avec le son du mot puis une phrase d'exemple;
 - nouveaux mots et nouvelles thématiques tirés du matériel de l'équipe de Virginie Michel (ITUM);
+- achat des domaines meshkanau.ca et meshkanau.com;
 - photos d'objets culturels innus et capsules sur l'innu-aitun;
 - enregistrements faits à Uashat, avec le consentement des personnes enregistrées;
 - plus tard, un jeu de dés coopératif pour la classe et la famille.

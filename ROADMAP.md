@@ -1,6 +1,6 @@
-# Missions innu-aimun : feuille de route
+# Meshkanau : feuille de route
 
-Dernière mise à jour : 30 octobre 2026
+Dernière mise à jour : 3 novembre 2026
 
 Outil web gratuit et non commercial pour apprendre le vocabulaire et les bases
 grammaticales de l'innu-aimun (dialecte de Uashat mak Mani-utenam), en classe
@@ -104,6 +104,21 @@ et à la maison.
 - [x] Fusionner dans `main` (30 octobre 2026).
 - [ ] Plus tard : recherche de mots, quand le matériel de Virginie sera intégré.
 
+### Nouveau nom : Meshkanau (branche `nom-meshkanau`)
+- [x] Titre « Meshkanau » (« chemin »), sous-titre « Apprendre la langue
+      innu-aimun avec les sons de Uashat Mak Mani-utenam ».
+- [x] Retirer « Missions » partout dans l'appli : le mot rappelle les missions
+      religieuses pour certains Innus. Les activités s'appellent « défis ».
+- [ ] Faire confirmer la graphie et le sens de « Meshkanau » par Hubert et
+      Virginie (usage à Uashat).
+- [ ] Acheter les domaines meshkanau.ca et meshkanau.com.
+  - [ ] Décider avec Yan-Daniel au nom de qui les enregistrer (Eric ou ITUM).
+  - [ ] Relier le domaine principal à GitHub Pages (fichier `CNAME`, HTTPS) et
+        rediriger l'autre domaine vers lui.
+- [ ] Renommer le dépôt `missions-innu-aimun`. L'adresse
+      onirix42.github.io/missions-innu-aimun cessera alors de fonctionner :
+      passer d'abord au domaine, puis avertir les enseignants et les familles.
+
 ## Phase 1 — Modèle de données : genre et noms dépendants
 
 - [ ] Ajouter à chaque mot : identifiant unique, catégorie, source, statut.
@@ -131,7 +146,7 @@ et à la maison.
 
 - [ ] Ajouter les formes possessives (mon, ton, son), validées avec Hubert.
 - [ ] Commencer par les noms dépendants du corps, puis les objets familiers.
-- [ ] Missions associées, préparées selon le plan de cours d'Hubert.
+- [ ] Défis associés, préparés selon le plan de cours d'Hubert.
 
 ## Phase 4 — Matériel de Virginie et nouvelles thématiques
 
