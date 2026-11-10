@@ -139,7 +139,8 @@ et à la maison.
 - [x] Étendre « Animé ou inanimé ? » aux thématiques dont le genre est connu :
       corps, calendrier, transport, vêtements, cuisine, fruits et légumes
       (genre « à valider » par l'équipe).
-- [ ] Sons de Uashat du dictionnaire pour les mots qui n'en ont pas encore.
+- [x] Sons du dialecte central du dictionnaire pour les mots qui en avaient
+      (24 mots ajoutés le 10 nov. 2026). Les autres mots restent à enregistrer.
 
 ## Phase 2 — Pluriels
 
