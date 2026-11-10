@@ -41,7 +41,7 @@ Une page **À propos** (`index.html#apropos`), accessible depuis l'accueil et le
 
 Le détail est dans la [feuille de route](ROADMAP.md). En bref :
 
-- genre (animé ou inanimé) et noms dépendants dans chaque fiche de mot, puis pluriels et possessifs;
+- genre (animé ou inanimé) et noms dépendants : pastilles NA, NI, NAD, NID ajoutées là où le dictionnaire innu-aimun.ca a été consulté (en cours), puis pluriels et possessifs;
 - verbes, mots de liaison et phrases courtes, avec le son du mot puis une phrase d'exemple;
 - nouveaux mots et nouvelles thématiques tirés du matériel de l'équipe de Virginie Michel (ITUM);
 - achat des domaines meshkanau.ca et meshkanau.com;
@@ -59,6 +59,7 @@ Aucun compte, aucun classement, aucune donnée recueillie : la progression s'eff
 
 - [Leçons d'innu (innu-aimun.ca)](https://lessons.innu.atlas-ling.ca/) : enregistrements du dialecte de Uashat mak Mani-utenam, genre des noms.
 - [Atlas linguistique algonquien](https://www.atlas-ling.ca/) : phrases enregistrées par Doris Vollant (Uashat mak Mani-utenam) pour les pronoms.
+- [Dictionnaire innu-aimun.ca](https://dictionary.innu-aimun.ca/) : genre et catégorie des mots, consultés mot par mot.
 - [Grammaire d'innu-aimun.ca](https://www.innu-aimun.ca/francais/grammaire/) : pronoms personnels, genre et pluriel des noms.
 - Fiches papier de vocabulaire, dont la recette « Pakueshikanissat » (muffins) et la fiche des fruits et des légumes.
 

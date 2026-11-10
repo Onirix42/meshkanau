@@ -1,6 +1,6 @@
 # Meshkanau : feuille de route
 
-Dernière mise à jour : 3 novembre 2026
+Dernière mise à jour : 9 novembre 2026
 
 Outil web gratuit et non commercial pour apprendre le vocabulaire et les bases
 grammaticales de l'innu-aimun (dialecte de Uashat mak Mani-utenam), en classe
@@ -121,17 +121,24 @@ et à la maison.
 
 ## Phase 1 — Modèle de données : genre et noms dépendants
 
-- [ ] Ajouter à chaque mot : identifiant unique, catégorie, source, statut.
-- [ ] Prévoir pour chaque mot des champs séparés : audio du mot, phrase
+- [x] Ajouter à chaque mot : identifiant unique, catégorie, source, statut
+      (9 nov. 2026, statut « à valider » pour tous).
+- [x] Prévoir pour chaque mot des champs séparés : audio du mot, phrase
       d'exemple (innu), traduction, audio de la phrase, source et statut de la
-      phrase (champs vides jusqu'à la phase 5).
+      phrase (champs vides jusqu'à la phase 5). (fait, champ `ex`)
 - [ ] Remplir le genre (animé ou inanimé) à partir du dictionnaire innu-aimun.ca.
-- [ ] Repérer les noms dépendants (parties du corps, parenté).
+      En cours : corps, formes, couleurs, nombres, 10 animaux, pomme, poire,
+      banane (9 nov. 2026). Reste : fruits et légumes, cuisine, transport,
+      vêtements, poissons, calendrier.
+- [x] Repérer les noms dépendants (parties du corps, parenté) : pastille
+      « Nom dépendant » (NAD, NID). Parenté : à faire avec une future thématique.
 - [x] Trancher ushkush / ussun (« son nez ») : on garde ushkush (rencontre
       avec les enseignants d’innu-aimun, 2 nov. 2026).
 - [ ] Valider les mots en attente de Fruits et légumes (dont ka uishakak min et
       kushimash, présents dans le cahier de Virginie).
 - [ ] Étendre « Animé ou inanimé ? » aux thématiques dont le genre est validé.
+      Fait pour Le corps; s'ouvre seul dans une thématique dès qu'elle a au
+      moins deux noms connus de chaque genre.
 
 ## Phase 2 — Pluriels
 
