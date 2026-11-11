@@ -66,7 +66,7 @@ Aucun compte, aucun classement, aucune donnée recueillie : la progression s'eff
 ## Droits
 
 - Les enregistrements appartiennent à leurs auteurs et à leurs producteurs. Ils ne sont pas copiés dans ce dépôt. Une autorisation écrite est en cours de demande.
-- Aucune image trouvée sur le Web n'est utilisée. Les illustrations des animaux, des poissons, des moyens de transport, des vêtements, de la cuisine, des fruits et légumes et l'illustration des yeux ont été générées par IA dans le style de l'application. Les objets culturels innus seront photographiés par Eric Boily, avec l'accord des personnes qui les prêtent.
+- Aucune image trouvée sur le Web n'est utilisée. Les illustrations des animaux, des poissons, des moyens de transport, des vêtements, de la cuisine, des fruits et légumes l'illustration des yeux et les scènes des tuiles de l'accueil (`img/themes/`) ont été générées par IA dans le style de l'application. Les objets culturels innus seront photographiés par Eric Boily, avec l'accord des personnes qui les prêtent.
 - Les photos de la thématique du corps montrent Maïté et Ezechiel Michel-Fontaine (enfants de Virginie Michel) ainsi que les mains de Stéphane Fontaine. Elles sont publiées avec leur accord.
 
 ## Avertissement
