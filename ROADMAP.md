@@ -9,7 +9,7 @@ et à la maison.
 - Site des élèves : https://onirix42.github.io/meshkanau/
 - Sources et crédits : https://onirix42.github.io/meshkanau/#apropos
 - Dépôt : Onirix42/meshkanau
-- Validation de la langue : Noella (locutrice et traductrice), Hubert Lessart (école Manikanetish), Virginie Michel
+- Validation de la langue : Noëlla Mckenzie (traductrice), Hubert Lessart (école Manikanetish), Virginie Michel
   (coordonnatrice des programmes, recherche et développement, ITUM)
 - Direction de l'éducation d'ITUM : Yan-Daniel Vollant
 
@@ -99,7 +99,7 @@ et à la maison.
 - [x] Nom innu et nombre de mots sur chaque carte (tirés des données).
 - [x] Défis propres à un thème lancés directement depuis la carte
       (Plateau, Muffins, Panier, Trier).
-- [ ] Faire valider les noms des sections avec Virginie (et leur version innue).
+- [x] Faire valider les noms des sections avec Virginie (et leur version innue).
 - [x] Tester avec des élèves (Hubert), sur tableau interactif et sur tablette.
 - [x] Fusionner dans `main` (30 octobre 2026).
 - [ ] Plus tard : recherche de mots, quand le matériel de Virginie sera intégré.
@@ -109,15 +109,14 @@ et à la maison.
       innu-aimun avec les sons de Uashat Mak Mani-utenam ».
 - [x] Retirer « Missions » partout dans l'appli : le mot rappelle les missions
       religieuses pour certains Innus. Les activités s'appellent « défis ».
-- [ ] Faire confirmer la graphie et le sens de « Meshkanau » par Hubert et
+- [x] Faire confirmer la graphie et le sens de « Meshkanau » par Hubert et
       Virginie (usage à Uashat).
 - [ ] Acheter les domaines meshkanau.ca et meshkanau.com.
   - [ ] Décider avec Yan-Daniel au nom de qui les enregistrer (Eric ou ITUM).
   - [ ] Relier le domaine principal à GitHub Pages (fichier `CNAME`, HTTPS) et
         rediriger l'autre domaine vers lui.
-- [ ] Renommer le dépôt `missions-innu-aimun`. L'adresse
-      onirix42.github.io/missions-innu-aimun cessera alors de fonctionner :
-      passer d'abord au domaine, puis avertir les enseignants et les familles.
+- [x] Renommer le dépôt `missions-innu-aimun` : c'est maintenant `meshkanau`
+      (onirix42.github.io/meshkanau).
 
 ## Phase 1 — Modèle de données : genre et noms dépendants
 
@@ -135,7 +134,7 @@ et à la maison.
       avec les enseignants d’innu-aimun, 2 nov. 2026).
 - [x] Valider les mots en attente de Fruits et légumes (dont ka uishakak min et
       kushimash, présents dans le cahier de Virginie). Traductions confirmées
-      dans le dictionnaire le 10 nov. 2026; validation de Noella le 18 nov. 2026
+      dans le dictionnaire le 10 nov. 2026; validation de Noëlla Mckenzie le 18 nov. 2026
       (une question reste sur la carotte).
 - [x] Étendre « Animé ou inanimé ? » aux thématiques dont le genre est connu :
       corps, calendrier, transport, vêtements, cuisine, fruits et légumes
