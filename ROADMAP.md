@@ -1,6 +1,6 @@
 # Meshkanau : feuille de route
 
-Dernière mise à jour : 10 novembre 2026
+Dernière mise à jour : 18 novembre 2026
 
 Outil web gratuit et non commercial pour apprendre le vocabulaire et les bases
 grammaticales de l'innu-aimun (dialecte de Uashat mak Mani-utenam), en classe
@@ -9,7 +9,7 @@ et à la maison.
 - Site des élèves : https://onirix42.github.io/meshkanau/
 - Sources et crédits : https://onirix42.github.io/meshkanau/#apropos
 - Dépôt : Onirix42/meshkanau
-- Validation de la langue : Hubert Lessart (école Manikanetish), Virginie Michel
+- Validation de la langue : Noella (locutrice et traductrice), Hubert Lessart (école Manikanetish), Virginie Michel
   (coordonnatrice des programmes, recherche et développement, ITUM)
 - Direction de l'éducation d'ITUM : Yan-Daniel Vollant
 
@@ -133,9 +133,10 @@ et à la maison.
       « Nom dépendant » (NAD, NID). Parenté : à faire avec une future thématique.
 - [x] Trancher ushkush / ussun (« son nez ») : on garde ushkush (rencontre
       avec les enseignants d’innu-aimun, 2 nov. 2026).
-- [ ] Valider les mots en attente de Fruits et légumes (dont ka uishakak min et
+- [x] Valider les mots en attente de Fruits et légumes (dont ka uishakak min et
       kushimash, présents dans le cahier de Virginie). Traductions confirmées
-      dans le dictionnaire le 10 nov. 2026; reste la validation par l'équipe.
+      dans le dictionnaire le 10 nov. 2026; validation de Noella le 18 nov. 2026
+      (une question reste sur la carotte).
 - [x] Étendre « Animé ou inanimé ? » aux thématiques dont le genre est connu :
       corps, calendrier, transport, vêtements, cuisine, fruits et légumes
       (genre « à valider » par l'équipe).
