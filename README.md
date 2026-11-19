@@ -31,9 +31,9 @@ Une aide en français peut être affichée ou cachée, et chaque mot enregistré
 
 ## Thématiques
 
-Le corps (Uiau), les formes et les couleurs (Eshinakuak tshekuan mak Atishauiana), les chiffres (Atshitashuna), les animaux (Aueshishat), les poissons (Nameshat : eau douce et eau salée), le calendrier (Tshishtekaikan), les pronoms, animé ou inanimé, les moyens de transport (Utapana), les vêtements (Matshunisha), la cuisine (Mitshim : aliments, vaisselle et chaudrons) et les fruits et les légumes (Mina mak patshitinaun-mitshim, avec les petits fruits). Au total, 12 thématiques et 318 fiches de mots, dont 197 avec un enregistrement.
+Le corps (Uiau), les formes et les couleurs (Eshinakunihk tshekuana mak Atishauiana), les chiffres (Atshitashuna), les animaux (Aueshishat), les poissons (Nameshat : eau douce et eau salée), les bestioles (Manitushat : insectes, araignées, grenouilles et couleuvres), le calendrier (Tshishtekaikan), les pronoms, animé ou inanimé, les moyens de transport (Utapana), les vêtements (Matshunisha), la cuisine (Mitshim : aliments, vaisselle et chaudrons) et les fruits et les légumes (Mina mak patshitinaun-mitshim, avec les petits fruits). Au total, 13 thématiques et 336 fiches de mots, dont 262 avec un enregistrement.
 
-On peut ouvrir directement une thématique avec l'adresse `index.html#corps`, `#couleurs`, `#chiffres`, `#animaux`, `#poissons`, `#calendrier`, `#pronoms`, `#genre`, `#transport`, `#vetements`, `#cuisine` ou `#fruits`.
+On peut ouvrir directement une thématique avec l'adresse `index.html#corps`, `#couleurs`, `#chiffres`, `#animaux`, `#poissons`, `#bestioles`, `#calendrier`, `#pronoms`, `#genre`, `#transport`, `#vetements`, `#cuisine` ou `#fruits`.
 
 Une page **À propos** (`index.html#apropos`), accessible depuis l'accueil et le bas de page, regroupe le mode d'emploi, les sources, les notes par thématique, la liste des points à valider avec une personne locutrice (dont les mots sans enregistrement) et les crédits. Les pages d'activités n'affichent que le lexique de la thématique ouverte.
 
@@ -66,7 +66,7 @@ Aucun compte, aucun classement, aucune donnée recueillie : la progression s'eff
 ## Droits
 
 - Les enregistrements appartiennent à leurs auteurs et à leurs producteurs. Ils ne sont pas copiés dans ce dépôt. Une autorisation écrite est en cours de demande.
-- Aucune image trouvée sur le Web n'est utilisée. Les illustrations des animaux, des poissons, des moyens de transport, des vêtements, de la cuisine, des fruits et légumes l'illustration des yeux et les scènes des tuiles de l'accueil (`img/themes/`) ont été générées par IA dans le style de l'application. Les objets culturels innus seront photographiés par Eric Boily, avec l'accord des personnes qui les prêtent.
+- Aucune image trouvée sur le Web n'est utilisée. Les illustrations des animaux, des poissons, des bestioles, des moyens de transport, des vêtements, de la cuisine, des fruits et légumes l'illustration des yeux et les scènes des tuiles de l'accueil (`img/themes/`) ont été générées par IA dans le style de l'application. Les objets culturels innus seront photographiés par Eric Boily, avec l'accord des personnes qui les prêtent.
 - Les photos de la thématique du corps montrent Maïté et Ezechiel Michel-Fontaine (enfants de Virginie Michel) ainsi que les mains de Stéphane Fontaine. Elles sont publiées avec leur accord.
 
 ## Avertissement

@@ -1,6 +1,6 @@
 # Meshkanau : feuille de route
 
-Dernière mise à jour : 18 novembre 2026
+Dernière mise à jour : 19 novembre 2026
 
 Outil web gratuit et non commercial pour apprendre le vocabulaire et les bases
 grammaticales de l'innu-aimun (dialecte de Uashat mak Mani-utenam), en classe
@@ -173,6 +173,9 @@ et à la maison.
       la réserve « À classer ».
 - [ ] Thématiques candidates : nombres (construction avec ashu), formes (à
       confirmer), animaux, village et école, saisons et météo.
+- [x] Nouvelle thématique Manitushat (les bestioles), cahier p. 38-39 : 16 mots
+      illustrés et 2 mots dans le lexique, genre et sons vérifiés dans le
+      dictionnaire (19 nov. 2026). Reste la validation par l'équipe.
 - [ ] Comparer les couleurs du cahier avec la thématique actuelle.
 - [ ] Bouton « Masquer / Afficher le texte » (on parle → on lit).
 - [ ] Affichage d'une planche de 9 mots sur le tableau interactif.
