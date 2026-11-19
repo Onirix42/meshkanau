@@ -185,7 +185,16 @@ et à la maison.
         enregistrement dans le dictionnaire ni dans les Leçons d'innu; à
         enregistrer à Uashat.
 - [ ] Comparer les couleurs du cahier avec la thématique actuelle.
-- [ ] Bouton « Masquer / Afficher le texte » (on parle → on lit).
+- [x] Mode oral prioritaire (on parle → on lit), 19 nov. 2026 : les mots
+      écrits, la traduction et les indications grammaticales sont masqués par
+      défaut; réglage global « Afficher les mots / Masquer les mots » conservé
+      sur l'appareil; défis joués à l'oreille avec les mots enregistrés; défis
+      de lecture (muffins, nombres) offerts avec les mots affichés; lexique
+      inchangé.
+  - [ ] Consignes audio (en innu-aimun ou en français) pour l'élève qui ne
+        lit pas encore.
+  - [ ] Enregistrements manquants : les illustrations sans assez de sons
+        (ex. pronoms de priorité) ne permettent pas encore les défis à l'oral.
 - [ ] Affichage d'une planche de 9 mots sur le tableau interactif.
 - [ ] Nouvelles thématiques tirées du plan de cours annuel d'Hubert.
 

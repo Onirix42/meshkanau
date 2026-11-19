@@ -27,7 +27,17 @@ Le projet est développé au secteur de l'éducation d'Innu Takuaikan Uashat mak
 - **🎨 Forme + couleur** (formes et couleurs) : une forme colorée s'affiche, on choisit le mot de la forme, puis celui de la couleur.
 - **🗂️ Animé ou inanimé ?** : on range chaque nom dans la bonne catégorie grammaticale.
 
-Une aide en français peut être affichée ou cachée, et chaque mot enregistré peut être écouté à vitesse normale ou ralentie.
+### Mode oral (par défaut)
+
+Au primaire, on travaille la langue parlée; l'écrit arrive au secondaire. Par défaut, Meshkanau masque donc les mots écrits en innu-aimun, la traduction française et les indications grammaticales (NA, NI…) : l'élève regarde, écoute, répète et reconnaît.
+
+- En exploration, toucher une image fait entendre le mot, sans le révéler à l'écrit.
+- Les défis se jouent à l'oreille : « Trouver le repère » fait entendre le mot à trouver, « Choisir le mot », « Forme + couleur » et « Remplis le panier / Prépare le plateau » proposent des choix sonores, et « Animé ou inanimé ? » fait entendre le nom à ranger. Seuls les mots enregistrés à Uashat y sont utilisés.
+- Les défis de lecture (🧁 Prépare les muffins, 🔢 Construis le nombre) n'apparaissent que lorsque les mots sont affichés.
+- Le bouton « Afficher les mots » / « Masquer les mots » s'applique à toute l'application et le choix est conservé sur l'appareil. Avec les mots affichés, une aide en français peut être affichée ou cachée.
+- Le lexique reste toujours écrit : c'est l'outil de référence.
+
+Chaque mot enregistré peut être écouté à vitesse normale ou ralentie.
 
 ## Thématiques
 
@@ -53,7 +63,7 @@ Le détail est dans la [feuille de route](ROADMAP.md). En bref :
 
 L'application tient dans un seul fichier `index.html`, accompagné des dossiers `img/` et `fonts/`. Il n'y a rien à installer : on ouvre `index.html` dans un navigateur, ou on publie le dépôt avec GitHub Pages. Une connexion Internet est nécessaire pour les sons, qui sont lus depuis leurs sites d'origine.
 
-Aucun compte, aucun classement, aucune donnée recueillie : la progression s'efface à la fermeture de la page.
+Aucun compte, aucun classement, aucune donnée recueillie : la progression s'efface à la fermeture de la page. Seul le choix d'affichage des mots est conservé dans le navigateur de l'appareil.
 
 ## Sources
 
