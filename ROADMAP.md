@@ -179,8 +179,11 @@ et à la maison.
   - [x] Kakanukatet = maringouin; Shatshimeu, mot général pour les
         moustiques qui piquent, garde l'image de la tipule; ajout de Kapeshkutshemuess (mouche
         noire) et Pikush (brûlot), précisions de l'équipe du 19 nov. 2026.
-  - [x] Genre de Kapeshkutshemuess et de Pikush : NA (équipe, 19 nov. 2026).
-  - [ ] Son de Uashat de Kapeshkutshemuess et de Pikush.
+  - [x] Genre de Kapeshkutshemuess (NAP) et de Pikush (NA), vérifié dans le
+        dictionnaire le 19 nov. 2026.
+  - [ ] Son de Uashat de Kapeshkutshemuess et de Pikush : aucun
+        enregistrement dans le dictionnaire ni dans les Leçons d'innu; à
+        enregistrer à Uashat.
 - [ ] Comparer les couleurs du cahier avec la thématique actuelle.
 - [ ] Bouton « Masquer / Afficher le texte » (on parle → on lit).
 - [ ] Affichage d'une planche de 9 mots sur le tableau interactif.
