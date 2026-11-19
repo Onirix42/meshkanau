@@ -176,6 +176,11 @@ et à la maison.
 - [x] Nouvelle thématique Manitushat (les bestioles), cahier p. 38-39 : 16 mots
       illustrés et 2 mots dans le lexique, genre et sons vérifiés dans le
       dictionnaire (19 nov. 2026). Reste la validation par l'équipe.
+  - [x] Kakanukatet = maringouin (même image que Shatshimeu, mot général
+        pour les moustiques qui piquent); ajout de Kapeshkutshemuess (mouche
+        noire) et Pikush (brûlot), précisions de l'équipe du 19 nov. 2026.
+  - [x] Genre de Kapeshkutshemuess et de Pikush : NA (équipe, 19 nov. 2026).
+  - [ ] Son de Uashat de Kapeshkutshemuess et de Pikush.
 - [ ] Comparer les couleurs du cahier avec la thématique actuelle.
 - [ ] Bouton « Masquer / Afficher le texte » (on parle → on lit).
 - [ ] Affichage d'une planche de 9 mots sur le tableau interactif.
