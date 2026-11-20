@@ -191,6 +191,14 @@ et à la maison.
       sur l'appareil; défis joués à l'oreille avec les mots enregistrés; défis
       de lecture (muffins, nombres) offerts avec les mots affichés; lexique
       inchangé.
+- [x] Révision des libellés de navigation, 20 nov. 2026 : sélecteur
+      « 👂 Oral | 📖 Écrit » (libellés fixes, mode actif en surbrillance,
+      `role="radiogroup"`) au lieu de « Afficher / Masquer les mots »;
+      activités de base à l'infinitif (Explorer, Trouver, Choisir) et défis à
+      l'impératif regroupés sous « Défis »; « 🧩 Choisir le son » à l'oral;
+      🍽️ pour le plateau; « Explorer » remplace « Découverte libre »;
+      bouton « ← Thématiques »; cibles tactiles de 44 px; 🔇 son à venir;
+      paramètre `?ecrit` / `?oral` dans l'adresse.
   - [ ] Consignes audio (en innu-aimun ou en français) pour l'élève qui ne
         lit pas encore.
   - [ ] Enregistrements manquants : les illustrations sans assez de sons

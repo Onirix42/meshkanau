@@ -19,22 +19,27 @@ Le projet est développé au secteur de l'éducation d'Innu Takuaikan Uashat mak
 
 - **🔎 Explorer** : toucher les repères ou les mots pour les découvrir et les écouter.
 - **🎯 Trouver le repère** : l'application donne un mot innu; on touche le bon endroit sur l'illustration.
-- **🧩 Choisir le mot** : un repère est en orange; on choisit le mot innu correspondant.
-- **🧺 Prépare le plateau** (cuisine) : on dépose sur son plateau les aliments ou les objets demandés en innu-aimun.
+- **🧩 Choisir le son / le mot** : un repère est en orange; on choisit le son (mode oral) ou le mot écrit (mode écrit) correspondant.
+
+Les **défis** propres à certaines thématiques sont regroupés sous « Défis » et nommés à l'impératif :
+
+- **🍽️ Prépare le plateau** (cuisine) : on dépose sur son plateau les aliments ou les objets demandés en innu-aimun.
 - **🧺 Remplis le panier** (fruits et légumes) : on met dans le panier les fruits et les légumes demandés.
 - **🧁 Prépare les muffins** (cuisine) : on reçoit une commande de muffins avec un petit fruit, on rassemble les ingrédients et le matériel de la recette « Pakueshikanissat », puis on remet les étapes dans l'ordre.
 - **🔢 Construis le nombre** (chiffres) : on choisit 2, 3 ou 4 chiffres, puis on écrit le nombre en mots avec ses parties reliées par « ashu ».
-- **🎨 Forme + couleur** (formes et couleurs) : une forme colorée s'affiche, on choisit le mot de la forme, puis celui de la couleur.
-- **🗂️ Animé ou inanimé ?** : on range chaque nom dans la bonne catégorie grammaticale.
+- **🎨 Nomme la forme et la couleur** (formes et couleurs) : une forme colorée s'affiche, on choisit le mot de la forme, puis celui de la couleur.
+- **🗂️ Trie les noms** (animé ou inanimé ?) : on range chaque nom dans la bonne catégorie grammaticale.
 
 ### Mode oral (par défaut)
 
 Au primaire, on travaille la langue parlée; l'écrit arrive au secondaire. Par défaut, Meshkanau masque donc les mots écrits en innu-aimun, la traduction française et les indications grammaticales (NA, NI…) : l'élève regarde, écoute, répète et reconnaît.
 
 - En exploration, toucher une image fait entendre le mot, sans le révéler à l'écrit.
-- Les défis se jouent à l'oreille : « Trouver le repère » fait entendre le mot à trouver, « Choisir le mot », « Forme + couleur » et « Remplis le panier / Prépare le plateau » proposent des choix sonores, et « Animé ou inanimé ? » fait entendre le nom à ranger. Seuls les mots enregistrés à Uashat y sont utilisés.
-- Les défis de lecture (🧁 Prépare les muffins, 🔢 Construis le nombre) n'apparaissent que lorsque les mots sont affichés.
-- Le bouton « Afficher les mots » / « Masquer les mots » s'applique à toute l'application et le choix est conservé sur l'appareil. Avec les mots affichés, une aide en français peut être affichée ou cachée.
+- Les défis se jouent à l'oreille : « Trouver le repère » fait entendre le mot à trouver, « Choisir le son », « Nomme la forme et la couleur » et « Remplis le panier / Prépare le plateau » proposent des choix sonores, et « Animé ou inanimé ? » fait entendre le nom à ranger. Seuls les mots enregistrés à Uashat y sont utilisés.
+- Les défis de lecture (🧁 Prépare les muffins, 🔢 Construis le nombre) n'apparaissent qu'en mode 📖 Écrit.
+- Le sélecteur « 👂 Oral | 📖 Écrit » s'applique à toute l'application et le choix est conservé sur l'appareil. En mode écrit, « 🇫🇷 Aide en français » affiche ou cache la traduction.
+- En mode oral, 🔇 marque les images dont le son de Uashat est à venir.
+- Pour ouvrir l'application directement en mode écrit (au secondaire, par exemple), ajouter `?ecrit` à l'adresse, éventuellement suivi d'une thématique : `?ecrit#cuisine`. `?oral` force le mode oral.
 - Le lexique reste toujours écrit : c'est l'outil de référence.
 
 Chaque mot enregistré peut être écouté à vitesse normale ou ralentie.
