@@ -44,6 +44,25 @@ Au primaire, on travaille la langue parlée; l'écrit arrive au secondaire. Par 
 
 Chaque mot enregistré peut être écouté à vitesse normale ou ralentie.
 
+### Mode Classe (pour les enseignants)
+
+La page [`classe.html`](https://onirix42.github.io/meshkanau/classe.html) prépare une activité pour toute la classe, sans compte ni serveur. L'enseignant choisit :
+
+- les **thématiques** (une seule ouvre directement l'activité; plusieurs : l'élève choisit parmi elles);
+- les **activités** offertes (une seule activité avec une seule thématique : l'élève arrive directement dans l'exercice);
+- le **mode** : 👂 Oral, 📖 Écrit ou au choix de l'élève;
+- les **aides** à retirer : traductions et bouton « Afficher la traduction », consignes en français, lexique, indices grammaticaux, « Afficher ce mot » en mode oral.
+
+La page affiche un code QR (créé dans le navigateur, sans service externe) à projeter au tableau; les élèves le scannent avec l'appareil photo de l'iPad. Tout le réglage tient dans l'adresse, par exemple :
+
+```
+?classe&themes=cuisine,fruits&act=find,tray&mode=oral&sans=consignes,lex
+```
+
+Un bandeau « 🏫 Mode Classe » rappelle le réglage. Le réglage tient 3 heures dans l'onglet, même si l'élève recharge la page; pour le quitter avant, garder le doigt appuyé 3 secondes sur « 🔒 Quitter ». Le mode Classe ne modifie pas les réglages enregistrés sur l'iPad. Un paramètre inconnu est ignoré.
+
+**Ajouter un réglage** (singulier/pluriel, possessifs…) : ajouter une entrée dans `CLASSE_REGLAGES` (`js/classe.js`). Elle apparaît alors automatiquement dans `classe.html`, dans l'adresse, dans le code QR et dans le résumé; il reste à en tenir compte dans le jeu (`CL.<id>` dans `index.html`).
+
 ## Thématiques
 
 Le corps (Uiau), les formes et les couleurs (Eshinakunihk tshekuana mak Atishauiana), les chiffres (Atshitashuna), les animaux (Aueshishat), les poissons (Nameshat : eau douce et eau salée), les bestioles (Manitushat : insectes, araignées, grenouilles et couleuvres), le calendrier (Tshishtekaikan), les pronoms, animé ou inanimé, les moyens de transport (Utapana), les vêtements (Matshunisha), la cuisine (Mitshim : aliments, vaisselle et chaudrons) et les fruits et les légumes (Mina mak patshitinaun-mitshim, avec les petits fruits). Au total, 13 thématiques et 338 fiches de mots, dont 262 avec un enregistrement.
@@ -66,7 +85,7 @@ Le détail est dans la [feuille de route](ROADMAP.md). En bref :
 
 ## Utilisation
 
-L'application tient dans un seul fichier `index.html`, accompagné des dossiers `img/` et `fonts/`. Il n'y a rien à installer : on ouvre `index.html` dans un navigateur, ou on publie le dépôt avec GitHub Pages. Une connexion Internet est nécessaire pour les sons, qui sont lus depuis leurs sites d'origine.
+L'application tient dans le fichier `index.html`, accompagné des dossiers `img/`, `fonts/` et `js/`. Le dossier `js/` contient le catalogue des thématiques et des défis (`catalogue.js`), partagé par le jeu et la page du mode Classe, le registre des réglages du mode Classe (`classe.js`) et la bibliothèque de codes QR [qrcode-generator](https://github.com/kazuhikoarase/qrcode-generator) de Kazuhiko Arase (licence MIT, `qrcode.js`). Il n'y a rien à installer : on ouvre `index.html` dans un navigateur, ou on publie le dépôt avec GitHub Pages. Une connexion Internet est nécessaire pour les sons, qui sont lus depuis leurs sites d'origine.
 
 Aucun compte, aucun classement, aucune donnée recueillie : la progression s'efface à la fermeture de la page. Seul le choix d'affichage des mots est conservé dans le navigateur de l'appareil.
 

@@ -1,6 +1,6 @@
 # Meshkanau : feuille de route
 
-Dernière mise à jour : 19 novembre 2026
+Dernière mise à jour : 20 novembre 2026
 
 Outil web gratuit et non commercial pour apprendre le vocabulaire et les bases
 grammaticales de l'innu-aimun (dialecte de Uashat mak Mani-utenam), en classe
@@ -117,6 +117,31 @@ et à la maison.
         rediriger l'autre domaine vers lui.
 - [x] Renommer le dépôt `missions-innu-aimun` : c'est maintenant `meshkanau`
       (onirix42.github.io/meshkanau).
+
+### Mode Classe (directement dans `main`, 20 novembre 2026)
+Demande d'Hubert : garder les élèves concentrés sur l'exercice voulu.
+- [x] Réglage dans l'adresse : `?classe&themes=…&act=…&mode=oral|ecrit&sans=…`,
+      sans compte ni serveur. Le paramètre `?ecrit` reste valable hors du mode Classe.
+- [x] Une thématique ouvre directement l'activité; plusieurs : accueil filtré.
+      Une seule thématique et une seule activité : l'élève arrive dans l'exercice.
+- [x] Aides retirables une à une : traductions et bouton « Afficher la traduction »,
+      consignes en français, lexique, indices grammaticaux, « Afficher ce mot » (oral).
+- [x] Bandeau « 🏫 Mode Classe »; réglage gardé 3 h dans l'onglet; sortie par appui
+      de 3 secondes sur « 🔒 Quitter ». Les réglages de l'iPad ne sont pas modifiés.
+- [x] Page `classe.html` (même look) : cartes des thématiques, activités, mode, aides,
+      code QR créé sur place (qrcode-generator, MIT), plein écran pour le TBI,
+      « Copier le lien », « Essayer ».
+- [x] Registre `CLASSE_REGLAGES` (`js/classe.js`) et catalogue partagé
+      (`js/catalogue.js`) : un nouveau réglage s'ajoute à un seul endroit.
+- [ ] Tester avec Hubert : Cuisine → 🎯 Trouver le repère → Oral → sans consignes,
+      sur deux iPad (son sur le Wi-Fi de l'école, aucun texte français visible).
+- [ ] Valider avec Hubert la liste des aides et ce que couvrent les « consignes ».
+- [ ] Ajouter les réglages singulier/pluriel et possessifs quand les phases 2 et 3
+      seront prêtes.
+- [ ] Ne pas imprimer de codes QR avant le passage au domaine meshkanau.ca
+      (l'adresse github.io changera); les projeter au tableau en attendant.
+- [ ] Plus tard : réglages enregistrés dans `classe.html` (favoris de l'enseignant).
+- [ ] Proposer aux techniciens l'Accès guidé de l'iPad pour garder l'élève dans Safari.
 
 ## Phase 1 — Modèle de données : genre et noms dépendants
 
