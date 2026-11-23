@@ -4,8 +4,8 @@ const THEMES=[{id:'corps',name:'Le corps',innu:'Uiau',sub:'Le corps, le visage, 
 /* Sections de l'accueil */
 const GROUPS=[{name:'Moi et les autres',ids:['corps','vetements','pronoms']},{name:'À la maison et à table',ids:['cuisine','fruits']},{name:'La nature',ids:['animaux','poissons','bestioles']},{name:'Compter et se repérer',ids:['chiffres','couleurs','calendrier']},{name:'Se déplacer',ids:['transport']},{name:'Comprendre la langue',ids:['genre']}];
 /* Défis propres à une thématique : [id de l'activité, libellé court, libellé long] */
-const DEFIS={cuisine:[['tray','🍽️ Plateau','Prépare le plateau'],['muffins','🧁 Muffins','Prépare les muffins']],fruits:[['tray','🧺 Panier','Remplis le panier']],genre:[['sort','🗂️ Trier','Trie les noms : animé ou inanimé ?']],chiffres:[['build','🔢 Construis le nombre','Construis le nombre en mots']],couleurs:[['combo','🎨 Forme + couleur','Nomme la forme et la couleur']]};
+const DEFIS={cuisine:[['tray','🍽️ Plateau','Prépare le plateau'],['muffins','🧁 Muffins','Prépare les muffins']],fruits:[['tray','🧺 Panier','Remplis le panier']],genre:[['sort','🗂️ Trier','Trie les noms : animé ou inanimé ?']],chiffres:[['build','🔢 Construis le nombre','Construis le nombre en mots']],couleurs:[['combo','🎨 Forme + couleur','Nomme la forme et la couleur']],calendrier:[['date','📅 La date','Écris la date d’aujourd’hui']]};
 /* Activités communes, dans l'ordre de la barre d'activités */
 const ACTIVITES=[{id:'explore',label:'🔎 Explorer'},{id:'find',label:'🎯 Trouver le repère'},{id:'choose',label:'🧩 Choisir le son / le mot'},{id:'sort',label:'🗂️ Trie les noms',note:'Animé ou inanimé ?'}];
 /* Défis de lecture : offerts seulement en mode écrit */
-const WRITTEN_ONLY=['build','muffins'];
+const WRITTEN_ONLY=['build','muffins','date'];

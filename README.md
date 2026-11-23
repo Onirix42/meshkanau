@@ -28,6 +28,7 @@ Les **défis** propres à certaines thématiques sont regroupés sous « Défis 
 - **🧁 Prépare les muffins** (cuisine) : on reçoit une commande de muffins avec un petit fruit, on rassemble les ingrédients et le matériel de la recette « Pakueshikanissat », puis on remet les étapes dans l'ordre.
 - **🔢 Construis le nombre** (chiffres) : on choisit 2, 3 ou 4 chiffres, puis on écrit le nombre en mots avec ses parties reliées par « ashu ».
 - **🎨 Nomme la forme et la couleur** (formes et couleurs) : une forme colorée s'affiche, on choisit le mot de la forme, puis celui de la couleur.
+- **📅 La date d'aujourd'hui** (calendrier) : on écrit la date du jour en trois parties, jour de la semaine, nombre (relié par « ashu ») et mois, par exemple « Ushkat-atushkan, nishunnu ashu nishtᵘ takuatshi-pishimᵘ » (lundi 23 novembre), puis cinq autres dates.
 - **🗂️ Trie les noms** (animé ou inanimé ?) : on range chaque nom dans la bonne catégorie grammaticale.
 
 ### Mode oral (par défaut)
@@ -36,7 +37,7 @@ Au primaire, on travaille la langue parlée; l'écrit arrive au secondaire. Par 
 
 - En exploration, toucher une image fait entendre le mot, sans le révéler à l'écrit.
 - Les défis se jouent à l'oreille : « Trouver le repère » fait entendre le mot à trouver, « Choisir le son », « Nomme la forme et la couleur » et « Remplis le panier / Prépare le plateau » proposent des choix sonores, et « Animé ou inanimé ? » fait entendre le nom à ranger. Seuls les mots enregistrés à Uashat y sont utilisés.
-- Les défis de lecture (🧁 Prépare les muffins, 🔢 Construis le nombre) n'apparaissent qu'en mode 📖 Écrit.
+- Les défis de lecture (🧁 Prépare les muffins, 🔢 Construis le nombre, 📅 La date d'aujourd'hui) n'apparaissent qu'en mode 📖 Écrit.
 - Le sélecteur « 👂 Oral | 📖 Écrit » s'applique à toute l'application et le choix est conservé sur l'appareil. En mode écrit, « 🇫🇷 Aide en français » affiche ou cache la traduction.
 - En mode oral, 🔇 marque les images dont le son de Uashat est à venir.
 - Pour ouvrir l'application directement en mode écrit (au secondaire, par exemple), ajouter `?ecrit` à l'adresse, éventuellement suivi d'une thématique : `?ecrit#cuisine`. `?oral` force le mode oral.
