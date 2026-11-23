@@ -111,7 +111,7 @@ et à la maison.
       religieuses pour certains Innus. Les activités s'appellent « défis ».
 - [x] Faire confirmer la graphie et le sens de « Meshkanau » par Hubert et
       Virginie (usage à Uashat).
-- [ ] Acheter les domaines meshkanau.ca et meshkanau.com.
+- [x] Acheter les domaines meshkanau.ca et meshkanau.com.
   - [ ] Décider avec Yan-Daniel au nom de qui les enregistrer (Eric ou ITUM).
   - [ ] Relier le domaine principal à GitHub Pages (fichier `CNAME`, HTTPS) et
         rediriger l'autre domaine vers lui.
