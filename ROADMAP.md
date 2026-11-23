@@ -299,8 +299,6 @@ Demande d'Hubert : garder les élèves concentrés sur l'exercice voulu.
 
 ## En attente
 
-- Retour d'innu-aimun.ca.
-- Réponses de Virginie (traductions, graphies, prononciation).
 - Liste des objets culturels à photographier et accord de leurs prêteurs.
 - Autorisations écrites pour les sons, demandées par Yan-Daniel Vollant.
 - Portée de l'entente ITUM–Tshakapesh.
