@@ -1,6 +1,6 @@
 # Meshkanau : feuille de route
 
-Dernière mise à jour : 23 novembre 2026
+Dernière mise à jour : 24 novembre 2026
 
 Outil web gratuit et non commercial pour apprendre le vocabulaire et les bases
 grammaticales de l'innu-aimun (dialecte de Uashat mak Mani-utenam), en classe
@@ -249,6 +249,17 @@ sur la provenance du mot. Il enrichit la fiche sans nuire au jeu.
         lit pas encore.
   - [ ] Enregistrements manquants : les illustrations sans assez de sons
         (ex. pronoms de priorité) ne permettent pas encore les défis à l'oral.
+- [ ] Nouvelle thématique Kautishkuemit (la famille), branche
+      `thematique-famille` (24 nov. 2026) : 21 mots en 5 illustrations
+      (parents et grands-parents, fratrie, famille élargie, enfants, liens du
+      cœur avec « mon amoureux »), 12 avec un son de Uashat. À valider avec
+      Noëlla et Virginie avant la fusion dans `main` : grille dans
+      `docs/famille-validation.md`.
+  - [ ] 11 mots en attente, illustrations déjà prêtes (`img/fa_*.webp`) :
+        arrière-grands-parents, ancêtres, aîné, benjamin, petit-fils,
+        petite-fille, jumeaux, parrain, marraine, ma famille.
+  - [ ] Sons à enregistrer à Uashat : cousin, neveu, nièce, fils, fille,
+        bébé, ma femme, mon amoureux, ma parenté.
 - [ ] Affichage d'une planche de 9 mots sur le tableau interactif.
 - [ ] Nouvelles thématiques tirées du plan de cours annuel d'Hubert.
 
