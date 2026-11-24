@@ -35,6 +35,10 @@ et à la maison.
 - [ ] Ne jamais travailler directement sur `main` : une branche par chantier
       (`chantier-grammaire`, `chantier-virginie`, etc.).
 - [ ] Fusionner dans `main` seulement après test et confirmation.
+- [x] Changer le numéro `?v=` des scripts `js/*.js` dans `index.html` et
+      `classe.html` à chaque modification d'un fichier `js/` : sinon le
+      navigateur garde l'ancien fichier en cache et le jeu peut n'afficher que
+      l'en-tête (incident de la fusion de la famille, 24 nov. 2026).
 - [x] Ajouter `ROADMAP.md` à `main` (sans effet sur le site des élèves).
 - [ ] Attendre le retour d'innu-aimun.ca avant toute saisie linguistique
       (genre, catégorie, pluriel).
