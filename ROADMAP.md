@@ -261,7 +261,7 @@ sur la provenance du mot. Il enrichit la fiche sans nuire au jeu.
         genre (NAD, NAP, NA); fusionnés dans `main` le 24 nov. 2026.
   - [x] Tshiashinnuat (les ancêtres) ajouté; Nishtamushan et Mashtenushan
         valent pour une fille comme pour un garçon (24 nov. 2026).
-  - [ ] Genre de Tshiashinnuat à indiquer.
+  - [x] Genre de Tshiashinnuat : NA.
   - [ ] Mot en attente, illustration prête : ma famille.
   - [ ] Sons à enregistrer à Uashat : 9 mots de départ et les 8 mots ajoutés.
 - [ ] Affichage d'une planche de 9 mots sur le tableau interactif.

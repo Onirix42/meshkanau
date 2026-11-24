@@ -18,7 +18,7 @@ Pour chaque ligne, cocher : forme écrite exacte, sens en français, son de Uash
 
 - [x] Genre des 8 mots ajoutés (Noëlla Mckenzie et Virginie Michel) : NAD pour Nutanishkutapanukuma, Nutanishkutapanimushuma, Nussima, Nutaiamieutauia et Nutaiamieukauia; NAP pour Kanishishiht; NA pour Nishtamushan et Mashtenushan.
 - [x] Nishtamushan et Mashtenushan valent aussi pour une fille (l'aînée, la benjamine).
-- [ ] Genre de Tshiashinnuat (les ancêtres) ?
+- [x] Genre de Tshiashinnuat (les ancêtres) : NA.
 
 
 ## fa1 · Les parents et les grands-parents
