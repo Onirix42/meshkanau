@@ -143,6 +143,27 @@ Demande d'Hubert : garder les élèves concentrés sur l'exercice voulu.
 - [ ] Plus tard : réglages enregistrés dans `classe.html` (favoris de l'enseignant).
 - [ ] Proposer aux techniciens l'Accès guidé de l'iPad pour garder l'élève dans Safari.
 
+### « Derrière le mot » (directement dans `main`, 24 novembre 2026)
+Volet facultatif des fiches : un petit dessin au trait et une courte explication
+sur la provenance du mot. Il enrichit la fiche sans nuire au jeu.
+- [x] Couleurs (13 fiches), mois (12) et jours (7), d'après les fiches V6-f, V4-f
+      et V3-f d'Yvette Mollen (2017) et la liste « Months of the Year ».
+- [x] Explorer : bouton « Derrière le mot » sous la fiche, fermé par défaut, sans son.
+      Défis : jamais pendant la question, seulement après la correction.
+- [x] Texte oral (sans mot innu écrit) et texte écrit (avec les mots apparentés).
+- [x] Dessins au trait monochromes, hors de la pastille; pas de dessin quand il
+      serait trompeur ou délicat (vésicule biliaire, tabac, sang du rouge vin…).
+- [x] Réglage du mode Classe pour retirer le volet (`sans=derriere`).
+- [x] Contenu dans `js/derriere.js` : une entrée par mot, réutilisable pour
+      d'autres thématiques.
+- [ ] Faire valider les explications à Uashat (Noëlla, Hubert, Virginie) et passer
+      le statut à « validé ». Questions ouvertes : septembre (deux explications),
+      origine d'Epishiminishkueu, dimanche (minashtau).
+- [ ] Tester avec Hubert : les élèves ouvrent-ils le volet? Le dessin distrait-il?
+- [ ] Plus tard : courtes paroles enregistrées par des personnes de la communauté
+      (avec consentement), et d'autres thématiques mot par mot.
+- [ ] Plus tard : volet après la correction du défi « La date d'aujourd'hui ».
+
 ## Phase 1 — Modèle de données : genre et noms dépendants
 
 - [x] Ajouter à chaque mot : identifiant unique, catégorie, source, statut

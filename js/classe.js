@@ -59,7 +59,8 @@ const CLASSE_REGLAGES = [
       { id: 'consignes', label: '💬 Consignes en français', note: 'Textes d’aide sous l’image et sous les mots, « Comment jouer ? »', resume: 'consignes' },
       { id: 'lex', label: '📖 Lexique de la thématique', note: 'Le tableau des mots, avec le français, en bas de page', resume: 'lexique' },
       { id: 'gram', label: '🏷️ Indices grammaticaux', note: 'Étiquettes Animé / Inanimé (NA, NI…) et encadré « Comment reconnaître le genre ? »', resume: 'indices grammaticaux' },
-      { id: 'mot', label: '🔤 « Afficher ce mot » en mode oral', note: 'Pour les images dont le son est à venir', pour: 'oral', resume: 'mot écrit' }
+      { id: 'mot', label: '🔤 « Afficher ce mot » en mode oral', note: 'Pour les images dont le son est à venir', pour: 'oral', resume: 'mot écrit' },
+      { id: 'derriere', label: '🔍 « Derrière le mot »', note: 'Petit dessin et explication facultative sur la provenance du mot (couleurs, mois, jours)', resume: 'Derrière le mot' }
     ] }
 
   /* Réglages à venir : décommenter et adapter quand le jeu les prendra en charge.

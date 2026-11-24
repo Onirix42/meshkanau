@@ -31,6 +31,19 @@ Les **défis** propres à certaines thématiques sont regroupés sous « Défis 
 - **📅 La date d'aujourd'hui** (calendrier) : on écrit la date du jour en trois parties, jour de la semaine, nombre (relié par « ashu ») et mois, par exemple « Ushkat-atushkan, nishunnu ashu nishtᵘ takuatshi-pishimᵘ » (lundi 23 novembre), puis cinq autres dates.
 - **🗂️ Trie les noms** (animé ou inanimé ?) : on range chaque nom dans la bonne catégorie grammaticale.
 
+### 🔍 Derrière le mot
+
+Sur les fiches des couleurs, des mois et des jours, un petit dessin au trait et le bouton « Derrière le mot » ouvrent une courte explication sur la provenance du mot : le vert et la mer (*shipekᵘ*), l'orange et le feu (*ishkuteu*), avril et le canard, août et l'envol, lundi « premier jour de travail », vendredi « on mange du poisson »…
+
+- C'est facultatif : rien ne s'ouvre ni ne joue tout seul. La pastille de couleur reste intacte; le dessin est à côté du bouton, jamais dans la pastille.
+- Le volet n'apparaît jamais pendant une question de défi, seulement après la correction (🎯 Trouver le repère, 🧩 Choisir le son / le mot, 🎨 Nomme la forme et la couleur).
+- En mode oral, l'explication est en français, sans mot innu écrit; en mode écrit, elle montre les mots innus apparentés.
+- Les explications viennent des fiches de langue innue d'Yvette Mollen (2017) et de la liste « Months of the Year » d'innu-aimun.ca. Elles sont présentées comme une « origine possible, à valider » tant qu'une personne locutrice de Uashat ne les a pas confirmées.
+- Certains mots n'ont volontairement pas de dessin (jaune, rouge vin, brun, rose, noir, février, mars, juillet, novembre, dimanche) : l'explication suffit.
+- Le mode Classe permet de retirer le volet (`sans=derriere`).
+
+**Ajouter une explication** (pour d'autres thématiques) : ajouter une entrée dans `DM_MOTS` (`js/derriere.js`) avec l'identifiant du mot, le texte écrit (`t`), le texte oral (`o`), la source et, au besoin, un dessin de `DM_PICS`. Rien d'autre à modifier.
+
 ### Mode oral (par défaut)
 
 Au primaire, on travaille la langue parlée; l'écrit arrive au secondaire. Par défaut, Meshkanau masque donc les mots écrits en innu-aimun, la traduction française et les indications grammaticales (NA, NI…) : l'élève regarde, écoute, répète et reconnaît.
@@ -86,7 +99,7 @@ Le détail est dans la [feuille de route](ROADMAP.md). En bref :
 
 ## Utilisation
 
-L'application tient dans le fichier `index.html`, accompagné des dossiers `img/`, `fonts/` et `js/`. Le dossier `js/` contient le catalogue des thématiques et des défis (`catalogue.js`), partagé par le jeu et la page du mode Classe, le registre des réglages du mode Classe (`classe.js`) et la bibliothèque de codes QR [qrcode-generator](https://github.com/kazuhikoarase/qrcode-generator) de Kazuhiko Arase (licence MIT, `qrcode.js`). Il n'y a rien à installer : on ouvre `index.html` dans un navigateur, ou on publie le dépôt avec GitHub Pages. Une connexion Internet est nécessaire pour les sons, qui sont lus depuis leurs sites d'origine.
+L'application tient dans le fichier `index.html`, accompagné des dossiers `img/`, `fonts/` et `js/`. Le dossier `js/` contient le catalogue des thématiques et des défis (`catalogue.js`), partagé par le jeu et la page du mode Classe, le registre des réglages du mode Classe (`classe.js`), les explications de « Derrière le mot » (`derriere.js`) et la bibliothèque de codes QR [qrcode-generator](https://github.com/kazuhikoarase/qrcode-generator) de Kazuhiko Arase (licence MIT, `qrcode.js`). Il n'y a rien à installer : on ouvre `index.html` dans un navigateur, ou on publie le dépôt avec GitHub Pages. Une connexion Internet est nécessaire pour les sons, qui sont lus depuis leurs sites d'origine.
 
 Aucun compte, aucun classement, aucune donnée recueillie : la progression s'efface à la fermeture de la page. Seul le choix d'affichage des mots est conservé dans le navigateur de l'appareil.
 
@@ -96,6 +109,8 @@ Aucun compte, aucun classement, aucune donnée recueillie : la progression s'eff
 - [Atlas linguistique algonquien](https://www.atlas-ling.ca/) : phrases enregistrées par Doris Vollant (Uashat mak Mani-utenam) pour les pronoms.
 - [Dictionnaire innu-aimun.ca](https://dictionary.innu-aimun.ca/) : genre et catégorie des mots, consultés mot par mot.
 - [Grammaire d'innu-aimun.ca](https://www.innu-aimun.ca/francais/grammaire/) : pronoms personnels, genre et pluriel des noms.
+- [Fiches de langue innue d'Yvette Mollen (2017)](https://www.innu-aimun.ca/fiches-a-telecharger/) : « Les couleurs » (V6-f), « Mois de l'année » (V4-f) et « Jour de la semaine » (V3-f), pour « Derrière le mot ».
+- [Liste « Months of the Year »](https://www.innu-aimun.ca/english/dictionaries/vocabulary-lists/months-of-the-year/) d'innu-aimun.ca : sens littéral des mois.
 - Fiches papier de vocabulaire, dont la recette « Pakueshikanissat » (muffins) et la fiche des fruits et des légumes.
 
 ## Droits
