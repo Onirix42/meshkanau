@@ -1,6 +1,6 @@
 # Meshkanau : feuille de route
 
-Dernière mise à jour : 20 novembre 2026
+Dernière mise à jour : 23 novembre 2026
 
 Outil web gratuit et non commercial pour apprendre le vocabulaire et les bases
 grammaticales de l'innu-aimun (dialecte de Uashat mak Mani-utenam), en classe
@@ -133,9 +133,9 @@ Demande d'Hubert : garder les élèves concentrés sur l'exercice voulu.
       « Copier le lien », « Essayer ».
 - [x] Registre `CLASSE_REGLAGES` (`js/classe.js`) et catalogue partagé
       (`js/catalogue.js`) : un nouveau réglage s'ajoute à un seul endroit.
-- [ ] Tester avec Hubert : Cuisine → 🎯 Trouver le repère → Oral → sans consignes,
+- [x] Tester avec Hubert : Cuisine → 🎯 Trouver le repère → Oral → sans consignes,
       sur deux iPad (son sur le Wi-Fi de l'école, aucun texte français visible).
-- [ ] Valider avec Hubert la liste des aides et ce que couvrent les « consignes ».
+- [x] Valider avec Hubert la liste des aides et ce que couvrent les « consignes ».
 - [ ] Ajouter les réglages singulier/pluriel et possessifs quand les phases 2 et 3
       seront prêtes.
 - [ ] Ne pas imprimer de codes QR avant le passage au domaine meshkanau.ca
@@ -209,7 +209,7 @@ Demande d'Hubert : garder les élèves concentrés sur l'exercice voulu.
   - [ ] Son de Uashat de Kapeshkutshemuess et de Pikush : aucun
         enregistrement dans le dictionnaire ni dans les Leçons d'innu; à
         enregistrer à Uashat.
-- [ ] Comparer les couleurs du cahier avec la thématique actuelle.
+- [x] Comparer les couleurs du cahier avec la thématique actuelle.
 - [x] Mode oral prioritaire (on parle → on lit), 19 nov. 2026 : les mots
       écrits, la traduction et les indications grammaticales sont masqués par
       défaut; réglage global « Afficher les mots / Masquer les mots » conservé
