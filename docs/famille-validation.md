@@ -1,6 +1,6 @@
 # Kautishkuemit (la famille) : grille de validation
 
-Branche `thematique-famille`, préparée le 24 novembre 2026 pour la rencontre avec Noëlla Mckenzie et Virginie Michel. Rien n'est encore dans `main`.
+Thématique fusionnée dans `main` le 24 novembre 2026. Les 8 mots fournis par Noëlla Mckenzie et Virginie Michel le même jour sont dans la branche `famille-ajouts`.
 
 Toutes les formes ont le statut « à valider ». Les sons proviennent seulement de Uashat mak Mani-utenam (Leçons d'innu et Atlas linguistique, voix de Doris Vollant). Les illustrations ont été générées par IA dans le style de l'application. Convention : la fillette au chandail orange est la personne qui dit « mon, ma » ; pour les enfants, le mari, la femme, le neveu et la nièce, c'est un adulte qui parle.
 
@@ -8,7 +8,7 @@ Pour chaque ligne, cocher : forme écrite exacte, sens en français, son de Uash
 
 ## Questions générales
 
-- [ ] Titre de la thématique : « Kautishkuemit » (retenu par Éric). « Nikanishat » est placé sous « Ma parenté, mes proches ».
+- [x] Titre de la thématique : « Kautishkuemit ». « Nikanishat » est placé sous « Ma parenté, mes proches ».
 - [ ] Graphie de l'oncle : *nukumish* (son de Uashat) ou *nukumesh* (Radio-Canada) ?
 - [ ] *Nishim* sert-il bien pour le petit frère et la petite sœur ? (une seule carte pour les deux)
 - [ ] *Neka* et *Nuta* : formes pour appeler sa mère et son père, à garder comme variantes ?
@@ -16,7 +16,11 @@ Pour chaque ligne, cocher : forme écrite exacte, sens en français, son de Uash
 - [ ] *Auassiss* : « un bébé » (non possédé) ; faut-il plutôt « mon bébé » ?
 
 
-## fa1 · Nikaui, nutaui · Les parents et les grands-parents
+- [x] Genre des 8 mots ajoutés (Noëlla Mckenzie et Virginie Michel) : NAD pour Nutanishkutapanukuma, Nutanishkutapanimushuma, Nussima, Nutaiamieutauia et Nutaiamieukauia; NAP pour Kanishishiht; NA pour Nishtamushan et Mashtenushan.
+- [ ] Nishtamushan et Mashtenushan valent-ils aussi pour une fille (l'aînée, la benjamine) ?
+
+
+## fa1 · Les parents et les grands-parents
 
 | Image | Innu | Français | Variante | Son de Uashat | Source | Valide ? |
 |---|---|---|---|---|---|---|
@@ -24,6 +28,8 @@ Pour chaque ligne, cocher : forme écrite exacte, sens en français, son de Uash
 | `img/fa_father.webp` | Nutaui | Mon père | Nuta (Pour l’appeler (papa)) | oui | Radio-Canada, « Kautishkuemit – La famille » (lexique); innu-aimun.ca, fiche G9-f « Les noms animés dépendants » | [ ] |
 | `img/fa_grandmother.webp` | Nukum | Ma grand-mère |  | oui | Radio-Canada, « Kautishkuemit – La famille » (lexique); innu-aimun.ca, fiche G9-f « Les noms animés dépendants » | [ ] |
 | `img/fa_grandfather.webp` | Nimushum | Mon grand-père |  | oui | Radio-Canada, « Kautishkuemit – La famille » (lexique); innu-aimun.ca, fiche G9-f « Les noms animés dépendants » | [ ] |
+| `img/fa_ggmother.webp` | Nutanishkutapanukuma | Mon arrière-grand-mère |  | à enregistrer | Noëlla Mckenzie et Virginie Michel (rencontre du 24 nov. 2026) | [ ] |
+| `img/fa_ggfather.webp` | Nutanishkutapanimushuma | Mon arrière-grand-père |  | à enregistrer | Noëlla Mckenzie et Virginie Michel (rencontre du 24 nov. 2026) | [ ] |
 
 ## fa2 · La fratrie · Les grands et les petits
 
@@ -32,6 +38,7 @@ Pour chaque ligne, cocher : forme écrite exacte, sens en français, son de Uash
 | `img/fa_obrother.webp` | Nishtesh | Mon grand frère |  | oui | Radio-Canada, « Kautishkuemit – La famille » (lexique); Innu-aimitutau! (Atlas linguistique), section La famille, colonne Uashat | [ ] |
 | `img/fa_osister.webp` | Nimish | Ma grande sœur |  | oui | Radio-Canada, « Kautishkuemit – La famille » (lexique); Innu-aimitutau! (Atlas linguistique), section La famille, colonne Uashat | [ ] |
 | `img/fa_ysibling.webp` | Nishim | Mon petit frère ou ma petite sœur |  | oui | Radio-Canada, « Kautishkuemit – La famille » (lexique); Innu-aimitutau! (Atlas linguistique), section La famille, colonne Uashat | [ ] |
+| `img/fa_twins.webp` | Kanishishiht | Les jumeaux |  | à enregistrer | Noëlla Mckenzie et Virginie Michel (rencontre du 24 nov. 2026) | [ ] |
 
 ## fa3 · La famille élargie · Oncles, tantes, cousins
 
@@ -52,6 +59,9 @@ Pour chaque ligne, cocher : forme écrite exacte, sens en français, son de Uash
 | `img/fa_son.webp` | Nikuss | Mon fils |  | à enregistrer | innu-aimun.ca, fiche G9-f « Les noms animés dépendants » | [ ] |
 | `img/fa_daughter.webp` | Nitanish | Ma fille |  | à enregistrer | innu-aimun.ca, fiche G9-f « Les noms animés dépendants » | [ ] |
 | `img/fa_baby.webp` | Auassiss | Un bébé |  | à enregistrer | innu-aimun.ca, « Voyelles brèves en début de mot » (auassiss : bébé) | [ ] |
+| `img/fa_eldest.webp` | Nishtamushan | L’aîné de la famille |  | à enregistrer | Noëlla Mckenzie et Virginie Michel (rencontre du 24 nov. 2026) | [ ] |
+| `img/fa_youngest.webp` | Mashtenushan | Le benjamin de la famille |  | à enregistrer | Noëlla Mckenzie et Virginie Michel (rencontre du 24 nov. 2026) | [ ] |
+| `img/fa_grandchild.webp` | Nussima | Mon petit-fils ou ma petite-fille |  | à enregistrer | Noëlla Mckenzie et Virginie Michel (rencontre du 24 nov. 2026) | [ ] |
 
 ## fa5 · Les liens du cœur
 
@@ -61,26 +71,17 @@ Pour chaque ligne, cocher : forme écrite exacte, sens en français, son de Uash
 | `img/fa_wife.webp` | Nitishkuem | Ma femme |  | à enregistrer | Innu-aimitutau! (Atlas linguistique), section La famille, colonne Uashat | [ ] |
 | `img/fa_sweetheart.webp` | Nuitimimush | Mon amoureux, mon amoureuse | Nitimush (Aussi écrit (Mamit)) | à enregistrer | Le Nord-Côtier, « Le lexique de la Saint-Valentin en innu-aimun » (2023); innu-aimun.ca, fiche G10-b | [ ] |
 | `img/fa_relatives.webp` | Nikanishat | Ma parenté, mes proches |  | à enregistrer | Labrador Innu-Aimun (dialecte de Sheshatshiu), liste des termes de parenté; Innu nikamu (PUL) : nikanish, ma parenté | [ ] |
+| `img/fa_godfather.webp` | Nutaiamieutauia | Mon parrain |  | à enregistrer | Noëlla Mckenzie et Virginie Michel (rencontre du 24 nov. 2026) | [ ] |
+| `img/fa_godmother.webp` | Nutaiamieukauia | Ma marraine |  | à enregistrer | Noëlla Mckenzie et Virginie Michel (rencontre du 24 nov. 2026) | [ ] |
 
 ## Mots à compléter (hors jeu pour l'instant)
 
-Les illustrations sont prêtes dans `img/`, mais ces mots ne sont pas dans le jeu : aucune forme de Uashat n'a été trouvée dans les sources consultées. Il suffit d'écrire la forme et la provenance pour les ajouter.
+| Image | Français | Forme de Uashat |
+|---|---|---|
+| `img/fa_ancestors.webp` | Mes ancêtres | |
+| `img/fa_family.webp` | Ma famille | |
 
-| Image | Français | Pistes trouvées | Forme de Uashat |
-|---|---|---|---|
-| `img/fa_ggmother.webp` | Mon arrière-grand-mère |  | |
-| `img/fa_ggfather.webp` | Mon arrière-grand-père |  | |
-| `img/fa_ancestors.webp` | Mes ancêtres |  | |
-| `img/fa_eldest.webp` | L'aîné, l'aînée (le plus vieux de la famille) |  | |
-| `img/fa_youngest.webp` | Le benjamin, la benjamine (le plus jeune) ; aussi « cadet » |  | |
-| `img/fa_grandson.webp` | Mon petit-fils | Silvy (XVIIe s.) : *n8chisin*, « mon petit-fils ou ma petite-fille » ([mémoire de J. Bishop](https://www.innu-aimun.ca/Docs/Other%20Resources/Academic%20Papers/JohnBishop/jbishopMAthesis3.pdf)) | |
-| `img/fa_granddaughter.webp` | Ma petite-fille | même piste que le petit-fils | |
-| `img/fa_twins.webp` | Les jumeaux | *kanishishits* en mushuau ([glossaire médical](https://www.innu-aimun.ca/wp-content/uploads/2019/08/ILP-Medical-Glossary-INSIDES-MUS.pdf)) ; forme de Uashat ? | |
-| `img/fa_godfather.webp` | Mon parrain |  | |
-| `img/fa_godmother.webp` | Ma marraine |  | |
-| `img/fa_family.webp` | Ma famille | Kautishkuemit (titre) ou autre forme possédée ? | |
-
-Pas d'image prévue pour le filleul ni la filleule ; à ajouter si le mot est retenu.
+`img/fa_grandson.webp` et `img/fa_granddaughter.webp` restent dans le dépôt; la carte Nussima les réunit dans `img/fa_grandchild.webp`.
 
 ## Sources
 
