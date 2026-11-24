@@ -16,7 +16,7 @@ Pour chaque ligne, cocher : forme écrite exacte, sens en français, son de Uash
 - [ ] *Auassiss* : « un bébé » (non possédé) ; faut-il plutôt « mon bébé » ?
 
 
-- [ ] Genre (catégorie grammaticale) des 8 mots ajoutés : Nutanishkutapanukuma, Nutanishkutapanimushuma, Kanishishiht, Nishtamushan, Mashtenushan, Nussima, Nutaiamieutauia, Nutaiamieukauia.
+- [x] Genre des 8 mots ajoutés (Noëlla Mckenzie et Virginie Michel) : NAD pour Nutanishkutapanukuma, Nutanishkutapanimushuma, Nussima, Nutaiamieutauia et Nutaiamieukauia; NAP pour Kanishishiht; NA pour Nishtamushan et Mashtenushan.
 - [ ] Nishtamushan et Mashtenushan valent-ils aussi pour une fille (l'aînée, la benjamine) ?
 
 

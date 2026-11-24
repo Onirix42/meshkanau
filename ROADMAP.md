@@ -256,9 +256,9 @@ sur la provenance du mot. Il enrichit la fiche sans nuire au jeu.
 - [x] Nouvelle thématique Kautishkuemit (la famille), fusionnée dans `main`
       le 24 nov. 2026 : 29 mots en 5 illustrations, 12 avec un son de Uashat.
       Grille dans `docs/famille-validation.md`.
-  - [ ] Branche `famille-ajouts` : 8 mots fournis par Noëlla et Virginie
-        (arrière-grands-parents, jumeaux, aîné, benjamin, petit-enfant,
-        parrain, marraine); genre à indiquer.
+  - [x] 8 mots fournis par Noëlla et Virginie (arrière-grands-parents,
+        jumeaux, aîné, benjamin, petit-enfant, parrain, marraine), avec leur
+        genre (NAD, NAP, NA); fusionnés dans `main` le 24 nov. 2026.
   - [ ] Mots en attente, illustrations prêtes : mes ancêtres, ma famille.
   - [ ] Sons à enregistrer à Uashat : 9 mots de départ et les 8 mots ajoutés.
 - [ ] Affichage d'une planche de 9 mots sur le tableau interactif.
