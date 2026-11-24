@@ -269,6 +269,8 @@ sur la provenance du mot. Il enrichit la fiche sans nuire au jeu.
 - [x] Chiffre 10 : Kutunnu au lieu de Peikunnu (choix de l'équipe, 24 nov.
       2026), aussi pour 11 à 15, 10 000 et les défis « Construis le nombre » et
       « La date »; Peikunnu reste en variante. Le son était déjà Kutunnu.
+- [x] « Construis le nombre » : niveaux 5 et 6 chiffres retirés (24 nov.
+      2026); le défi s'arrête à 4 chiffres (jusqu'à 9 999).
 - [ ] Affichage d'une planche de 9 mots sur le tableau interactif.
 - [ ] Nouvelles thématiques tirées du plan de cours annuel d'Hubert.
 
