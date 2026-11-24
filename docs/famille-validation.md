@@ -19,6 +19,7 @@ Pour chaque ligne, cocher : forme écrite exacte, sens en français, son de Uash
 - [x] Genre des 8 mots ajoutés (Noëlla Mckenzie et Virginie Michel) : NAD pour Nutanishkutapanukuma, Nutanishkutapanimushuma, Nussima, Nutaiamieutauia et Nutaiamieukauia; NAP pour Kanishishiht; NA pour Nishtamushan et Mashtenushan.
 - [x] Nishtamushan et Mashtenushan valent aussi pour une fille (l'aînée, la benjamine).
 - [x] Genre de Tshiashinnuat (les ancêtres) : NA.
+- [ ] Genre de Nishtaua (mon beau-frère) et de Nitimua (ma belle-sœur) ? Le mot change-t-il selon que c'est un homme ou une femme qui parle ?
 
 
 ## fa1 · Les parents et les grands-parents
@@ -42,7 +43,7 @@ Pour chaque ligne, cocher : forme écrite exacte, sens en français, son de Uash
 | `img/fa_ysibling.webp` | Nishim | Mon petit frère ou ma petite sœur |  | oui | Radio-Canada, « Kautishkuemit – La famille » (lexique); Innu-aimitutau! (Atlas linguistique), section La famille, colonne Uashat | [ ] |
 | `img/fa_twins.webp` | Kanishishiht | Les jumeaux |  | à enregistrer | Noëlla Mckenzie et Virginie Michel (rencontre du 24 nov. 2026) | [ ] |
 
-## fa3 · La famille élargie · Oncles, tantes, cousins
+## fa3 · La famille élargie · Oncles, tantes, cousins, beaux-frères et belles-sœurs
 
 | Image | Innu | Français | Variante | Son de Uashat | Source | Valide ? |
 |---|---|---|---|---|---|---|
@@ -51,6 +52,8 @@ Pour chaque ligne, cocher : forme écrite exacte, sens en français, son de Uash
 | `img/fa_cousin.webp` | Nikanish | Mon cousin, ma cousine |  | à enregistrer | Labrador Innu-Aimun (dialecte de Sheshatshiu), liste des termes de parenté; Innu nikamu (PUL) : nikanish, ma parenté | [ ] |
 | `img/fa_nephew.webp` | Nitushim | Mon neveu |  | à enregistrer | Labrador Innu-Aimun (dialecte de Sheshatshiu), liste des termes de parenté | [ ] |
 | `img/fa_niece.webp` | Nitushimishkuem | Ma nièce |  | à enregistrer | Labrador Innu-Aimun (dialecte de Sheshatshiu), liste des termes de parenté | [ ] |
+| `img/fa_brotherinlaw.webp` | Nishtaua | Mon beau-frère |  | à enregistrer | Noëlla Mckenzie et Virginie Michel (rencontre du 24 nov. 2026) | [ ] |
+| `img/fa_sisterinlaw.webp` | Nitimua | Ma belle-sœur |  | à enregistrer | Noëlla Mckenzie et Virginie Michel (rencontre du 24 nov. 2026) | [ ] |
 
 ## fa4 · Nitauassimat · Les enfants
 
