@@ -38,7 +38,7 @@ Sur les fiches des couleurs, des mois et des jours, un petit dessin au trait et 
 - C'est facultatif : rien ne s'ouvre ni ne joue tout seul. La pastille de couleur reste intacte; le dessin est à côté du bouton, jamais dans la pastille.
 - Le volet n'apparaît jamais pendant une question de défi, seulement après la correction (🎯 Trouver le repère, 🧩 Choisir le son / le mot, 🎨 Nomme la forme et la couleur).
 - En mode oral, l'explication est en français, sans mot innu écrit; en mode écrit, elle montre les mots innus apparentés.
-- Les explications viennent des fiches de langue innue d'Yvette Mollen (2017) et de la liste « Months of the Year » d'innu-aimun.ca. Elles sont présentées comme une « origine possible, à valider » tant qu'une personne locutrice de Uashat ne les a pas confirmées.
+- Les explications viennent des fiches de langue innue d'Yvette Mollen (2017) et de la liste « Months of the Year » d'innu-aimun.ca. Les sources sont citées dans la page À propos, pas dans le volet; les explications restent « à valider » tant qu'une personne locutrice de Uashat ne les a pas confirmées.
 - Certains mots n'ont volontairement pas de dessin (jaune, rouge vin, brun, rose, noir, février, mars, juillet, novembre, dimanche) : l'explication suffit.
 - Le mode Classe permet de retirer le volet (`sans=derriere`).
 

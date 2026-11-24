@@ -16,6 +16,8 @@
    - groupe : texte commun à une thématique (clé de DM_GROUPES), facultatif.
    - statut : 'à valider' tant qu'une personne locutrice de Uashat n'a pas
          confirmé l'explication; 'validé' ensuite (avec vsrc).
+   La source et le statut ne s'affichent pas dans le volet : les sources sont
+   citées dans la page À propos (#apropos).
    Une explication « possible » reste présentée comme une piste, jamais comme
    une certitude. Ne rien ajouter qui ne vient pas d'une source ou d'une
    personne de la communauté.
@@ -175,14 +177,9 @@ function derriereHTML(w, oral, ctx) {
   const dessin = d.sem !== undefined ? dmSemaine(d.sem) : (d.pic ? DM_PICS[d.pic] : '');
   const pic = dessin ? '<svg class="dmpic" viewBox="' + vb + '" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">' + dessin + '</svg>' : '';
   const g = d.groupe && DM_GROUPES[d.groupe];
-  const srcs = (d.src || []).map(k => DM_SOURCES[k]).filter(Boolean)
-    .map(s => '<a href="' + s.url + '" target="_blank" rel="noopener">' + s.label + '</a>').join(' · ');
-  const statut = d.statut === 'validé'
-    ? (d.vsrc || 'Validé')
-    : 'Origine possible, à valider avec une personne locutrice de Uashat.';
   const typo = x => x.replace(/ ([:;»])/g, '\u00a0$1').replace(/« /g, '«\u00a0');
   return '<details class="dm dm-' + ctx + '"><summary>' + pic + '<span class="dmlabel">Derrière le mot</span></summary>'
     + '<div class="dmbody"><p>' + typo(oral ? d.o : d.t) + '</p>'
     + (g ? '<p class="dmgroupe">' + typo(oral ? g.o : g.t) + '</p>' : '')
-    + '<p class="dmsrc">' + statut + (srcs ? ' Source' + (d.src.length > 1 ? 's' : '') + '\u00a0: ' + srcs + '.' : '') + '</p></div></details>';
+    + '</div></details>';
 }
