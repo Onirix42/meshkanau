@@ -17,7 +17,8 @@ Pour chaque ligne, cocher : forme écrite exacte, sens en français, son de Uash
 
 
 - [x] Genre des 8 mots ajoutés (Noëlla Mckenzie et Virginie Michel) : NAD pour Nutanishkutapanukuma, Nutanishkutapanimushuma, Nussima, Nutaiamieutauia et Nutaiamieukauia; NAP pour Kanishishiht; NA pour Nishtamushan et Mashtenushan.
-- [ ] Nishtamushan et Mashtenushan valent-ils aussi pour une fille (l'aînée, la benjamine) ?
+- [x] Nishtamushan et Mashtenushan valent aussi pour une fille (l'aînée, la benjamine).
+- [ ] Genre de Tshiashinnuat (les ancêtres) ?
 
 
 ## fa1 · Les parents et les grands-parents
@@ -30,6 +31,7 @@ Pour chaque ligne, cocher : forme écrite exacte, sens en français, son de Uash
 | `img/fa_grandfather.webp` | Nimushum | Mon grand-père |  | oui | Radio-Canada, « Kautishkuemit – La famille » (lexique); innu-aimun.ca, fiche G9-f « Les noms animés dépendants » | [ ] |
 | `img/fa_ggmother.webp` | Nutanishkutapanukuma | Mon arrière-grand-mère |  | à enregistrer | Noëlla Mckenzie et Virginie Michel (rencontre du 24 nov. 2026) | [ ] |
 | `img/fa_ggfather.webp` | Nutanishkutapanimushuma | Mon arrière-grand-père |  | à enregistrer | Noëlla Mckenzie et Virginie Michel (rencontre du 24 nov. 2026) | [ ] |
+| `img/fa_ancestors.webp` | Tshiashinnuat | Les ancêtres |  | à enregistrer | Noëlla Mckenzie et Virginie Michel (rencontre du 24 nov. 2026) | [ ] |
 
 ## fa2 · La fratrie · Les grands et les petits
 
@@ -59,8 +61,8 @@ Pour chaque ligne, cocher : forme écrite exacte, sens en français, son de Uash
 | `img/fa_son.webp` | Nikuss | Mon fils |  | à enregistrer | innu-aimun.ca, fiche G9-f « Les noms animés dépendants » | [ ] |
 | `img/fa_daughter.webp` | Nitanish | Ma fille |  | à enregistrer | innu-aimun.ca, fiche G9-f « Les noms animés dépendants » | [ ] |
 | `img/fa_baby.webp` | Auassiss | Un bébé |  | à enregistrer | innu-aimun.ca, « Voyelles brèves en début de mot » (auassiss : bébé) | [ ] |
-| `img/fa_eldest.webp` | Nishtamushan | L’aîné de la famille |  | à enregistrer | Noëlla Mckenzie et Virginie Michel (rencontre du 24 nov. 2026) | [ ] |
-| `img/fa_youngest.webp` | Mashtenushan | Le benjamin de la famille |  | à enregistrer | Noëlla Mckenzie et Virginie Michel (rencontre du 24 nov. 2026) | [ ] |
+| `img/fa_eldest.webp` | Nishtamushan | L’aîné ou l’aînée de la famille |  | à enregistrer | Noëlla Mckenzie et Virginie Michel (rencontre du 24 nov. 2026) | [ ] |
+| `img/fa_youngest.webp` | Mashtenushan | Le benjamin ou la benjamine de la famille |  | à enregistrer | Noëlla Mckenzie et Virginie Michel (rencontre du 24 nov. 2026) | [ ] |
 | `img/fa_grandchild.webp` | Nussima | Mon petit-fils ou ma petite-fille |  | à enregistrer | Noëlla Mckenzie et Virginie Michel (rencontre du 24 nov. 2026) | [ ] |
 
 ## fa5 · Les liens du cœur
@@ -78,7 +80,6 @@ Pour chaque ligne, cocher : forme écrite exacte, sens en français, son de Uash
 
 | Image | Français | Forme de Uashat |
 |---|---|---|
-| `img/fa_ancestors.webp` | Mes ancêtres | |
 | `img/fa_family.webp` | Ma famille | |
 
 `img/fa_grandson.webp` et `img/fa_granddaughter.webp` restent dans le dépôt; la carte Nussima les réunit dans `img/fa_grandchild.webp`.
