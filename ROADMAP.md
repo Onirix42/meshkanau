@@ -271,6 +271,11 @@ sur la provenance du mot. Il enrichit la fiche sans nuire au jeu.
       « La date »; Peikunnu reste en variante. Le son était déjà Kutunnu.
 - [x] « Construis le nombre » : niveaux 5 et 6 chiffres retirés (24 nov.
       2026); le défi s'arrête à 4 chiffres (jusqu'à 9 999).
+- [x] « Animé ou inanimé ? » : 3e série « Au hasard dans toute l'appli »
+      (24 nov. 2026). Seize noms (8 animés, 8 inanimés) tirés parmi tous les
+      mots dont le genre et le son sont connus, renouvelés à chaque ouverture,
+      à chaque « Nouveau défi » et avec le bouton « D'autres mots ». Les deux
+      séries fixes de 16 mots restent inchangées.
 - [ ] Affichage d'une planche de 9 mots sur le tableau interactif.
 - [ ] Nouvelles thématiques tirées du plan de cours annuel d'Hubert.
 

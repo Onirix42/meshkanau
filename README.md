@@ -29,7 +29,7 @@ Les **défis** propres à certaines thématiques sont regroupés sous « Défis 
 - **🔢 Construis le nombre** (chiffres) : on choisit 2, 3 ou 4 chiffres, puis on écrit le nombre en mots avec ses parties reliées par « ashu ».
 - **🎨 Nomme la forme et la couleur** (formes et couleurs) : une forme colorée s'affiche, on choisit le mot de la forme, puis celui de la couleur.
 - **📅 La date d'aujourd'hui** (calendrier) : on écrit la date du jour en trois parties, jour de la semaine, nombre (relié par « ashu ») et mois, par exemple « Ushkat-atushkan, nishunnu ashu nishtᵘ takuatshi-pishimᵘ » (lundi 23 novembre), puis cinq autres dates.
-- **🗂️ Trie les noms** (animé ou inanimé ?) : on range chaque nom dans la bonne catégorie grammaticale.
+- **🗂️ Trie les noms** (animé ou inanimé ?) : on range chaque nom dans la bonne catégorie grammaticale. Dans la thématique « Animé ou inanimé ? », la série « Au hasard dans toute l'appli » tire seize noms parmi tous les mots de l'application à chaque partie.
 
 ### 🔍 Derrière le mot
 
