@@ -254,12 +254,15 @@ sur la provenance du mot. Il enrichit la fiche sans nuire au jeu.
   - [ ] Enregistrements manquants : les illustrations sans assez de sons
         (ex. pronoms de priorité) ne permettent pas encore les défis à l'oral.
 - [x] Nouvelle thématique Kautishkuemit (la famille), fusionnée dans `main`
-      le 24 nov. 2026 : 29 mots en 5 illustrations, 12 avec un son de Uashat.
+      le 24 nov. 2026 : 30 mots en 5 illustrations, 12 avec un son de Uashat.
       Grille dans `docs/famille-validation.md`.
   - [x] 8 mots fournis par Noëlla et Virginie (arrière-grands-parents,
         jumeaux, aîné, benjamin, petit-enfant, parrain, marraine), avec leur
         genre (NAD, NAP, NA); fusionnés dans `main` le 24 nov. 2026.
-  - [ ] Mots en attente, illustrations prêtes : mes ancêtres, ma famille.
+  - [x] Tshiashinnuat (les ancêtres) ajouté; Nishtamushan et Mashtenushan
+        valent pour une fille comme pour un garçon (24 nov. 2026).
+  - [x] Genre de Tshiashinnuat : NA.
+  - [ ] Mot en attente, illustration prête : ma famille.
   - [ ] Sons à enregistrer à Uashat : 9 mots de départ et les 8 mots ajoutés.
 - [ ] Affichage d'une planche de 9 mots sur le tableau interactif.
 - [ ] Nouvelles thématiques tirées du plan de cours annuel d'Hubert.
