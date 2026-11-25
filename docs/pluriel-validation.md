@@ -19,7 +19,7 @@ Toutes les formes ont le statut « à valider ». Dans le jeu, on bascule d'**�
 - [ ] **Toujours au pluriel** : Ussishikukauna (lunettes), Utashpishuna (bretelles), Tshiashinnuat (ancêtres), Kanishishiht (jumeaux), Nitauassimat (mes enfants), Nikanishat (ma parenté), Nushkuauat (farine), Nipisha (thé). Le singulier *utashpishun* existe-t-il ?
 - [ ] **Sans pluriel dans le jeu** : les parties uniques du corps (tête, visage, nez, bouche, langue, menton, cou, dos, front, poitrine, main gauche, main droite), ma mère, mon père, mon mari, ma femme, l'aîné, le benjamin, les mois et les jours, et les ingrédients qui ne se comptent pas.
 - [ ] **Obviatif** : Umamama (son sourcil), Utenikuma (sa narine) et Ushkashia (son ongle) gardent la même forme au pluriel (fiche G5-f : peikᵘ atikua, mitshet atikua). Est-ce juste ?
-- [ ] **Ishkuteutapan** (le train) : animé dans le jeu (Ishkuteutapanat), inanimé dans la fiche G6-f (Ishkuteutapana). Retiré du défi « Le bon pluriel » en attendant.
+- [x] **Ishkuteutapan** (le train) : inanimé (NI) à Uashat, pluriel **Ishkuteutapana**, comme la fiche G6-f (confirmé par Eric Boily le 25 nov. 2026). La forme animée appartient au parler de Mamit.
 - [ ] **Shumin** (raisin) : le jeu donne Shuminat; la fiche G5-f écrit *shiminat*.
 - [ ] **Nikanishat** : pluriel de Nikanish (mes cousins) et mot « ma parenté » à la fois : même mot ?
 - [ ] **Défi des muffins** : les petits fruits y restent au pluriel, comme dans la recette (*inniminana kie ma kutaka minisha*).
@@ -186,7 +186,7 @@ Toutes les formes ont le statut « à valider ». Dans le jeu, on bascule d'**�
 | Kamakunueshiutapan | Voiture de police | NI | **Kamakunueshiutapana** | Voitures de police | règle -at / -a |  | [ ] |
 | Akushiutapan | Ambulance | NI | **Akushiutapana** | Ambulances | règle -at / -a |  | [ ] |
 | Ashtueitsheutapan | Camion de pompier | NI | **Ashtueitsheutapana** | Camions de pompier | règle -at / -a |  | [ ] |
-| Ishkuteutapan | Train | NA | **Ishkuteutapanat** | Trains | règle -at / -a — Le jeu classe ishkuteutapan comme animé (Noëlla Mckenzie), mais la fiche G6-f le donne comme inanimé : Ishkuteutapana. |  | [ ] |
+| Ishkuteutapan | Train | NI | **Ishkuteutapana** | Trains | fiche G6-f |  | [ ] |
 | Pipunitapan | Motoneige | NI | **Pipunitapana** | Motoneiges | règle -at / -a |  | [ ] |
 | Utapanashkᵘ | Tabagane | NA | **Utapanashkuat** | Tabaganes | règle -at / -a |  | [ ] |
 | Nepissik | Bicyclette | NI | **Nepissika** | Bicyclettes | règle -at / -a |  | [ ] |
@@ -326,7 +326,7 @@ Toutes les formes ont le statut « à valider ». Dans le jeu, on bascule d'**�
 | Aiamieutshuap | Une église | NI | **Aiamieutshuapa** | Des églises | règle -at / -a |  | [ ] |
 | Atautshuap | Un magasin | NI | **Atautshuapa** | Des magasins | règle -at / -a |  | [ ] |
 | Utapan | Une voiture | NI | **Utapana** | Des voitures | page « Le nombre des noms » |  | [ ] |
-| Ishkuteutapan | Un train | NA | **Ishkuteutapanat** | Des trains | règle -at / -a — Le jeu classe ishkuteutapan comme animé (Noëlla Mckenzie), mais la fiche G6-f le donne comme inanimé : Ishkuteutapana. |  | [ ] |
+| Ishkuteutapan | Un train | NI | **Ishkuteutapana** | Des trains | fiche G6-f |  | [ ] |
 | Akunishkueun | Un chapeau, une tuque | NI | **Akunishkueuna** | Des chapeaux, des tuques | règle -at / -a |  | [ ] |
 | Akup | Une robe; un manteau | NI | **Akupa** | Des robes; des manteaux | règle -at / -a |  | [ ] |
 | Patshuianish | Une chemise | NI | **Patshuianisha** | Des chemises | règle -at / -a |  | [ ] |

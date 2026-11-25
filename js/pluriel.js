@@ -65,6 +65,8 @@ const PLURIEL_FORMES = {
   /* Formes plurielles qui étaient affichées dans le jeu (fiches), avant le passage
      au singulier du 25 nov. 2026 */
   hair: { pl: 'Pishkueuna', src: 'fiche' },
+  t_train: { pl: 'Ishkuteutapana', src: 'G6' },
+  g_g1_12: { pl: 'Ishkuteutapana', src: 'G6' },
   fa_child: { pl: 'Nitauassimat', src: 'fiche', audio: 'https://www.atlas-ling.ca/sounds/Uashat-DVollant/family/These%20are%20my%20children-Uashat-DVollant.mp3', audioNote: 'Phrase enregistrée à Uashat : « Nitauassimat utshenat. » (Ce sont mes enfants.)', phrase: true },
   ve_gloves: { pl: 'Ninikashtishat', src: 'fiche' },
   ve_mittens: { pl: 'Ashtishat', src: 'fiche' },
@@ -119,10 +121,7 @@ const PLURIEL_SENS = ['head', 'face', 'chest', 'body_all', 'neck', 'back', 'lowe
 
 /* Pluriels à confirmer avant de les afficher (raison donnée à l'équipe) */
 /* Pluriel montré selon le genre du jeu, mais retiré du défi « Le bon pluriel » tant que l'équipe n'a pas tranché */
-const PLURIEL_DOUTE = {
-  t_train: 'Le jeu classe ishkuteutapan comme animé (Noëlla Mckenzie), mais la fiche G6-f le donne comme inanimé : Ishkuteutapana.',
-  g_g1_12: 'Le jeu classe ishkuteutapan comme animé (Noëlla Mckenzie), mais la fiche G6-f le donne comme inanimé : Ishkuteutapana.'
-};
+const PLURIEL_DOUTE = {};
 const PLURIEL_ATTENTE = {
   calf: 'Utashtan est animé ou inanimé selon la phrase : -at ou -a ?',
   t_ship: 'Ishkuteu-ush est animé (NA) : garde-t-il ush → uta comme les canots, ou prend-il -at ?',
