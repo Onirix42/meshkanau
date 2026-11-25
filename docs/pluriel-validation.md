@@ -116,8 +116,8 @@ Toutes les formes ont le statut « à valider ». Dans le jeu, on bascule d'**�
 | Nitishkuem | Ma femme | NAD | **— un seul** |  |  |  | [ ] |
 | Nuitimimush | Mon amoureux, mon amoureuse | NAD | **— un seul** |  |  |  | [ ] |
 | Nikanishat | Ma parenté, mes proches | NAD | **(toujours au pluriel)** |  | Ma parenté, mes proches : le mot est au pluriel (-at, nom animé). |  | [ ] |
-| Nutaiamieutauia | Mon parrain | NAD | **à confirmer** |  | Le mot se termine déjà par -a : quel est son pluriel ? |  | [ ] |
-| Nutaiamieukauia | Ma marraine | NAD | **à confirmer** |  | Le mot se termine déjà par -a : quel est son pluriel ? |  | [ ] |
+| Nitaiamieutauia | Mon parrain | NAD | **à confirmer** |  | Le mot se termine déjà par -a : quel est son pluriel ? |  | [ ] |
+| Nitaiamieukauia | Ma marraine | NAD | **à confirmer** |  | Le mot se termine déjà par -a : quel est son pluriel ? |  | [ ] |
 
 ## Les animaux de la forêt · Aueshishat
 

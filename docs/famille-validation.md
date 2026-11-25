@@ -16,7 +16,7 @@ Pour chaque ligne, cocher : forme écrite exacte, sens en français, son de Uash
 - [ ] *Auassiss* : « un bébé » (non possédé) ; faut-il plutôt « mon bébé » ?
 
 
-- [x] Genre des 8 mots ajoutés (Noëlla Mckenzie et Virginie Michel) : NAD pour Nutanishkutapanukuma, Nutanishkutapanimushuma, Nussima, Nutaiamieutauia et Nutaiamieukauia; NAP pour Kanishishiht; NA pour Nishtamushan et Mashtenushan.
+- [x] Genre des 8 mots ajoutés (Noëlla Mckenzie et Virginie Michel) : NAD pour Nutanishkutapanukuma, Nutanishkutapanimushuma, Nussima, Nitaiamieutauia et Nitaiamieukauia; NAP pour Kanishishiht; NA pour Nishtamushan et Mashtenushan.
 - [x] Nishtamushan et Mashtenushan valent aussi pour une fille (l'aînée, la benjamine).
 - [x] Genre de Tshiashinnuat (les ancêtres) : NA.
 - [ ] Genre de Nishtaua (mon beau-frère) et de Nitimua (ma belle-sœur) ? Le mot change-t-il selon que c'est un homme ou une femme qui parle ?
@@ -85,8 +85,8 @@ Ces trois mots remplacent Nikanish (« mon cousin, ma cousine »), qui venait du
 | `img/fa_wife.webp` | Nitishkuem | Ma femme |  | à enregistrer | Innu-aimitutau! (Atlas linguistique), section La famille, colonne Uashat | [ ] |
 | `img/fa_sweetheart.webp` | Nuitimimush | Mon amoureux, mon amoureuse | Nitimush (Aussi écrit (Mamit)) | à enregistrer | Le Nord-Côtier, « Le lexique de la Saint-Valentin en innu-aimun » (2023); innu-aimun.ca, fiche G10-b | [ ] |
 | `img/fa_relatives.webp` | Nikanishat | Ma parenté, mes proches |  | à enregistrer | Labrador Innu-Aimun (dialecte de Sheshatshiu), liste des termes de parenté; Innu nikamu (PUL) : nikanish, ma parenté | [ ] |
-| `img/fa_godfather.webp` | Nutaiamieutauia | Mon parrain |  | à enregistrer | Noëlla Mckenzie et Virginie Michel (rencontre du 24 nov. 2026) | [ ] |
-| `img/fa_godmother.webp` | Nutaiamieukauia | Ma marraine |  | à enregistrer | Noëlla Mckenzie et Virginie Michel (rencontre du 24 nov. 2026) | [ ] |
+| `img/fa_godfather.webp` | Nitaiamieutauia | Mon parrain |  | à enregistrer | Noëlla Mckenzie et Virginie Michel (rencontre du 24 nov. 2026) ; graphie corrigée le 25 nov. 2026 | [ ] |
+| `img/fa_godmother.webp` | Nitaiamieukauia | Ma marraine |  | à enregistrer | Noëlla Mckenzie et Virginie Michel (rencontre du 24 nov. 2026) ; graphie corrigée le 25 nov. 2026 | [ ] |
 
 ## Mots à compléter (hors jeu pour l'instant)
 
