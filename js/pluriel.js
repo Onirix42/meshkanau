@@ -132,9 +132,9 @@ const PLURIEL_ATTENTE = {
   fa_godmother: 'Le mot se termine déjà par -a : quel est son pluriel ?',
   fa_brotherinlaw: 'Genre à confirmer avant le pluriel.',
   fa_sisterinlaw: 'Genre à confirmer avant le pluriel.',
-  fa_cousin_m: 'Nushteshikauna se termine déjà par -a : quel est son pluriel ?',
-  fa_cousin_f: 'Numishikauna se termine déjà par -a : quel est son pluriel ?',
-  fa_cousin_y: 'Nushimikauna se termine déjà par -a : quel est son pluriel ?'
+  fa_cousin_m: 'Nishteshikauna se termine déjà par -a : quel est son pluriel ?',
+  fa_cousin_f: 'Nimishikauna se termine déjà par -a : quel est son pluriel ?',
+  fa_cousin_y: 'Nishimikauna se termine déjà par -a : quel est son pluriel ?'
 };
 
 /* Traductions françaises au pluriel, quand la règle simple ne suffit pas */

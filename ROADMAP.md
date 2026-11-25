@@ -274,7 +274,7 @@ Branche `phase2-pluriel` (25 nov. 2026), à tester et à valider avant la fusion
 - [x] Nouvelle thématique Kautishkuemit (la famille), fusionnée dans `main`
       le 24 nov. 2026 : 32 mots en 5 illustrations, 12 avec un son de Uashat. Le 25 nov. 2026,
       Nikanish est remplacé par trois mots (cousin aîné, cousine aînée,
-      cousin·e cadet·te) dans une sixième illustration : 34 mots.
+      cousin·e cadet·te) regroupés dans « La famille élargie » : 34 mots.
       Grille dans `docs/famille-validation.md`.
   - [x] 8 mots fournis par Noëlla et Virginie (arrière-grands-parents,
         jumeaux, aîné, benjamin, petit-enfant, parrain, marraine), avec leur

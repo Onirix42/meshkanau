@@ -43,26 +43,21 @@ Pour chaque ligne, cocher : forme écrite exacte, sens en français, son de Uash
 | `img/fa_ysibling.webp` | Nishim | Mon petit frère ou ma petite sœur |  | oui | Radio-Canada, « Kautishkuemit – La famille » (lexique); Innu-aimitutau! (Atlas linguistique), section La famille, colonne Uashat | [ ] |
 | `img/fa_twins.webp` | Kanishishiht | Les jumeaux |  | à enregistrer | Noëlla Mckenzie et Virginie Michel (rencontre du 24 nov. 2026) | [ ] |
 
-## fa3 · La famille élargie · Oncles, tantes, neveux, nièces, beaux-frères et belles-sœurs
+## fa3 · La famille élargie
 
 | Image | Innu | Français | Variante | Son de Uashat | Source | Valide ? |
 |---|---|---|---|---|---|---|
 | `img/fa_uncle.webp` | Nukumish | Mon oncle | Nukumesh (Aussi écrit) | oui | Radio-Canada, « Kautishkuemit – La famille » (lexique); Leçons d’innu (son) | [ ] |
 | `img/fa_aunt.webp` | Nituss | Ma tante |  | oui | Radio-Canada, « Kautishkuemit – La famille » (lexique); Labrador Innu-Aimun (dialecte de Sheshatshiu), liste des termes de parenté | [ ] |
+| `img/fa_cousin_m.webp` | Nishteshikauna | Mon cousin aîné |  | à enregistrer | Correction d’Eric Boily (équipe Meshkanau), 25 nov. 2026 | [ ] |
+| `img/fa_cousin_f.webp` | Nimishikauna | Ma cousine aînée |  | à enregistrer | Correction d’Eric Boily (équipe Meshkanau), 25 nov. 2026 | [ ] |
+| `img/fa_cousin_y.webp` | Nishimikauna | Mon cousin cadet ou ma cousine cadette |  | à enregistrer | Correction d’Eric Boily (équipe Meshkanau), 25 nov. 2026 | [ ] |
 | `img/fa_nephew.webp` | Nitushim | Mon neveu |  | à enregistrer | Labrador Innu-Aimun (dialecte de Sheshatshiu), liste des termes de parenté | [ ] |
 | `img/fa_niece.webp` | Nitushimishkuem | Ma nièce |  | à enregistrer | Labrador Innu-Aimun (dialecte de Sheshatshiu), liste des termes de parenté | [ ] |
 | `img/fa_brotherinlaw.webp` | Nishtaua | Mon beau-frère |  | à enregistrer | Noëlla Mckenzie et Virginie Michel (rencontre du 24 nov. 2026) | [ ] |
 | `img/fa_sisterinlaw.webp` | Nitimua | Ma belle-sœur |  | à enregistrer | Noëlla Mckenzie et Virginie Michel (rencontre du 24 nov. 2026) | [ ] |
 
-## fa3c · Les cousins et les cousines · Plus vieux ou plus jeunes que moi
-
-| Image | Innu | Français | Variante | Son de Uashat | Source | Valide ? |
-|---|---|---|---|---|---|---|
-| `img/fa_cousin_m.webp` | Nushteshikauna | Mon cousin aîné |  | à enregistrer | Correction d’Eric Boily (équipe Meshkanau), 25 nov. 2026 | [ ] |
-| `img/fa_cousin_f.webp` | Numishikauna | Ma cousine aînée |  | à enregistrer | Correction d’Eric Boily (équipe Meshkanau), 25 nov. 2026 | [ ] |
-| `img/fa_cousin_y.webp` | Nushimikauna | Mon cousin cadet ou ma cousine cadette |  | à enregistrer | Correction d’Eric Boily (équipe Meshkanau), 25 nov. 2026 | [ ] |
-
-Ces trois mots remplacent Nikanish (« mon cousin, ma cousine »), qui venait du dialecte de Sheshatshiu.
+Les trois mots des cousins remplacent Nikanish (« mon cousin, ma cousine »), qui venait du dialecte de Sheshatshiu.
 
 ## fa4 · Nitauassimat · Les enfants
 
