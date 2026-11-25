@@ -194,12 +194,27 @@ sur la provenance du mot. Il enrichit la fiche sans nuire au jeu.
 
 ## Phase 2 — Pluriels
 
-- [ ] Ajouter le pluriel de chaque nom, à partir du dictionnaire.
-- [ ] Gestion intelligente du pluriel dans toutes les thématiques.
+Branche `phase2-pluriel` (25 nov. 2026), à tester et à valider avant la fusion.
+
+- [x] Mots du jeu standardisés au singulier (chaussures, petits fruits, mitaines,
+      gants, bas, cheveux), sauf les mots toujours au pluriel (lunettes, bretelles,
+      ancêtres, jumeaux, mes enfants, ma parenté, farine, thé).
+- [x] Ajouter le pluriel de chaque nom : règle -at / -a d'innu-aimun.ca et fiches
+      G5-f, G6-f (`js/pluriel.js`), sans extraction du dictionnaire. Formes « à valider ».
+- [ ] Valider les pluriels avec Noëlla, Hubert et Virginie (`docs/pluriel-validation.md`).
+- [x] Gestion intelligente du pluriel dans toutes les thématiques : noms sans pluriel
+      (parties uniques du corps, non comptables), obviatif (son sourcil), formes
+      irrégulières (ush → uta), pluriels à confirmer.
+- [x] Visualisation des marques : animation du mot (● Un ↔ ●●● Plusieurs), ajout en
+      couleur, petit ᵘ qui devient u; module générique `js/morpho.js`, réutilisable
+      pour les possessifs et les verbes.
+- [x] Réglage « Singulier ou pluriel » du mode Classe.
 - [ ] Clarifier avec Virginie les terminaisons entre parenthèses du cahier
       ((an), (i), (a)).
-- [ ] Mode d'entraînement singulier ↔ pluriel.
-- [ ] Adapter les défis existants (plateau, panier, muffins) au pluriel.
+- [x] Mode d'entraînement singulier ↔ pluriel : défi « ➕ Le bon pluriel » (mode écrit).
+- [ ] Enregistrer les pluriels à Uashat (seuls quelques-uns le sont).
+- [ ] Adapter les défis existants (plateau, panier, muffins) au pluriel. Fait pour les
+      muffins (les petits fruits restent au pluriel, comme dans la recette).
 
 ## Phase 3 — Possessifs
 

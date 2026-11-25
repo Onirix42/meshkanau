@@ -141,9 +141,9 @@ footer{margin:24px 0;text-align:center}
   <p class="tconsigne">📷 Ouvre l’appareil photo de l’iPad et vise le code.</p>
 </dialog>
 
-<script src="js/catalogue.js?v=20261124c"></script>
-<script src="js/classe.js?v=20261124c"></script>
-<script src="js/qrcode.js?v=20261124c"></script>
+<script src="js/catalogue.js?v=20261125a"></script>
+<script src="js/classe.js?v=20261125a"></script>
+<script src="js/qrcode.js?v=20261125a"></script>
 <script>
 const $ = id => document.getElementById(id);
 const esc = s => String(s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
@@ -154,6 +154,7 @@ let cfg = new URLSearchParams(location.search).has('classe') ? Classe.lire(new U
 function dispo(t) {
   let m = t === 'genre' ? ['explore', 'sort'] : ['explore', 'find', 'choose', 'sort'];
   (DEFIS[t] || []).forEach(d => m.push(d[0]));
+  if (PLURIEL_THEMES.includes(t)) m.push('plur');
   if (cfg.mode === 'oral') m = m.filter(x => !WRITTEN_ONLY.includes(x));
   return [...new Set(m)];
 }
@@ -215,7 +216,7 @@ function avertissements(c) {
     if (names.length) w.push(`${names.join(', ')} : aucune activité cochée n’y est offerte. L’élève y arrivera dans 🔎 Explorer.`);
     if (c.act.includes('sort') && themesChoisis().some(t => t !== 'genre')) w.push('🗂️ Trie les noms n’est offert que dans les thématiques où le genre des mots est indiqué.');
   }
-  if (c.mode === 'oral' && cfg.act.some(a => WRITTEN_ONLY.includes(a))) w.push('Les défis de lecture (🧁 Muffins, 🔢 Construis le nombre) sont retirés en mode oral.');
+  if (c.mode === 'oral' && cfg.act.some(a => WRITTEN_ONLY.includes(a))) w.push('Les défis de lecture (🧁 Muffins, 🔢 Construis le nombre, ➕ Le bon pluriel…) sont retirés en mode oral.');
   return w;
 }
 

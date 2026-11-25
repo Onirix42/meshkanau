@@ -40,7 +40,7 @@ const CLASSE_REGLAGES = [
   { id: 'act', param: 'act', type: 'cases', titre: 'Activités',
     aide: 'Seules les activités cochées sont offertes. Aucune cochée : toutes. Une seule activité avec une seule thématique : l’élève arrive directement dans l’exercice.',
     options: () => [
-      ...ACTIVITES.map(a => ({ id: a.id, label: a.label, note: a.note })),
+      ...ACTIVITES.map(a => ({ id: a.id, label: a.label, note: a.note, themes: a.themes, pour: WRITTEN_ONLY.includes(a.id) ? 'ecrit' : '' })),
       ...Object.entries(DEFIS).flatMap(([t, ds]) => ds.map(d => ({ id: d[0], label: d[0] === 'tray' ? '🍽️ Plateau / 🧺 Panier' : d[1], note: d[2], themes: d[0] === 'tray' ? ['cuisine', 'fruits'] : [t], pour: WRITTEN_ONLY.includes(d[0]) ? 'ecrit' : '' })))
     ].filter((o, i, a) => a.findIndex(x => x.id === o.id) === i) },
 
@@ -61,11 +61,13 @@ const CLASSE_REGLAGES = [
       { id: 'gram', label: '🏷️ Indices grammaticaux', note: 'Étiquettes Animé / Inanimé (NA, NI…) et encadré « Comment reconnaître le genre ? »', resume: 'indices grammaticaux' },
       { id: 'mot', label: '🔤 « Afficher ce mot » en mode oral', note: 'Pour les images dont le son est à venir', pour: 'oral', resume: 'mot écrit' },
       { id: 'derriere', label: '🔍 « Derrière le mot »', note: 'Petit dessin et explication facultative sur la provenance du mot (couleurs, mois, jours)', resume: 'Derrière le mot' }
-    ] }
+    ] },
+
+  { id: 'nombre', param: 'nombre', type: 'choix', titre: 'Singulier ou pluriel', defaut: 'tous',
+    aide: 'Pour les noms des thématiques qui ont un pluriel (corps, famille, animaux, vêtements, cuisine…). Singulier ou Pluriel : le sélecteur est caché aux élèves. Au choix : l’élève bascule d’un mot à plusieurs et voit les marques du pluriel s’ajouter.',
+    options: [ { id: 'sg', label: '● Singulier' }, { id: 'pl', label: '●●● Pluriel' }, { id: 'tous', label: 'Au choix de l’élève' } ] }
 
   /* Réglages à venir : décommenter et adapter quand le jeu les prendra en charge.
-  ,{ id: 'nombre', param: 'nombre', type: 'choix', titre: 'Singulier ou pluriel', defaut: 'tous', pret: false,
-     options: [ { id: 'sg', label: 'Singulier' }, { id: 'pl', label: 'Pluriel' }, { id: 'tous', label: 'Les deux' } ] }
   ,{ id: 'poss', param: 'poss', type: 'choix', titre: 'Possessifs', defaut: 'non', pret: false,
      options: [ { id: 'non', label: 'Sans possessifs' }, { id: 'oui', label: 'Avec possessifs' } ] }
   */
@@ -116,7 +118,7 @@ const Classe = {
       const v = cfg[r.id], opts = Classe.options(r), lab = id => (opts.find(o => o.id === id) || {}).label || id;
       if (r.type === 'themes') out.push(v.length ? v.map(id => { const t = THEMES.find(x => x.id === id); return t ? t.name : id; }).join(', ') : 'Toutes les thématiques');
       else if (r.type === 'cases') { if (v.length) out.push(v.map(lab).join(', ')); else if (!court) out.push('Toutes les activités'); }
-      else if (r.type === 'choix') { if (v !== r.defaut || !court) out.push(v === 'libre' && r.id === 'mode' ? 'Oral ou écrit au choix' : lab(v)); }
+      else if (r.type === 'choix') { if (v !== r.defaut || !court) out.push(v === 'libre' && r.id === 'mode' ? 'Oral ou écrit au choix' : v === 'tous' && r.id === 'nombre' ? 'Singulier ou pluriel au choix' : lab(v)); }
       else if (r.type === 'sans') {
         const utiles = v.filter(id => { const o = opts.find(x => x.id === id); return o && Classe.utile(o, cfg); });
         if (utiles.length) out.push('Sans ' + utiles.map(id => opts.find(o => o.id === id).resume || lab(id)).join(', '));
