@@ -299,7 +299,7 @@ Toutes les formes ont le statut « validé ». Dans le jeu, on bascule d'**● U
 | Kashkatinakan | Moule à pain | NI | **Kashkatinakana** | Moules à pain | règle -at / -a |  | [x] |
 | Katshishpakaussikᵘ | Chaudron de fonte | NI | **Katshishpakaussikua** | Chaudrons de fonte | règle -at / -a |  | [x] |
 
-## Les fruits et les légumes · Mina mak patshitinaun-mitshim
+## Les fruits et les légumes · Mina mak patshitinaun-mitshima
 
 | Singulier | Français | Genre | Pluriel proposé | Français | Source | Son au pluriel | Valide ? |
 |---|---|---|---|---|---|---|---|
