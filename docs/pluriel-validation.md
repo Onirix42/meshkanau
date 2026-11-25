@@ -277,7 +277,7 @@ Toutes les formes ont le statut « validé ». Dans le jeu, on bascule d'**● U
 | Nipisha | Thé | NI | **(toujours au pluriel)** |  | Nipisha (le thé) est le pluriel de nipish (une feuille) : le thé, ce sont des feuilles. |  | [x] |
 | Pakueshikan | Pain | NA | **Pakueshikanat** | Pains | règle -at / -a |  | [x] |
 | Innu-pakueshikan | Bannique | NA | **Innu-pakueshikanat** | Banniques | règle -at / -a |  | [x] |
-| Katetapishkanakanit | Bannique cuite sur le poêlon | NAP | **Katetapishkanakanitat** | Banniques cuites sur le poêlon | lexique de la thématique (Eric Boily, 25 nov. 2026) |  | [x] |
+| Katetapishkanakanit | Bannique cuite sur le poêlon | NAP | **Katetapishkanakanat** | Banniques cuites sur le poêlon | lexique de la thématique (Eric Boily, 25 nov. 2026) |  | [x] |
 | Tekanep | Crêpe | NA | **Tekanepat** | Crêpes | règle -at / -a |  | [x] |
 | Utatshishikan | Beigne | NA | **Utatshishikanat** | Beignes | règle -at / -a |  | [x] |
 | Shipai | Grand-père, pâte molle | NA | **Shipaiat** | Grands-pères, pâtes molles | règle -at / -a |  | [x] |
@@ -323,7 +323,7 @@ Toutes les formes ont le statut « validé ». Dans le jeu, on bascule d'**● U
 | Ushkuetui | Champignon | NA | **Ushkuetuiat** | Champignons | règle -at / -a |  | [x] |
 | Ushkatiapi | Navet | NI | **Ushkatiapia** | Navets | règle -at / -a |  | [x] |
 | Shikakussu | Oignon | NA | **Shikakussuat** | Oignons | règle -at / -a |  | [x] |
-| Katshitshikumakanit | Maïs (blé d’Inde) | NAP | **Katshitshikumakanitat** | Maïs (blés d’Inde) | lexique de la thématique (Eric Boily, 25 nov. 2026) |  | [x] |
+| Katshitshikumakanit | Maïs (blé d’Inde) | NAP | **Katshitshikumakanat** | Maïs (blés d’Inde) | lexique de la thématique (Eric Boily, 25 nov. 2026) |  | [x] |
 | Nepet | Betterave | NI | **Nepeta** | Betteraves | règle -at / -a |  | [x] |
 | Netamat | Tomate | NI | **Netamata** | Tomates | règle -at / -a |  | [x] |
 | Kashipekuashkuak | Céleri | NIP | **Kashipekuashkuaka** | Céleris | lexique de la thématique (Eric Boily, 25 nov. 2026) |  | [x] |

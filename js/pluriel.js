@@ -62,8 +62,8 @@ const PLURIEL_FORMES = {
   fa_ysibling: { pl: 'Nishimat', src: 'G5' },
   /* Lexiques des thématiques, complétés par Eric Boily (25 nov. 2026) */
   fl_celery: { pl: 'Kashipekuashkuaka', src: 'lexique', genre: 'I' },
-  fl_corn: { pl: 'Katshitshikumakanitat', src: 'lexique', genre: 'A' },
-  cu_bannockpan: { pl: 'Katetapishkanakanitat', src: 'lexique', genre: 'A' },
+  fl_corn: { pl: 'Katshitshikumakanat', src: 'lexique', genre: 'A' },
+  cu_bannockpan: { pl: 'Katetapishkanakanat', src: 'lexique', genre: 'A' },
   cu_teaspoon: { pl: 'Emikuanissat', src: 'lexique', genre: 'A' },
   cu_saucepan: { pl: 'Kaushushta', src: 'lexique', genre: 'I' },
   cu_roundpot: { pl: 'Uituessikua', src: 'lexique', genre: 'I' },
