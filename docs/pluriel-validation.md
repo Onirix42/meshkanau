@@ -205,147 +205,147 @@ Toutes les formes ont le statut « à valider ». Dans le jeu, on bascule d'**�
 
 | Singulier | Français | Genre | Pluriel proposé | Français | Source | Son au pluriel | Valide ? |
 |---|---|---|---|---|---|---|---|
-| Pishakanassin | Mocassin en peau | NI | **Pishakanassina** | Mocassins en peau | fiche de la thématique |  | [ ] |
-| Mushuianassin | Mocassin en peau d’orignal | NI | **Mushuianassina** | Mocassins en peau d’orignal | fiche de la thématique |  | [ ] |
-| Atikuianassin | Mocassin en peau de caribou | NI | **Atikuianassina** | Mocassins en peau de caribou | fiche de la thématique |  | [ ] |
-| Atshikuianassin | Botte ou mocassin en peau de phoque | NI | **Atshikuianassina** | Bottes ou mocassins en peau de phoque | fiche de la thématique |  | [ ] |
-| Minau-atshikuianassin | Mocassin en fourrure de phoque | NI | **Minau-atshikuianassina** | Mocassins en fourrure de phoque | fiche de la thématique |  | [ ] |
-| Uakunassin | Mocassin ou botte couvrant la cheville | NI | **Uakunassina** | Mocassins ou bottes couvrant la cheville | fiche de la thématique |  | [ ] |
-| Katshekuashueussin | Botte inuite | NI | **Katshekuashueussina** | Bottes inuites | fiche de la thématique |  | [ ] |
-| Manituianassin | Bottillon de feutre | NI | **Manituianassina** | Bottillons de feutre | fiche de la thématique |  | [ ] |
-| Uashkakunassin | Botte montant à la cheville | NI | **Uashkakunassina** | Bottes montant à la cheville | fiche de la thématique |  | [ ] |
-| Pipunassin | Botte d’hiver | NI | **Pipunassina** | Bottes d’hiver | fiche de la thématique |  | [ ] |
-| Atusseussin | Botte de sécurité | NI | **Atusseussina** | Bottes de sécurité | fiche de la thématique |  | [ ] |
-| Pakupeutash | Botte de caoutchouc | NI | **Pakupeutasha** | Bottes de caoutchouc | fiche de la thématique |  | [ ] |
-| Kuekuatsheutash | Botte | NI | **Kuekuatsheutasha** | Bottes | fiche de la thématique |  | [ ] |
-| Patshuianassin | Espadrille, soulier de toile | NI | **Patshuianassina** | Espadrilles, souliers de toile | fiche de la thématique |  | [ ] |
-| Mishtikushiussin | Soulier chic du dimanche | NI | **Mishtikushiussina** | Souliers chics du dimanche | fiche de la thématique |  | [ ] |
-| Tshetshishepaussin | Pantoufle | NI | **Tshetshishepaussina** | Pantoufles | fiche de la thématique |  | [ ] |
-| Tshishashteussin | Sandale | NI | **Tshishashteussina** | Sandales | fiche de la thématique |  | [ ] |
-| Mishtikussin | Sabot | NI | **Mishtikussina** | Sabots | fiche de la thématique |  | [ ] |
-| Shashapiussin | Couvre-chaussure, claque | NI | **Shashapiussina** | Couvre-chaussures, claques | fiche de la thématique |  | [ ] |
-| Pipun-akunishkueun | Tuque, chapeau d’hiver | NI | **Pipun-akunishkueuna** | Tuques, chapeaux d’hiver | règle -at / -a |  | [ ] |
-| Mitashiapiu-akunishkueun | Tuque de laine | NI | **Mitashiapiu-akunishkueuna** | Tuques de laine | règle -at / -a |  | [ ] |
-| Kashkuan | Foulard | NA | **Kashkuanat** | Foulards | règle -at / -a |  | [ ] |
-| Ashtish | Mitaine ou gant | NA | **Ashtishat** | Mitaines ou gants | fiche de la thématique |  | [ ] |
-| Ninikashtish | Gant | NA | **Ninikashtishat** | Gants | fiche de la thématique |  | [ ] |
-| Akup | Veste | NI | **Akupa** | Vestes | règle -at / -a |  | [ ] |
-| Pipunakup | Veste d’hiver | NI | **Pipunakupa** | Vestes d’hiver | règle -at / -a |  | [ ] |
-| Tshimuanakup | Imperméable | NI | **Tshimuanakupa** | Imperméables | règle -at / -a |  | [ ] |
-| Kashipissipaniukup | Chandail, veste de laine | NI | **Kashipissipaniukupa** | Chandails, vestes de laine | règle -at / -a |  | [ ] |
-| Ushkassikanekup | Veste sans manches | NI | **Ushkassikanekupa** | Vestes sans manches | règle -at / -a |  | [ ] |
-| Patshuianish | Chemise, t-shirt | NI | **Patshuianisha** | Chemises, t-shirts | règle -at / -a |  | [ ] |
-| Anakapeshakan | Pantalon | NA | **Anakapeshakanat** | Pantalons | règle -at / -a |  | [ ] |
-| Utashpishuna | Bretelles | NI | **(toujours au pluriel)** |  | Comme en français, on dit des bretelles : le mot est au pluriel (-a, nom inanimé). |  | [ ] |
-| Pakuateun | Ceinture | NI | **Pakuateuna** | Ceintures | règle -at / -a |  | [ ] |
-| Mitashiapiu-mitash | Bas de laine | NI | **Mitashiapiu-mitasha** | Bas de laine | fiche de la thématique |  | [ ] |
-| Pitau-anakapeshakan | Caleçon long, caleçon | NA | **Pitau-anakapeshakanat** | Caleçons longs, caleçons | règle -at / -a |  | [ ] |
-| Matinet | Blouse, chemisier | NI | **Matineta** | Blouses, chemisiers | règle -at / -a |  | [ ] |
-| Pitaushkan | Camisole | NI | **Pitaushkana** | Camisoles | règle -at / -a |  | [ ] |
-| Nipeukup | Jaquette | NI | **Nipeukupa** | Jaquettes | règle -at / -a |  | [ ] |
-| Nipeu-matshunish | Pyjama | NI | **Nipeu-matshunisha** | Pyjamas | règle -at / -a |  | [ ] |
+| Pishakanassin | Mocassin en peau | NI | **Pishakanassina** | Mocassins en peau | fiche de la thématique |  | [x] |
+| Mushuianassin | Mocassin en peau d’orignal | NI | **Mushuianassina** | Mocassins en peau d’orignal | fiche de la thématique |  | [x] |
+| Atikuianassin | Mocassin en peau de caribou | NI | **Atikuianassina** | Mocassins en peau de caribou | fiche de la thématique |  | [x] |
+| Atshikuianassin | Botte ou mocassin en peau de phoque | NI | **Atshikuianassina** | Bottes ou mocassins en peau de phoque | fiche de la thématique |  | [x] |
+| Minau-atshikuianassin | Mocassin en fourrure de phoque | NI | **Minau-atshikuianassina** | Mocassins en fourrure de phoque | fiche de la thématique |  | [x] |
+| Uakunassin | Mocassin ou botte couvrant la cheville | NI | **Uakunassina** | Mocassins ou bottes couvrant la cheville | fiche de la thématique |  | [x] |
+| Katshekuashueussin | Botte inuite | NI | **Katshekuashueussina** | Bottes inuites | fiche de la thématique |  | [x] |
+| Manituianassin | Bottillon de feutre | NI | **Manituianassina** | Bottillons de feutre | fiche de la thématique |  | [x] |
+| Uashkakunassin | Botte montant à la cheville | NI | **Uashkakunassina** | Bottes montant à la cheville | fiche de la thématique |  | [x] |
+| Pipunassin | Botte d’hiver | NI | **Pipunassina** | Bottes d’hiver | fiche de la thématique |  | [x] |
+| Atusseussin | Botte de sécurité | NI | **Atusseussina** | Bottes de sécurité | fiche de la thématique |  | [x] |
+| Pakupeutash | Botte de caoutchouc | NI | **Pakupeutasha** | Bottes de caoutchouc | fiche de la thématique |  | [x] |
+| Kuekuatsheutash | Botte | NI | **Kuekuatsheutasha** | Bottes | fiche de la thématique |  | [x] |
+| Patshuianassin | Espadrille, soulier de toile | NI | **Patshuianassina** | Espadrilles, souliers de toile | fiche de la thématique |  | [x] |
+| Mishtikushiussin | Soulier chic du dimanche | NI | **Mishtikushiussina** | Souliers chics du dimanche | fiche de la thématique |  | [x] |
+| Tshetshishepaussin | Pantoufle | NI | **Tshetshishepaussina** | Pantoufles | fiche de la thématique |  | [x] |
+| Tshishashteussin | Sandale | NI | **Tshishashteussina** | Sandales | fiche de la thématique |  | [x] |
+| Mishtikussin | Sabot | NI | **Mishtikussina** | Sabots | fiche de la thématique |  | [x] |
+| Shashapiussin | Couvre-chaussure, claque | NI | **Shashapiussina** | Couvre-chaussures, claques | fiche de la thématique |  | [x] |
+| Pipun-akunishkueun | Tuque, chapeau d’hiver | NI | **Pipun-akunishkueuna** | Tuques, chapeaux d’hiver | règle -at / -a |  | [x] |
+| Mitashiapiu-akunishkueun | Tuque de laine | NI | **Mitashiapiu-akunishkueuna** | Tuques de laine | règle -at / -a |  | [x] |
+| Kashkuan | Foulard | NA | **Kashkuanat** | Foulards | règle -at / -a |  | [x] |
+| Ashtish | Mitaine ou gant | NA | **Ashtishat** | Mitaines ou gants | fiche de la thématique |  | [x] |
+| Ninikashtish | Gant | NA | **Ninikashtishat** | Gants | fiche de la thématique |  | [x] |
+| Akup | Veste | NI | **Akupa** | Vestes | règle -at / -a |  | [x] |
+| Pipunakup | Veste d’hiver | NI | **Pipunakupa** | Vestes d’hiver | règle -at / -a |  | [x] |
+| Tshimuanakup | Imperméable | NI | **Tshimuanakupa** | Imperméables | règle -at / -a |  | [x] |
+| Kashipissipaniukup | Chandail, veste de laine | NI | **Kashipissipaniukupa** | Chandails, vestes de laine | règle -at / -a |  | [x] |
+| Ushkassikanekup | Veste sans manches | NI | **Ushkassikanekupa** | Vestes sans manches | règle -at / -a |  | [x] |
+| Patshuianish | Chemise, t-shirt | NI | **Patshuianisha** | Chemises, t-shirts | règle -at / -a |  | [x] |
+| Anakapeshakan | Pantalon | NA | **Anakapeshakanat** | Pantalons | règle -at / -a |  | [x] |
+| Utashpishuna | Bretelles | NI | **(toujours au pluriel)** |  | Comme en français, on dit des bretelles : le mot est au pluriel (-a, nom inanimé). |  | [x] |
+| Pakuateun | Ceinture | NI | **Pakuateuna** | Ceintures | règle -at / -a |  | [x] |
+| Mitashiapiu-mitash | Bas de laine | NI | **Mitashiapiu-mitasha** | Bas de laine | fiche de la thématique |  | [x] |
+| Pitau-anakapeshakan | Caleçon long, caleçon | NA | **Pitau-anakapeshakanat** | Caleçons longs, caleçons | règle -at / -a |  | [x] |
+| Matinet | Blouse, chemisier | NI | **Matineta** | Blouses, chemisiers | règle -at / -a |  | [x] |
+| Pitaushkan | Camisole | NI | **Pitaushkana** | Camisoles | règle -at / -a |  | [x] |
+| Nipeukup | Jaquette | NI | **Nipeukupa** | Jaquettes | règle -at / -a |  | [x] |
+| Nipeu-matshunish | Pyjama | NI | **Nipeu-matshunisha** | Pyjamas | règle -at / -a |  | [x] |
 
 ## La cuisine · Mitshim
 
 | Singulier | Français | Genre | Pluriel proposé | Français | Source | Son au pluriel | Valide ? |
 |---|---|---|---|---|---|---|---|
-| Nushkuauat | Farine | NA | **(toujours au pluriel)** |  | Nushkuauat (la farine) a la forme d’un pluriel animé (-at), mais il désigne une matière : il ne se compte pas. |  | [ ] |
-| Kashiuasht | Sucre | NIP | **— ne se compte pas** |  |  |  | [ ] |
-| Kaupipanit | Poudre à pâte | NIP | **— ne se compte pas** |  |  |  | [ ] |
-| Ka shutshishimakak-kaupipanit | Bicarbonate de soude |  | **— ne se compte pas** |  |  |  | [ ] |
-| Shiussimakan | Levure | NA | **— ne se compte pas** |  |  |  | [ ] |
-| Shiutakan | Sel (boîte) | NI | **— ne se compte pas** |  |  |  | [ ] |
-| Uau | Œuf | NI | **Uaua** | Œufs | règle -at / -a |  | [ ] |
-| Tutushinapui | Lait |  | **— ne se compte pas** |  |  |  | [ ] |
-| Tutush-pimi | Beurre (bloc) | NI | **— ne se compte pas** |  |  |  | [ ] |
-| Amu-kashiuasht | Miel | NI | **— ne se compte pas** |  |  |  | [ ] |
-| Minapui | Confiture |  | **— ne se compte pas** |  |  |  | [ ] |
-| Naminash | Mélasse | NI | **— ne se compte pas** |  |  |  | [ ] |
-| Kapi | Café | NA | **— ne se compte pas** |  |  |  | [ ] |
-| Shiutakan | Sel (salière) | NI | **— ne se compte pas** |  |  |  | [ ] |
-| Tapuepan | Poivre | NI | **— ne se compte pas** |  |  |  | [ ] |
-| Kukush-pimi | Saindoux, graisse | NI | **— ne se compte pas** |  |  |  | [ ] |
-| Tutush-pimi | Beurre (beurrier) | NI | **— ne se compte pas** |  |  |  | [ ] |
-| Nipisha | Thé | NI | **(toujours au pluriel)** |  | Nipisha (le thé) est le pluriel de nipish (une feuille) : le thé, ce sont des feuilles. |  | [ ] |
-| Pakueshikan | Pain | NA | **Pakueshikanat** | Pains | règle -at / -a |  | [ ] |
-| Innu-pakueshikan | Bannique | NA | **Innu-pakueshikanat** | Banniques | règle -at / -a |  | [ ] |
-| Tekanep | Crêpe | NA | **Tekanepat** | Crêpes | règle -at / -a |  | [ ] |
-| Utatshishikan | Beigne | NA | **Utatshishikanat** | Beignes | règle -at / -a |  | [ ] |
-| Shipai | Grand-père, pâte molle | NA | **Shipaiat** | Grands-pères, pâtes molles | règle -at / -a |  | [ ] |
-| Nashiet | Assiette | NI | **Nashieta** | Assiettes | règle -at / -a |  | [ ] |
-| Nashietiss | Soucoupe | NI | **Nashietissa** | Soucoupes | règle -at / -a |  | [ ] |
-| Nashupinakan | Bol à soupe | NI | **Nashupinakana** | Bols à soupe | règle -at / -a |  | [ ] |
-| Minakan | Verre, tasse | NI | **Minakana** | Verres, tasses | règle -at / -a |  | [ ] |
-| Tshakaimaun | Fourchette | NI | **Tshakaimauna** | Fourchettes | règle -at / -a |  | [ ] |
-| Mukuman | Couteau | NI | **Mukumana** | Couteaux | règle -at / -a |  | [ ] |
-| Emikuan | Cuillère à soupe |  | **Emikuanat** | Cuillères à soupe | fiche G5-f |  | [ ] |
-| Piminueussikᵘ | Casserole | NI | **Piminueussikua** | Casseroles | règle -at / -a |  | [ ] |
-| Kuapitsheussikᵘ | Seau pour puiser l’eau | NI | **Kuapitsheussikua** | Seaux pour puiser l’eau | règle -at / -a |  | [ ] |
-| Nipishapussikᵘ | Théière | NI | **Nipishapussikua** | Théières | règle -at / -a |  | [ ] |
-| Ushuissikᵘ | Poêlon (UASH) | NI | **Ushuissikua** | Poêlons | règle -at / -a |  | [ ] |
-| Kashkatinakan | Moule à pain | NI | **Kashkatinakana** | Moules à pain | règle -at / -a |  | [ ] |
-| Katshishpakaussikᵘ | Chaudron de fonte | NI | **Katshishpakaussikua** | Chaudrons de fonte | règle -at / -a |  | [ ] |
+| Nushkuauat | Farine | NA | **(toujours au pluriel)** |  | Nushkuauat (la farine) a la forme d’un pluriel animé (-at), mais il désigne une matière : il ne se compte pas. |  | [x] |
+| Kashiuasht | Sucre | NIP | **— ne se compte pas** |  |  |  | [x] |
+| Kaupipanit | Poudre à pâte | NIP | **— ne se compte pas** |  |  |  | [x] |
+| Ka shutshishimakak-kaupipanit | Bicarbonate de soude |  | **— ne se compte pas** |  |  |  | [x] |
+| Shiussimakan | Levure | NA | **— ne se compte pas** |  |  |  | [x] |
+| Shiutakan | Sel (boîte) | NI | **— ne se compte pas** |  |  |  | [x] |
+| Uau | Œuf | NI | **Uaua** | Œufs | règle -at / -a |  | [x] |
+| Tutushinapui | Lait |  | **— ne se compte pas** |  |  |  | [x] |
+| Tutush-pimi | Beurre (bloc) | NI | **— ne se compte pas** |  |  |  | [x] |
+| Amu-kashiuasht | Miel | NI | **— ne se compte pas** |  |  |  | [x] |
+| Minapui | Confiture |  | **— ne se compte pas** |  |  |  | [x] |
+| Naminash | Mélasse | NI | **— ne se compte pas** |  |  |  | [x] |
+| Kapi | Café | NA | **— ne se compte pas** |  |  |  | [x] |
+| Shiutakan | Sel (salière) | NI | **— ne se compte pas** |  |  |  | [x] |
+| Tapuepan | Poivre | NI | **— ne se compte pas** |  |  |  | [x] |
+| Kukush-pimi | Saindoux, graisse | NI | **— ne se compte pas** |  |  |  | [x] |
+| Tutush-pimi | Beurre (beurrier) | NI | **— ne se compte pas** |  |  |  | [x] |
+| Nipisha | Thé | NI | **(toujours au pluriel)** |  | Nipisha (le thé) est le pluriel de nipish (une feuille) : le thé, ce sont des feuilles. |  | [x] |
+| Pakueshikan | Pain | NA | **Pakueshikanat** | Pains | règle -at / -a |  | [x] |
+| Innu-pakueshikan | Bannique | NA | **Innu-pakueshikanat** | Banniques | règle -at / -a |  | [x] |
+| Tekanep | Crêpe | NA | **Tekanepat** | Crêpes | règle -at / -a |  | [x] |
+| Utatshishikan | Beigne | NA | **Utatshishikanat** | Beignes | règle -at / -a |  | [x] |
+| Shipai | Grand-père, pâte molle | NA | **Shipaiat** | Grands-pères, pâtes molles | règle -at / -a |  | [x] |
+| Nashiet | Assiette | NI | **Nashieta** | Assiettes | règle -at / -a |  | [x] |
+| Nashietiss | Soucoupe | NI | **Nashietissa** | Soucoupes | règle -at / -a |  | [x] |
+| Nashupinakan | Bol à soupe | NI | **Nashupinakana** | Bols à soupe | règle -at / -a |  | [x] |
+| Minakan | Verre, tasse | NI | **Minakana** | Verres, tasses | règle -at / -a |  | [x] |
+| Tshakaimaun | Fourchette | NI | **Tshakaimauna** | Fourchettes | règle -at / -a |  | [x] |
+| Mukuman | Couteau | NI | **Mukumana** | Couteaux | règle -at / -a |  | [x] |
+| Emikuan | Cuillère à soupe |  | **Emikuanat** | Cuillères à soupe | fiche G5-f |  | [x] |
+| Piminueussikᵘ | Casserole | NI | **Piminueussikua** | Casseroles | règle -at / -a |  | [x] |
+| Kuapitsheussikᵘ | Seau pour puiser l’eau | NI | **Kuapitsheussikua** | Seaux pour puiser l’eau | règle -at / -a |  | [x] |
+| Nipishapussikᵘ | Théière | NI | **Nipishapussikua** | Théières | règle -at / -a |  | [x] |
+| Ushuissikᵘ | Poêlon (UASH) | NI | **Ushuissikua** | Poêlons | règle -at / -a |  | [x] |
+| Kashkatinakan | Moule à pain | NI | **Kashkatinakana** | Moules à pain | règle -at / -a |  | [x] |
+| Katshishpakaussikᵘ | Chaudron de fonte | NI | **Katshishpakaussikua** | Chaudrons de fonte | règle -at / -a |  | [x] |
 
 ## Les fruits et les légumes · Mina mak patshitinaun-mitshim
 
 | Singulier | Français | Genre | Pluriel proposé | Français | Source | Son au pluriel | Valide ? |
 |---|---|---|---|---|---|---|---|
-| Inniminan | Bleuet | NI | **Inniminana** | Bleuets | fiche de la thématique |  | [ ] |
-| Uteiminan | Fraise | NI | **Uteiminana** | Fraises | fiche de la thématique |  | [ ] |
-| Uishatshimin | Graine rouge, airelle vigne d’Ida | NI | **Uishatshimina** | Graines rouges, airelles vigne d’Ida | fiche de la thématique |  | [ ] |
-| Shikuteu | Plaquebière | NI | **Shikuteua** | Plaquebières | fiche de la thématique |  | [ ] |
-| Anushkan | Framboise | NA | **Anushkanat** | Framboises | fiche de la thématique |  | [ ] |
-| Uapimin | Pomme | NA | **Uapiminat** | Pommes | fiche G5-f |  | [ ] |
-| Atamu-uapimin | Poire | NA | **Atamu-uapiminat** | Poires | règle -at / -a |  | [ ] |
-| Ka uakashkuak min | Banane | NI | **à confirmer** |  |  |  | [ ] |
-| Mishta-min | Orange | NI | **Mishta-mina** | Oranges | fiche G6-f |  | [ ] |
-| Ka minauashit min | Pêche | NI | **à confirmer** |  |  |  | [ ] |
-| Ka uishakak min | Citron | NI | **à confirmer** |  |  |  | [ ] |
-| Kushimash | Citrouille | NI | **Kushimasha** | Citrouilles | règle -at / -a |  | [ ] |
-| Mishta-shumin | Prune | NA | **Mishta-shuminat** | Prunes | règle -at / -a |  | [ ] |
-| Shumin | Raisin | NA | **Shuminat** | Raisins | règle -at / -a |  | [ ] |
-| Napatat | Pomme de terre (patate) | NI | **Napatata** | Pommes de terre (patates) | règle -at / -a |  | [ ] |
-| Neshu | Chou | NA | **Neshuat** | Choux | règle -at / -a |  | [ ] |
-| Kukushanui | Carotte | NI | **Kukushanuia** | Carottes | règle -at / -a |  | [ ] |
-| Ushkuetui | Champignon | NA | **Ushkuetuiat** | Champignons | règle -at / -a |  | [ ] |
-| Ushkatiapi | Navet | NI | **Ushkatiapia** | Navets | règle -at / -a |  | [ ] |
-| Shikakussu | Oignon | NA | **Shikakussuat** | Oignons | règle -at / -a |  | [ ] |
-| Nepet | Betterave | NI | **Nepeta** | Betteraves | règle -at / -a |  | [ ] |
-| Netamat | Tomate | NI | **Netamata** | Tomates | règle -at / -a |  | [ ] |
+| Inniminan | Bleuet | NI | **Inniminana** | Bleuets | fiche de la thématique |  | [x] |
+| Uteiminan | Fraise | NI | **Uteiminana** | Fraises | fiche de la thématique |  | [x] |
+| Uishatshimin | Graine rouge, airelle vigne d’Ida | NI | **Uishatshimina** | Graines rouges, airelles vigne d’Ida | fiche de la thématique |  | [x] |
+| Shikuteu | Plaquebière | NI | **Shikuteua** | Plaquebières | fiche de la thématique |  | [x] |
+| Anushkan | Framboise | NA | **Anushkanat** | Framboises | fiche de la thématique |  | [x] |
+| Uapimin | Pomme | NA | **Uapiminat** | Pommes | fiche G5-f |  | [x] |
+| Atamu-uapimin | Poire | NA | **Atamu-uapiminat** | Poires | règle -at / -a |  | [x] |
+| Ka uakashkuak min | Banane | NI | **Ka uakashkuak mina** |  |  |  | [x] |
+| Mishta-min | Orange | NI | **Mishta-mina** | Oranges | fiche G6-f |  | [x] |
+| Ka minauashit min | Pêche | NI | **Ka minauashit mina** |  |  |  | [x] |
+| Ka uishakak min | Citron | NI | **Ka uishakak mina** |  |  |  | [x] |
+| Kushimash | Citrouille | NI | **Kushimasha** | Citrouilles | règle -at / -a |  | [x] |
+| Mishta-shumin | Prune | NA | **Mishta-shuminat** | Prunes | règle -at / -a |  | [x] |
+| Shumin | Raisin | NA | **Shuminat** | Raisins | règle -at / -a |  | [x] |
+| Napatat | Pomme de terre (patate) | NI | **Napatata** | Pommes de terre (patates) | règle -at / -a |  | [x] |
+| Neshu | Chou | NA | **Neshuat** | Choux | règle -at / -a |  | [x] |
+| Kukushanui | Carotte | NI | **Kukushanuia** | Carottes | règle -at / -a |  | [x] |
+| Ushkuetui | Champignon | NA | **Ushkuetuiat** | Champignons | règle -at / -a |  | [x] |
+| Ushkatiapi | Navet | NI | **Ushkatiapia** | Navets | règle -at / -a |  | [x] |
+| Shikakussu | Oignon | NA | **Shikakussuat** | Oignons | règle -at / -a |  | [x] |
+| Nepet | Betterave | NI | **Nepeta** | Betteraves | règle -at / -a |  | [x] |
+| Netamat | Tomate | NI | **Netamata** | Tomates | règle -at / -a |  | [x] |
 
 ## Animé ou inanimé ?
 
 | Singulier | Français | Genre | Pluriel proposé | Français | Source | Son au pluriel | Valide ? |
 |---|---|---|---|---|---|---|---|
-| Minush | Un chat | NA | **Minushat** | Des chats | page « Le nombre des noms » |  | [ ] |
-| Atimᵘ | Un chien | NA | **Atimuat** | Des chiens | page « Le nombre des noms » |  | [ ] |
-| Mashkᵘ | Un ours | NA | **Mashkuat** | Des ours | règle -at / -a |  | [ ] |
-| Amishkᵘ | Un castor | NA | **Amishkuat** | Des castors | règle -at / -a |  | [ ] |
-| Kuakuapishish | Un papillon | NA | **Kuakuapishishat** | Des papillons | règle -at / -a |  | [ ] |
-| Anik | Une grenouille, un crapaud | NA | **Anikat** | Des grenouilles, des crapauds | règle -at / -a |  | [ ] |
-| Matamekᵘ | Une truite mouchetée | NA | **Matamekuat** | Des truites mouchetées | règle -at / -a |  | [ ] |
-| Mishtamekᵘ | Une baleine | NA | **Mishtamekuat** | Des baleines | règle -at / -a |  | [ ] |
-| Mitshuap | Une maison | NI | **Mitshuapa** | Des maisons | fiche G6-f |  | [ ] |
-| Aiamieutshuap | Une église | NI | **Aiamieutshuapa** | Des églises | règle -at / -a |  | [ ] |
-| Atautshuap | Un magasin | NI | **Atautshuapa** | Des magasins | règle -at / -a |  | [ ] |
-| Utapan | Une voiture | NI | **Utapana** | Des voitures | page « Le nombre des noms » |  | [ ] |
-| Ishkuteutapan | Un train | NI | **Ishkuteutapana** | Des trains | fiche G6-f |  | [ ] |
-| Akunishkueun | Un chapeau, une tuque | NI | **Akunishkueuna** | Des chapeaux, des tuques | règle -at / -a |  | [ ] |
-| Akup | Une robe; un manteau | NI | **Akupa** | Des robes; des manteaux | règle -at / -a |  | [ ] |
-| Patshuianish | Une chemise | NI | **Patshuianisha** | Des chemises | règle -at / -a |  | [ ] |
-| Anakapeshakan | Un pantalon | NA | **Anakapeshakanat** | Des pantalons | règle -at / -a |  | [ ] |
-| Ashtish | Une mitaine, un gant | NA | **Ashtishat** | Des mitaines, des gants | règle -at / -a |  | [ ] |
-| Tapishkakan | Un foulard, une écharpe | NA | **Tapishkakanat** | Des foulards, des écharpes | règle -at / -a |  | [ ] |
-| Upashtamakan | Un avion | NA | **Upashtamakanat** | Des avions | fiche G5-f |  | [ ] |
-| Enikᵘ | Un cadenas | NA | **Enikuat** | Des cadenas | règle -at / -a |  | [ ] |
-| Umamama | Son sourcil | NAD | **Umamama** | Ses sourcils | obviatif (G5-f) | oui | [ ] |
-| Tshishe-pishimᵘ | Janvier | NA | **— un seul** |  |  |  | [ ] |
-| Pishimuss | Décembre | NA | **— un seul** |  |  |  | [ ] |
-| Minashtakan | Le dimanche | NI | **— un seul** |  |  |  | [ ] |
-| Ushtikuan | Sa tête | NID | **— un seul** |  |  |  | [ ] |
-| Utun | Sa bouche | NID | **— un seul** |  |  |  | [ ] |
-| Ussishikᵘ | Son œil | NID | **Ussishikua** | Ses yeux | règle -at / -a |  | [ ] |
-| Matinet | Un manteau, un blouson | NI | **Matineta** | Des manteaux, des blousons | règle -at / -a |  | [ ] |
-| Nipeukup | Une robe de nuit | NI | **Nipeukupa** | Des robes de nuit | règle -at / -a |  | [ ] |
-| Tshimuanakup | Un imperméable | NI | **Tshimuanakupa** | Des imperméables | règle -at / -a |  | [ ] |
-| Akushiutapan | Une ambulance | NI | **Akushiutapana** | Des ambulances | règle -at / -a |  | [ ] |
+| Minush | Un chat | NA | **Minushat** | Des chats | page « Le nombre des noms » |  | [x] |
+| Atimᵘ | Un chien | NA | **Atimuat** | Des chiens | page « Le nombre des noms » |  | [x] |
+| Mashkᵘ | Un ours | NA | **Mashkuat** | Des ours | règle -at / -a |  | [x] |
+| Amishkᵘ | Un castor | NA | **Amishkuat** | Des castors | règle -at / -a |  | [x] |
+| Kuakuapishish | Un papillon | NA | **Kuakuapishishat** | Des papillons | règle -at / -a |  | [x] |
+| Anik | Une grenouille, un crapaud | NA | **Anikat** | Des grenouilles, des crapauds | règle -at / -a |  | [x] |
+| Matamekᵘ | Une truite mouchetée | NA | **Matamekuat** | Des truites mouchetées | règle -at / -a |  | [x] |
+| Mishtamekᵘ | Une baleine | NA | **Mishtamekuat** | Des baleines | règle -at / -a |  | [x] |
+| Mitshuap | Une maison | NI | **Mitshuapa** | Des maisons | fiche G6-f |  | [x] |
+| Aiamieutshuap | Une église | NI | **Aiamieutshuapa** | Des églises | règle -at / -a |  | [x] |
+| Atautshuap | Un magasin | NI | **Atautshuapa** | Des magasins | règle -at / -a |  | [x] |
+| Utapan | Une voiture | NI | **Utapana** | Des voitures | page « Le nombre des noms » |  | [x] |
+| Ishkuteutapan | Un train | NI | **Ishkuteutapana** | Des trains | fiche G6-f |  | [x] |
+| Akunishkueun | Un chapeau, une tuque | NI | **Akunishkueuna** | Des chapeaux, des tuques | règle -at / -a |  | [x] |
+| Akup | Une robe; un manteau | NI | **Akupa** | Des robes; des manteaux | règle -at / -a |  | [x] |
+| Patshuianish | Une chemise | NI | **Patshuianisha** | Des chemises | règle -at / -a |  | [x] |
+| Anakapeshakan | Un pantalon | NA | **Anakapeshakanat** | Des pantalons | règle -at / -a |  | [x] |
+| Ashtish | Une mitaine, un gant | NA | **Ashtishat** | Des mitaines, des gants | règle -at / -a |  | [x] |
+| Tapishkakan | Un foulard, une écharpe | NA | **Tapishkakanat** | Des foulards, des écharpes | règle -at / -a |  | [x] |
+| Upashtamakan | Un avion | NA | **Upashtamakanat** | Des avions | fiche G5-f |  | [x] |
+| Enikᵘ | Un cadenas | NA | **Enikuat** | Des cadenas | règle -at / -a |  | [x] |
+| Umamama | Son sourcil | NAD | **Umamama** | Ses sourcils | obviatif (G5-f) | oui | [x] |
+| Tshishe-pishimᵘ | Janvier | NA | **— un seul** |  |  |  | [x] |
+| Pishimuss | Décembre | NA | **— un seul** |  |  |  | [x] |
+| Minashtakan | Le dimanche | NI | **— un seul** |  |  |  | [x] |
+| Ushtikuan | Sa tête | NID | **— un seul** |  |  |  | [x] |
+| Utun | Sa bouche | NID | **— un seul** |  |  |  | [x] |
+| Ussishikᵘ | Son œil | NID | **Ussishikua** | Ses yeux | règle -at / -a |  |x[ ] |
+| Matinet | Un manteau, un blouson | NI | **Matineta** | Des manteaux, des blousons | règle -at / -a |  | [x] |
+| Nipeukup | Une robe de nuit | NI | **Nipeukupa** | Des robes de nuit | règle -at / -a |  | [x] |
+| Tshimuanakup | Un imperméable | NI | **Tshimuanakupa** | Des imperméables | règle -at / -a |  | [x] |
+| Akushiutapan | Une ambulance | NI | **Akushiutapana** | Des ambulances | règle -at / -a |  | [x] |
