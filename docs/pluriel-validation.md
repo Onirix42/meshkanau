@@ -47,8 +47,7 @@ Toutes les formes ont le statut « à valider ». Dans le jeu, on bascule d'**�
 | Utukai | Son oreille | NID | **Utukaia** | Ses oreilles | règle -at / -a |  | [x] |
 | Uashkaiapunan | Peau qui entoure l’œil | NID | **Uashkaiapunana** | Peau qui entoure les yeux | règle -at / -a |  | [x] |
 | Mishuiapunan | Un cil | NI | **Mishuiapunana** | Des cils | règle -at / -a |  | [x] |
-| Uapapunan | Blanc de l’œil | NI | **Uapapunana** | Blancs des yeux | règle -at / -a |  | [ 
-x] |
+| Uapapunan | Blanc de l’œil | NI | **Uapapunana** | Blancs des yeux | règle -at / -a |  | [x] |
 | Ussishikᵘ | Son œil | NID | **Ussishikua** | Ses yeux | règle -at / -a |  | [x] |
 | Maunapui | Une larme | NI | **Maunapuia** | Des larmes | règle -at / -a |  | [x] |
 | Ussishikukauna | Des lunettes | NI | **(toujours au pluriel)** |  | Comme en français, on dit des lunettes : le mot est au pluriel (-a, nom inanimé). |  | [x] |
