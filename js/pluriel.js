@@ -67,9 +67,9 @@ const PLURIEL_FORMES = {
   hair: { pl: 'Pishkueuna', src: 'fiche' },
   fa_child: { pl: 'Nitauassimat', src: 'fiche', audio: 'https://www.atlas-ling.ca/sounds/Uashat-DVollant/family/These%20are%20my%20children-Uashat-DVollant.mp3', audioNote: 'Phrase enregistrée à Uashat : « Nitauassimat utshenat. » (Ce sont mes enfants.)', phrase: true },
   ve_gloves: { pl: 'Ninikashtishat', src: 'fiche' },
-  ve_mittens: { pl: 'Ashtishat', src: 'fiche', audio: 'https://www.atlas-ling.ca/sounds/Uashat-DVollant/clothing/mittens-Uashat-DVollant.mp3', audioNote: 'Enregistré à Uashat par Doris Vollant (Atlas linguistique).' },
-  ve_socks: { pl: 'Mitashiapiu-mitasha', src: 'fiche', audio: 'https://www.atlas-ling.ca/sounds/Uashat-DVollant/clothing/Socks-Uashat-DVollant.mp3', audioNote: 'Enregistré à Uashat par Doris Vollant : « mitasha » (des bas).' },
-  ve_pishakan: { pl: 'Pishakanassina', src: 'fiche', audio: 'pishakanessina', audioNote: 'Enregistrement au pluriel : pishakanessina.' },
+  ve_mittens: { pl: 'Ashtishat', src: 'fiche' },
+  ve_socks: { pl: 'Mitashiapiu-mitasha', src: 'fiche' },
+  ve_pishakan: { pl: 'Pishakanassina', src: 'fiche' },
   ve_mushuian: { pl: 'Mushuianassina', src: 'fiche' },
   ve_atikuian: { pl: 'Atikuianassina', src: 'fiche' },
   ve_atshikuian: { pl: 'Atshikuianassina', src: 'fiche' },
@@ -79,7 +79,7 @@ const PLURIEL_FORMES = {
   ve_manituian: { pl: 'Manituianassina', src: 'fiche' },
   ve_uashkakun: { pl: 'Uashkakunassina', src: 'fiche' },
   ve_winterboot: { pl: 'Pipunassina', src: 'fiche' },
-  ve_safety: { pl: 'Atusseussina', src: 'fiche', audio: 'atusseussina', audioNote: 'Enregistrement au pluriel : atusseussina.' },
+  ve_safety: { pl: 'Atusseussina', src: 'fiche' },
   ve_rubber: { pl: 'Pakupeutasha', src: 'fiche' },
   ve_boots: { pl: 'Kuekuatsheutasha', src: 'fiche' },
   ve_sneakers: { pl: 'Patshuianassina', src: 'fiche' },
@@ -89,10 +89,10 @@ const PLURIEL_FORMES = {
   ve_clogs: { pl: 'Mishtikussina', src: 'fiche' },
   ve_overshoes: { pl: 'Shashapiussina', src: 'fiche' },
   cu_blueberries: { pl: 'Inniminana', src: 'fiche' },
-  cu_strawberries: { pl: 'Uteiminana', src: 'fiche', audio: 'uteiminana', audioNote: 'Enregistrement au pluriel : uteiminana.' },
+  cu_strawberries: { pl: 'Uteiminana', src: 'fiche' },
   cu_lingonberries: { pl: 'Uishatshimina', src: 'fiche' },
-  cu_cloudberries: { pl: 'Shikuteua', src: 'fiche', audio: 'shikuteua', audioNote: 'Enregistrement au pluriel : shikuteua.' },
-  cu_raspberries: { pl: 'Anushkanat', src: 'fiche', audio: 'anushkanat', audioNote: 'Enregistrement au pluriel : anushkanat.' }
+  cu_cloudberries: { pl: 'Shikuteua', src: 'fiche' },
+  cu_raspberries: { pl: 'Anushkanat', src: 'fiche' }
 };
 
 /* Mots qui s'emploient au pluriel (exceptions au passage au singulier) */

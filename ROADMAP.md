@@ -209,6 +209,9 @@ Branche `phase2-pluriel` (25 nov. 2026), à tester et à valider avant la fusion
       couleur, petit ᵘ qui devient u; module générique `js/morpho.js`, réutilisable
       pour les possessifs et les verbes.
 - [x] Réglage « Singulier ou pluriel » du mode Classe.
+- [x] Tuile « Un ou plusieurs ? » dans « Comprendre la langue » (planches + at, + a et
+      surprises), défi « ➕ Pluriel » sur les cartes de l'accueil et dans « Comment jouer ? ».
+- [ ] Autres tuiles « Comprendre la langue » : possessifs, verbes…
 - [ ] Clarifier avec Virginie les terminaisons entre parenthèses du cahier
       ((an), (i), (a)).
 - [x] Mode d'entraînement singulier ↔ pluriel : défi « ➕ Le bon pluriel » (mode écrit).

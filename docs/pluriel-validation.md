@@ -7,7 +7,9 @@ Aucune forme n'a été tirée du dictionnaire par script. Les pluriels viennent 
 - de la règle de la page [« Le nombre des noms »](https://innu-aimun.ca/francais/grammaire/noms/le-nombre-des-noms/) d'innu-aimun.ca : **-at** pour un nom animé, **-a** pour un nom inanimé, le petit ᵘ final devenant un vrai u (atikᵘ → atikuat);
 - des fiches d'Yvette Mollen [G5-f](https://www.innu-aimun.ca/wp-content/uploads/2017/07/G5-f.pdf) (pluriel et obviatif des noms animés) et [G6-f](https://www.innu-aimun.ca/wp-content/uploads/2017/07/G6-f.pdf) (pluriel des noms inanimés);
 - de la [leçon 3 des Leçons d'innu](https://www.innu-aimun.ca/wp-content/uploads/2021/06/LEC%CC%A7ON-03-e%CC%81dition-2010-traduction-2020.pdf) (ush → uta);
-- des formes plurielles déjà présentes dans les fiches de vocabulaire du jeu (chaussures, petits fruits, mitaines, gants, bas) et des enregistrements de Uashat.
+- des formes plurielles déjà présentes dans les fiches de vocabulaire du jeu (chaussures, petits fruits, mitaines, gants, bas).
+
+Les enregistrements de Uashat de ces mots sont prononcés au singulier (vérifié par Eric Boily le 25 novembre 2026), même quand le nom du fichier est au pluriel (uteiminana, shikuteua, anushkanat, atusseussina, pishakanessina, mittens, socks). Ils restent attachés au singulier. Seule la phrase « Nitauassimat » (mes enfants) donne un pluriel enregistré.
 
 Toutes les formes ont le statut « à valider ». Dans le jeu, on bascule d'**● Un** à **●●● Plusieurs** : la marque du pluriel s'ajoute en couleur (vert pour -at, terre cuite pour -a) et le petit ᵘ grandit en u.
 
@@ -200,7 +202,7 @@ Toutes les formes ont le statut « à valider ». Dans le jeu, on bascule d'**�
 
 | Singulier | Français | Genre | Pluriel proposé | Français | Source | Son au pluriel | Valide ? |
 |---|---|---|---|---|---|---|---|
-| Pishakanassin | Mocassin en peau | NI | **Pishakanassina** | Mocassins en peau | fiche de la thématique | oui | [ ] |
+| Pishakanassin | Mocassin en peau | NI | **Pishakanassina** | Mocassins en peau | fiche de la thématique |  | [ ] |
 | Mushuianassin | Mocassin en peau d’orignal | NI | **Mushuianassina** | Mocassins en peau d’orignal | fiche de la thématique |  | [ ] |
 | Atikuianassin | Mocassin en peau de caribou | NI | **Atikuianassina** | Mocassins en peau de caribou | fiche de la thématique |  | [ ] |
 | Atshikuianassin | Botte ou mocassin en peau de phoque | NI | **Atshikuianassina** | Bottes ou mocassins en peau de phoque | fiche de la thématique |  | [ ] |
@@ -210,7 +212,7 @@ Toutes les formes ont le statut « à valider ». Dans le jeu, on bascule d'**�
 | Manituianassin | Bottillon de feutre | NI | **Manituianassina** | Bottillons de feutre | fiche de la thématique |  | [ ] |
 | Uashkakunassin | Botte montant à la cheville | NI | **Uashkakunassina** | Bottes montant à la cheville | fiche de la thématique |  | [ ] |
 | Pipunassin | Botte d’hiver | NI | **Pipunassina** | Bottes d’hiver | fiche de la thématique |  | [ ] |
-| Atusseussin | Botte de sécurité | NI | **Atusseussina** | Bottes de sécurité | fiche de la thématique | oui | [ ] |
+| Atusseussin | Botte de sécurité | NI | **Atusseussina** | Bottes de sécurité | fiche de la thématique |  | [ ] |
 | Pakupeutash | Botte de caoutchouc | NI | **Pakupeutasha** | Bottes de caoutchouc | fiche de la thématique |  | [ ] |
 | Kuekuatsheutash | Botte | NI | **Kuekuatsheutasha** | Bottes | fiche de la thématique |  | [ ] |
 | Patshuianassin | Espadrille, soulier de toile | NI | **Patshuianassina** | Espadrilles, souliers de toile | fiche de la thématique |  | [ ] |
@@ -222,7 +224,7 @@ Toutes les formes ont le statut « à valider ». Dans le jeu, on bascule d'**�
 | Pipun-akunishkueun | Tuque, chapeau d’hiver | NI | **Pipun-akunishkueuna** | Tuques, chapeaux d’hiver | règle -at / -a |  | [ ] |
 | Mitashiapiu-akunishkueun | Tuque de laine | NI | **Mitashiapiu-akunishkueuna** | Tuques de laine | règle -at / -a |  | [ ] |
 | Kashkuan | Foulard | NA | **Kashkuanat** | Foulards | règle -at / -a |  | [ ] |
-| Ashtish | Mitaine ou gant | NA | **Ashtishat** | Mitaines ou gants | fiche de la thématique | oui | [ ] |
+| Ashtish | Mitaine ou gant | NA | **Ashtishat** | Mitaines ou gants | fiche de la thématique |  | [ ] |
 | Ninikashtish | Gant | NA | **Ninikashtishat** | Gants | fiche de la thématique |  | [ ] |
 | Akup | Veste | NI | **Akupa** | Vestes | règle -at / -a |  | [ ] |
 | Pipunakup | Veste d’hiver | NI | **Pipunakupa** | Vestes d’hiver | règle -at / -a |  | [ ] |
@@ -233,7 +235,7 @@ Toutes les formes ont le statut « à valider ». Dans le jeu, on bascule d'**�
 | Anakapeshakan | Pantalon | NA | **Anakapeshakanat** | Pantalons | règle -at / -a |  | [ ] |
 | Utashpishuna | Bretelles | NI | **(toujours au pluriel)** |  | Comme en français, on dit des bretelles : le mot est au pluriel (-a, nom inanimé). |  | [ ] |
 | Pakuateun | Ceinture | NI | **Pakuateuna** | Ceintures | règle -at / -a |  | [ ] |
-| Mitashiapiu-mitash | Bas de laine | NI | **Mitashiapiu-mitasha** | Bas de laine | fiche de la thématique | oui | [ ] |
+| Mitashiapiu-mitash | Bas de laine | NI | **Mitashiapiu-mitasha** | Bas de laine | fiche de la thématique |  | [ ] |
 | Pitau-anakapeshakan | Caleçon long, caleçon | NA | **Pitau-anakapeshakanat** | Caleçons longs, caleçons | règle -at / -a |  | [ ] |
 | Matinet | Blouse, chemisier | NI | **Matineta** | Blouses, chemisiers | règle -at / -a |  | [ ] |
 | Pitaushkan | Camisole | NI | **Pitaushkana** | Camisoles | règle -at / -a |  | [ ] |
@@ -286,10 +288,10 @@ Toutes les formes ont le statut « à valider ». Dans le jeu, on bascule d'**�
 | Singulier | Français | Genre | Pluriel proposé | Français | Source | Son au pluriel | Valide ? |
 |---|---|---|---|---|---|---|---|
 | Inniminan | Bleuet | NI | **Inniminana** | Bleuets | fiche de la thématique |  | [ ] |
-| Uteiminan | Fraise | NI | **Uteiminana** | Fraises | fiche de la thématique | oui | [ ] |
+| Uteiminan | Fraise | NI | **Uteiminana** | Fraises | fiche de la thématique |  | [ ] |
 | Uishatshimin | Graine rouge, airelle vigne d’Ida | NI | **Uishatshimina** | Graines rouges, airelles vigne d’Ida | fiche de la thématique |  | [ ] |
-| Shikuteu | Plaquebière | NI | **Shikuteua** | Plaquebières | fiche de la thématique | oui | [ ] |
-| Anushkan | Framboise | NA | **Anushkanat** | Framboises | fiche de la thématique | oui | [ ] |
+| Shikuteu | Plaquebière | NI | **Shikuteua** | Plaquebières | fiche de la thématique |  | [ ] |
+| Anushkan | Framboise | NA | **Anushkanat** | Framboises | fiche de la thématique |  | [ ] |
 | Uapimin | Pomme | NA | **Uapiminat** | Pommes | fiche G5-f |  | [ ] |
 | Atamu-uapimin | Poire | NA | **Atamu-uapiminat** | Poires | règle -at / -a |  | [ ] |
 | Ka uakashkuak min | Banane | NI | **à confirmer** |  |  |  | [ ] |

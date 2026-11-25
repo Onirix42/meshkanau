@@ -141,9 +141,9 @@ footer{margin:24px 0;text-align:center}
   <p class="tconsigne">📷 Ouvre l’appareil photo de l’iPad et vise le code.</p>
 </dialog>
 
-<script src="js/catalogue.js?v=20261125a"></script>
-<script src="js/classe.js?v=20261125a"></script>
-<script src="js/qrcode.js?v=20261125a"></script>
+<script src="js/catalogue.js?v=20261125b"></script>
+<script src="js/classe.js?v=20261125b"></script>
+<script src="js/qrcode.js?v=20261125b"></script>
 <script>
 const $ = id => document.getElementById(id);
 const esc = s => String(s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
@@ -152,7 +152,7 @@ let cfg = new URLSearchParams(location.search).has('classe') ? Classe.lire(new U
 /* Activités qu'une thématique peut offrir (même logique que le jeu; « Trie les noms »
    n'apparaît que si le genre des mots de la thématique est indiqué). */
 function dispo(t) {
-  let m = t === 'genre' ? ['explore', 'sort'] : ['explore', 'find', 'choose', 'sort'];
+  let m = t === 'genre' ? ['explore', 'sort'] : t === 'pluriel' ? ['explore'] : ['explore', 'find', 'choose', 'sort'];
   (DEFIS[t] || []).forEach(d => m.push(d[0]));
   if (PLURIEL_THEMES.includes(t)) m.push('plur');
   if (cfg.mode === 'oral') m = m.filter(x => !WRITTEN_ONLY.includes(x));

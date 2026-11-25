@@ -38,8 +38,11 @@ Les mots du jeu sont donnés au singulier (un mocassin, un bleuet, une mitaine),
 
 - Le mot se transforme sous les yeux de l'élève : la partie commune reste en place, la marque s'ajoute en couleur (vert pour -at, nom animé; terre cuite pour -a, nom inanimé) et le petit ᵘ final grandit en u (atikᵘ → atikuat). Des pastilles expliquent ce qui s'est ajouté.
 - Les formes irrégulières connues sont montrées comme un changement (innu-ush → innu-uta). Les noms sans pluriel dans le jeu (une seule tête, le sucre…) et les pluriels à confirmer l'indiquent clairement.
-- Les pluriels formés avec la règle restent « à valider »; ceux d'une fiche ou d'un enregistrement le disent. Les enregistrements au pluriel (atusseussina, uteiminana…) s'écoutent avec « Écouter au pluriel ».
+- Les pluriels formés avec la règle restent « à valider »; ceux d'une fiche ou d'un enregistrement le disent. Les pluriels seront enregistrés plus tard.
 - Le choix est conservé sur l'appareil. `?pluriel` ouvre l'application au pluriel; le mode Classe peut l'imposer (`nombre=sg` ou `nombre=pl`).
+- La tuile **Un ou plusieurs ?** (section « Comprendre la langue », à droite d'Animé ou inanimé ?) rassemble des mots de toutes les thématiques en trois planches : « Animé : + at », « Inanimé : + a » et « Les surprises du pluriel » (mots qui changent, toujours au pluriel, obviatif, sans pluriel). Le sélecteur transforme tous les mots de la planche en même temps; 🔀 tire d'autres mots. D'autres tuiles de ce genre suivront (possessifs, etc.).
+- Le défi « ➕ Pluriel » est aussi offert directement sur les cartes de la page d'accueil (mode écrit).
+- Les enregistrements de Uashat sont prononcés au singulier, même quand le nom du fichier est au pluriel (uteiminana, atusseussina…).
 - La visualisation est générique (`js/morpho.js`) : elle servira aussi aux préfixes et suffixes des possessifs et des verbes.
 
 Les règles, les formes attestées, les exceptions et leurs sources sont dans `js/pluriel.js`; la grille de validation est dans `docs/pluriel-validation.md`.
