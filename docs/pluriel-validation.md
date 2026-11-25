@@ -33,173 +33,174 @@ Toutes les formes ont le statut « à valider ». Dans le jeu, on bascule d'**�
 | Ushtikuan | Sa tête | NID | **— un seul** |  |  |  | [x] |
 | Utashtamikᵘ | Son visage | NID | **— un seul** |  |  |  | [x] |
 | Ushkassikan | Sa poitrine | NID | **— un seul** |  |  |  | [x] |
-| Utitiman | Son épaule | NID | **Utitimana** | Ses épaules | règle -at / -a |  | [ ] |
-| Ushpitun | Son bras | NID | **Ushpituna** | Ses bras | règle -at / -a |  | [ ] |
-| Utitshi | Sa main | NID | **Utitshia** | Ses mains | règle -at / -a |  | [ ] |
-| Upuam | Sa cuisse | NID | **Upuama** | Ses cuisses | règle -at / -a |  | [ ] |
-| Ushkat | Sa jambe | NID | **Ushkata** | Ses jambes | règle -at / -a |  | [ ] |
-| Ushit | Son pied | NID | **Ushita** | Ses pieds | règle -at / -a |  | [ ] |
-| Ninitshikanashtan | Un orteil | NI | **Ninitshikanashtana** | Des orteils | règle -at / -a |  | [ ] |
-| Pishkueun | Un cheveu | NI | **Pishkueuna** | Des cheveux | fiche de la thématique |  | [ ] |
+| Utitiman | Son épaule | NID | **Utitimana** | Ses épaules | règle -at / -a |  | [x] |
+| Ushpitun | Son bras | NID | **Ushpituna** | Ses bras | règle -at / -a |  | [x] |
+| Utitshi | Sa main | NID | **Utitshia** | Ses mains | règle -at / -a |  | [x] |
+| Upuam | Sa cuisse | NID | **Upuama** | Ses cuisses | règle -at / -a |  | [x] |
+| Ushkat | Sa jambe | NID | **Ushkata** | Ses jambes | règle -at / -a |  | [x] |
+| Ushit | Son pied | NID | **Ushita** | Ses pieds | règle -at / -a |  | [x] |
+| Ninitshikanashtan | Un orteil | NI | **Ninitshikanashtana** | Des orteils | règle -at / -a |  | [x] |
+| Pishkueun | Un cheveu | NI | **Pishkueuna** | Des cheveux | fiche de la thématique |  | [x] |
 | Ushkatikᵘ | Son front | NID | **— un seul** |  |  |  | [ ] |
-| Umamama | Son sourcil | NAD | **Umamama** | Ses sourcils | obviatif (G5-f) | oui | [ ] |
-| Utamakan | Sa joue | NID | **Utamakana** | Ses joues | règle -at / -a |  | [ ] |
-| Utukai | Son oreille | NID | **Utukaia** | Ses oreilles | règle -at / -a |  | [ ] |
-| Uashkaiapunan | Peau qui entoure l’œil | NID | **Uashkaiapunana** | Peau qui entoure les yeux | règle -at / -a |  | [ ] |
-| Mishuiapunan | Un cil | NI | **Mishuiapunana** | Des cils | règle -at / -a |  | [ ] |
-| Uapapunan | Blanc de l’œil | NI | **Uapapunana** | Blancs des yeux | règle -at / -a |  | [ ] |
-| Ussishikᵘ | Son œil | NID | **Ussishikua** | Ses yeux | règle -at / -a |  | [ ] |
-| Maunapui | Une larme | NI | **Maunapuia** | Des larmes | règle -at / -a |  | [ ] |
-| Ussishikukauna | Des lunettes | NI | **(toujours au pluriel)** |  | Comme en français, on dit des lunettes : le mot est au pluriel (-a, nom inanimé). |  | [ ] |
-| Ushkush | Son nez | NID | **— un seul** |  |  |  | [ ] |
-| Utun | Sa bouche | NID | **— un seul** |  |  |  | [ ] |
-| Utenikuma | Sa narine | NAD | **Utenikuma** | Ses narines | obviatif (G5-f) | oui | [ ] |
-| Utenni | Sa langue | NID | **— un seul** |  |  |  | [ ] |
-| Uipit | Sa dent | NID | **Uipita** | Ses dents | règle -at / -a |  | [ ] |
-| Utapissikan | Sa mâchoire, son menton | NID | **— un seul** |  |  |  | [ ] |
-| Uiau | Corps | NID | **— un seul** |  |  |  | [ ] |
-| Ukueiau | Cou | NID | **— un seul** |  |  |  | [ ] |
-| Ukunititshi | Poignet | NID | **Ukunititshia** | Poignets | règle -at / -a |  | [ ] |
-| Utushkun | Coude | NID | **Utushkuna** | Coudes | règle -at / -a |  | [ ] |
-| Ushpishkun | Dos | NID | **— un seul** |  |  |  | [ ] |
-| Ushukan | Bas du dos, bassin | NID | **— un seul** |  |  |  | [ ] |
-| Utukan | Tête de fémur | NID | **Utukana** | Têtes de fémur | règle -at / -a |  | [ ] |
-| Ushikakun | Son jarret (arrière du genou) | NID | **Ushikakuna** | Ses jarrets (arrière du genou) | règle -at / -a |  | [ ] |
-| Utashtan | Mollet | NAD/NID | **à confirmer** |  | Utashtan est animé ou inanimé selon la phrase : -at ou -a ? |  | [ ] |
-| Utshikun | Genou | NID | **Utshikuna** | Genoux | règle -at / -a |  | [ ] |
-| Ukun | Cheville (son poignet) | NID | **Ukuna** | Chevilles (ses poignets) | règle -at / -a |  | [ ] |
-| Ututan | Talon | NID | **Ututana** | Talons | règle -at / -a |  | [ ] |
-| Mishtushit | Gros orteil | NI | **Mishtushita** | Gros orteils | règle -at / -a |  | [ ] |
-| Ninitshititshan | Un doigt | NI | **Ninitshititshana** | Des doigts | règle -at / -a |  | [ ] |
-| Ushkashia | Son ongle | NAD | **Ushkashia** | Ses ongles | obviatif (G5-f) | oui | [ ] |
-| Atuaikanititshi | Index | NI | **Atuaikanititshia** | Index | règle -at / -a |  | [ ] |
-| Nipautitshan | Annulaire | NI | **Nipautitshana** | Annulaires | règle -at / -a |  | [ ] |
-| Tetautitshan | Majeur | NI | **Tetautitshana** | Majeurs | règle -at / -a |  | [ ] |
-| Ishkuatitshan | Auriculaire | NI | **Ishkuatitshana** | Auriculaires | règle -at / -a |  | [ ] |
-| Mitshitin | Un pouce | NI | **Mitshitina** | Des pouces | règle -at / -a |  | [ ] |
-| Unashpatshiun | Sa main gauche | NID | **— un seul** |  |  |  | [ ] |
-| Uminun | Sa main droite | NID | **— un seul** |  |  |  | [ ] |
-| Unakashtanititshi | Paume de la main | NID | **Unakashtanititshia** | Paumes des mains | règle -at / -a |  | [ ] |
+| Umamama | Son sourcil | NAD | **Umamama** | Ses sourcils | obviatif (G5-f) | oui | [x] |
+| Utamakan | Sa joue | NID | **Utamakana** | Ses joues | règle -at / -a |  | [x] |
+| Utukai | Son oreille | NID | **Utukaia** | Ses oreilles | règle -at / -a |  | [x] |
+| Uashkaiapunan | Peau qui entoure l’œil | NID | **Uashkaiapunana** | Peau qui entoure les yeux | règle -at / -a |  | [x] |
+| Mishuiapunan | Un cil | NI | **Mishuiapunana** | Des cils | règle -at / -a |  | [x] |
+| Uapapunan | Blanc de l’œil | NI | **Uapapunana** | Blancs des yeux | règle -at / -a |  | [ 
+x] |
+| Ussishikᵘ | Son œil | NID | **Ussishikua** | Ses yeux | règle -at / -a |  | [x] |
+| Maunapui | Une larme | NI | **Maunapuia** | Des larmes | règle -at / -a |  | [x] |
+| Ussishikukauna | Des lunettes | NI | **(toujours au pluriel)** |  | Comme en français, on dit des lunettes : le mot est au pluriel (-a, nom inanimé). |  | [x] |
+| Ushkush | Son nez | NID | **— un seul** |  |  |  | [x] |
+| Utun | Sa bouche | NID | **— un seul** |  |  |  | [x] |
+| Utenikuma | Sa narine | NAD | **Utenikuma** | Ses narines | obviatif (G5-f) | oui | [x] |
+| Utenni | Sa langue | NID | **— un seul** |  |  |  | [x] |
+| Uipit | Sa dent | NID | **Uipita** | Ses dents | règle -at / -a |  | [x] |
+| Utapissikan | Sa mâchoire, son menton | NID | **— un seul** |  |  |  | [x] |
+| Uiau | Corps | NID | **— un seul** |  |  |  | [x] |
+| Ukueiau | Cou | NID | **— un seul** |  |  |  | [x] |
+| Ukunititshi | Poignet | NID | **Ukunititshia** | Poignets | règle -at / -a |  | [x] |
+| Utushkun | Coude | NID | **Utushkuna** | Coudes | règle -at / -a |  | [x] |
+| Ushpishkun | Dos | NID | **— un seul** |  |  |  | [x] |
+| Ushukan | Bas du dos, bassin | NID | **— un seul** |  |  |  | [x] |
+| Utukan | Tête de fémur | NID | **Utukana** | Têtes de fémur | règle -at / -a |  | [x] |
+| Ushikakun | Son jarret (arrière du genou) | NID | **Ushikakuna** | Ses jarrets (arrière du genou) | règle -at / -a |  | [x] |
+| Utashtan | Mollet | NAD/NID | **Utashtana(t)** |  | Utashtan est animé ou inanimé selon la phrase : -at ou -a ? |  | [x] |
+| Utshikun | Genou | NID | **Utshikuna** | Genoux | règle -at / -a |  | [x] |
+| Ukun | Cheville (son poignet) | NID | **Ukuna** | Chevilles (ses poignets) | règle -at / -a |  | [x] |
+| Ututan | Talon | NID | **Ututana** | Talons | règle -at / -a |  | [x] |
+| Mishtushit | Gros orteil | NI | **Mishtushita** | Gros orteils | règle -at / -a |  | [x] |
+| Ninitshititshan | Un doigt | NI | **Ninitshititshana** | Des doigts | règle -at / -a |  | [x] |
+| Ushkashia | Son ongle | NAD | **Ushkashia** | Ses ongles | obviatif (G5-f) | oui | [x] |
+| Atuaikanititshi | Index | NI | **Atuaikanititshia** | Index | règle -at / -a |  | [x] |
+| Nipautitshan | Annulaire | NI | **Nipautitshana** | Annulaires | règle -at / -a |  | [x] |
+| Tetautitshan | Majeur | NI | **Tetautitshana** | Majeurs | règle -at / -a |  | [x] |
+| Ishkuatitshan | Auriculaire | NI | **Ishkuatitshana** | Auriculaires | règle -at / -a |  | [x] |
+| Mitshitin | Un pouce | NI | **Mitshitina** | Des pouces | règle -at / -a |  | [x] |
+| Unashpatshiun | Sa main gauche | NID | **— un seul** |  |  |  | [x] |
+| Uminun | Sa main droite | NID | **— un seul** |  |  |  | [x] |
+| Unakashtanititshi | Paume de la main | NID | **Unakashtanititshia** | Paumes des mains | règle -at / -a |  | [x] |
 
 ## La famille · Kautishkuemit
 
 | Singulier | Français | Genre | Pluriel proposé | Français | Source | Son au pluriel | Valide ? |
 |---|---|---|---|---|---|---|---|
-| Nikaui | Ma mère | NAD | **— un seul** |  |  |  | [ ] |
-| Nutaui | Mon père | NAD | **— un seul** |  |  |  | [ ] |
+| Nikaui | Ma mère | NAD | **— un seul** |  |  |  | [x] |
+| Nutaui | Mon père | NAD | **— un seul** |  |  |  | [x] |
 | Nukum | Ma grand-mère | NAD | **Nukumat** | Mes grands-mères | règle -at / -a |  | [ ] |
 | Nimushum | Mon grand-père | NAD | **Nimushumat** | Mes grands-pères | règle -at / -a |  | [ ] |
 | Nitanishkutapanukuma | Mon arrière-grand-mère | NAD | **Nitanishkutapanukumat** | Mes arrière-grands-mères | Eric Boily, 25 nov. 2026 (-a → -at) |  | [ ] |
 | Nitanishkutapanimushuma | Mon arrière-grand-père | NAD | **Nitanishkutapanimushumat** | Mes arrière-grands-pères | Eric Boily, 25 nov. 2026 (-a → -at) |  | [ ] |
-| Tshiashinnuat | Les ancêtres | NA | **(toujours au pluriel)** |  | Les ancêtres : le mot est au pluriel (-at, nom animé). |  | [ ] |
-| Nishtesh | Mon grand frère | NAD | **Nishteshat** | Mes grands frères | page « Le nombre des noms » |  | [ ] |
-| Nimish | Ma grande sœur | NAD | **Nimishat** | Mes grandes sœurs | règle -at / -a |  | [ ] |
-| Nishim | Mon petit frère ou ma petite sœur | NAD | **Nishimat** | Mes petits frères ou mes petites sœurs | fiche G5-f |  | [ ] |
-| Kanishishiht | Les jumeaux | NAP | **(toujours au pluriel)** |  | Les jumeaux : le mot est au pluriel. |  | [ ] |
-| Nukumish | Mon oncle | NAD | **Nukumishat** | Mes oncles | règle -at / -a |  | [ ] |
-| Nituss | Ma tante | NAD | **Nitussat** | Mes tantes | règle -at / -a |  | [ ] |
-| Nishteshikauna | Mon cousin aîné | NAD | **Nishteshikaunat** | Mes cousins aînés | Eric Boily, 25 nov. 2026 (-a → -at) |  | [ ] |
-| Nimishikauna | Ma cousine aînée | NAD | **Nimishikaunat** | Mes cousines aînées | Eric Boily, 25 nov. 2026 (-a → -at) |  | [ ] |
-| Nishimikauna | Mon cousin cadet ou ma cousine cadette | NAD | **Nishimikaunat** | Mes cousins cadets ou mes cousines cadettes | Eric Boily, 25 nov. 2026 (-a → -at) |  | [ ] |
-| Nitushim | Mon neveu | NAD | **Nitushimat** | Mes neveux | règle -at / -a |  | [ ] |
-| Nitushimishkuem | Ma nièce | NAD | **Nitushimishkuemat** | Mes nièces | règle -at / -a |  | [ ] |
-| Nishtaua | Mon beau-frère | NAD | **Nishtauat** | Mes beaux-frères | Eric Boily, 25 nov. 2026 (-a → -at) |  | [ ] |
-| Nitimua | Ma belle-sœur | NAD | **Nitimuat** | Mes belles-sœurs | Eric Boily, 25 nov. 2026 (-a → -at) |  | [ ] |
-| Nitauassim | Mon enfant | NAD | **Nitauassimat** | Mes enfants | fiche de la thématique | oui | [ ] |
-| Nitauassimat | Mes enfants | NAD | **(toujours au pluriel)** |  | Mes enfants : pluriel de Nitauassim (mon enfant), avec -at. |  | [ ] |
-| Nikuss | Mon fils | NAD | **Nikussat** | Mes fils | règle -at / -a |  | [ ] |
-| Nitanish | Ma fille | NAD | **Nitanishat** | Mes filles | règle -at / -a |  | [ ] |
-| Auassiss | Un bébé | NA | **Auassissat** | Des bébés | règle -at / -a |  | [ ] |
-| Nishtamushan | L’aîné ou l’aînée de la famille | NA | **— un seul** |  |  |  | [ ] |
-| Mashtenushan | Le benjamin ou la benjamine de la famille | NA | **— un seul** |  |  |  | [ ] |
-| Nussima | Mon petit-fils ou ma petite-fille | NAD | **Nussimat** | Mes petits-enfants | Eric Boily, 25 nov. 2026 (-a → -at) |  | [ ] |
-| Ninapem | Mon mari | NAD | **— un seul** |  |  |  | [ ] |
-| Nitishkuem | Ma femme | NAD | **— un seul** |  |  |  | [ ] |
-| Nuitimimush | Mon amoureux, mon amoureuse | NAD | **— un seul** |  |  |  | [ ] |
-| Nikanishat | Ma parenté, mes proches | NAD | **(toujours au pluriel)** |  | Ma parenté, mes proches : le mot est au pluriel (-at, nom animé). |  | [ ] |
-| Nitaiamieutauia | Mon parrain | NAD | **Nitaiamieutauiat** | Mes parrains | Eric Boily, 25 nov. 2026 (-a → -at) |  | [ ] |
-| Nitaiamieukauia | Ma marraine | NAD | **Nitaiamieukauiat** | Mes marraines | Eric Boily, 25 nov. 2026 (-a → -at) |  | [ ] |
+| Tshiashinnuat | Les ancêtres | NA | **(toujours au pluriel)** |  | Les ancêtres : le mot est au pluriel (-at, nom animé). |  | [x] |
+| Nishtesh | Mon grand frère | NAD | **Nishteshat** | Mes grands frères | page « Le nombre des noms » |  | [x] |
+| Nimish | Ma grande sœur | NAD | **Nimishat** | Mes grandes sœurs | règle -at / -a |  | [x] |
+| Nishim | Mon petit frère ou ma petite sœur | NAD | **Nishimat** | Mes petits frères ou mes petites sœurs | fiche G5-f |  | [x] |
+| Kanishishiht | Les jumeaux | NAP | **(toujours au pluriel)** |  | Les jumeaux : le mot est au pluriel. |  | [x] |
+| Nukumish | Mon oncle | NAD | **Nukumishat** | Mes oncles | règle -at / -a |  | [x] |
+| Nituss | Ma tante | NAD | **Nitussat** | Mes tantes | règle -at / -a |  | [x] |
+| Nishteshikauna | Mon cousin aîné | NAD | **Nishteshikaunat** | Mes cousins aînés | Eric Boily, 25 nov. 2026 (-a → -at) |  | [x] |
+| Nimishikauna | Ma cousine aînée | NAD | **Nimishikaunat** | Mes cousines aînées | Eric Boily, 25 nov. 2026 (-a → -at) |  | [x] |
+| Nishimikauna | Mon cousin cadet ou ma cousine cadette | NAD | **Nishimikaunat** | Mes cousins cadets ou mes cousines cadettes | Eric Boily, 25 nov. 2026 (-a → -at) |  | [x] |
+| Nitushim | Mon neveu | NAD | **Nitushimat** | Mes neveux | règle -at / -a |  | [x] |
+| Nitushimishkuem | Ma nièce | NAD | **Nitushimishkuemat** | Mes nièces | règle -at / -a |  | [x] |
+| Nishtaua | Mon beau-frère | NAD | **Nishtauat** | Mes beaux-frères | Eric Boily, 25 nov. 2026 (-a → -at) |  | [x] |
+| Nitimua | Ma belle-sœur | NAD | **Nitimuat** | Mes belles-sœurs | Eric Boily, 25 nov. 2026 (-a → -at) |  | [x] |
+| Nitauassim | Mon enfant | NAD | **Nitauassimat** | Mes enfants | fiche de la thématique | oui | [x] |
+| Nitauassimat | Mes enfants | NAD | **(toujours au pluriel)** |  | Mes enfants : pluriel de Nitauassim (mon enfant), avec -at. |  | [x] |
+| Nikuss | Mon fils | NAD | **Nikussat** | Mes fils | règle -at / -a |  | [x] |
+| Nitanish | Ma fille | NAD | **Nitanishat** | Mes filles | règle -at / -a |  | [x] |
+| Auassiss | Un bébé | NA | **Auassissat** | Des bébés | règle -at / -a |  | [x] |
+| Nishtamushan | L’aîné ou l’aînée de la famille | NA | **— un seul** |  |  |  | [x] |
+| Mashtenushan | Le benjamin ou la benjamine de la famille | NA | **— un seul** |  |  |  | [x] |
+| Nussima | Mon petit-fils ou ma petite-fille | NAD | **Nussimat** | Mes petits-enfants | Eric Boily, 25 nov. 2026 (-a → -at) |  | [x] |
+| Ninapem | Mon mari | NAD | **— un seul** |  |  |  | [x] |
+| Nitishkuem | Ma femme | NAD | **— un seul** |  |  |  | [x] |
+| Nuitimimush | Mon amoureux, mon amoureuse | NAD | **— un seul** |  |  |  | [x] |
+| Nikanishat | Ma parenté, mes proches | NAD | **(toujours au pluriel)** |  | Ma parenté, mes proches : le mot est au pluriel (-at, nom animé). |  | [x] |
+| Nitaiamieutauia | Mon parrain | NAD | **Nitaiamieutauiat** | Mes parrains | Eric Boily, 25 nov. 2026 (-a → -at) |  | [x] |
+| Nitaiamieukauia | Ma marraine | NAD | **Nitaiamieukauiat** | Mes marraines | Eric Boily, 25 nov. 2026 (-a → -at) |  | [x] |
 
 ## Les animaux de la forêt · Aueshishat
 
 | Singulier | Français | Genre | Pluriel proposé | Français | Source | Son au pluriel | Valide ? |
 |---|---|---|---|---|---|---|---|
-| Atikᵘ | Caribou | NA | **Atikuat** | Caribous | page « Le nombre des noms » |  | [ ] |
-| Mush | Orignal | NA | **Mushat** | Orignaux | fiche G5-f |  | [ ] |
-| Uinashkᵘ | Marmotte | NA | **Uinashkuat** | Marmottes | règle -at / -a |  | [ ] |
-| Uapush | Lièvre | NA | **Uapushat** | Lièvres | règle -at / -a |  | [ ] |
-| Uapishtan | Martre | NA | **Uapishtanat** | Martres | règle -at / -a |  | [ ] |
-| Kakᵘ | Porc-épic | NA | **Kakuat** | Porcs-épics | règle -at / -a |  | [ ] |
-| Utshashkᵘ | Rat musqué | NA | **Utshashkuat** | Rats musqués | règle -at / -a |  | [ ] |
-| Nitshikᵘ | Loutre | NA | **Nitshikuat** | Loutres | règle -at / -a |  | [ ] |
-| Mashkᵘ | Ours | NA | **Mashkuat** | Ours | règle -at / -a |  | [ ] |
-| Atshakash | Vison | NA | **Atshakashat** | Visons | règle -at / -a |  | [ ] |
-| Anikutshash | Écureuil | NA | **Anikutshashat** | Écureuils | règle -at / -a |  | [ ] |
-| Amishkᵘ | Castor | NA | **Amishkuat** | Castors | règle -at / -a |  | [ ] |
-| Pishu | Loup-cervier, lynx | NA | **Pishuat** | Loups-cervier, lynx | règle -at / -a |  | [ ] |
-| Matsheshu | Renard | NA | **Matsheshuat** | Renards | fiche G5-f |  | [ ] |
-| Maikan | Loup | NA | **Maikanat** | Loups | règle -at / -a |  | [ ] |
-| Shikakᵘ | Moufette | NA | **Shikakuat** | Moufettes | règle -at / -a |  | [ ] |
+| Atikᵘ | Caribou | NA | **Atikuat** | Caribous | page « Le nombre des noms » |  | [x] |
+| Mush | Orignal | NA | **Mushat** | Orignaux | fiche G5-f |  | [x] |
+| Uinashkᵘ | Marmotte | NA | **Uinashkuat** | Marmottes | règle -at / -a |  | [x] |
+| Uapush | Lièvre | NA | **Uapushat** | Lièvres | règle -at / -a |  | [x] |
+| Uapishtan | Martre | NA | **Uapishtanat** | Martres | règle -at / -a |  | [x] |
+| Kakᵘ | Porc-épic | NA | **Kakuat** | Porcs-épics | règle -at / -a |  | [x] |
+| Utshashkᵘ | Rat musqué | NA | **Utshashkuat** | Rats musqués | règle -at / -a |  | [x] |
+| Nitshikᵘ | Loutre | NA | **Nitshikuat** | Loutres | règle -at / -a |  | [x] |
+| Mashkᵘ | Ours | NA | **Mashkuat** | Ours | règle -at / -a |  | [x] |
+| Atshakash | Vison | NA | **Atshakashat** | Visons | règle -at / -a |  | [x] |
+| Anikutshash | Écureuil | NA | **Anikutshashat** | Écureuils | règle -at / -a |  | [x] |
+| Amishkᵘ | Castor | NA | **Amishkuat** | Castors | règle -at / -a |  | [x] |
+| Pishu | Loup-cervier, lynx | NA | **Pishuat** | Loups-cervier, lynx | règle -at / -a |  | [x] |
+| Matsheshu | Renard | NA | **Matsheshuat** | Renards | fiche G5-f |  | [x] |
+| Maikan | Loup | NA | **Maikanat** | Loups | règle -at / -a |  | [x] |
+| Shikakᵘ | Moufette | NA | **Shikakuat** | Moufettes | règle -at / -a |  | [x] |
 
 ## Les poissons · Nameshat
 
 | Singulier | Français | Genre | Pluriel proposé | Français | Source | Son au pluriel | Valide ? |
 |---|---|---|---|---|---|---|---|
-| Matamekᵘ | Truite mouchetée, omble de fontaine | NA | **Matamekuat** | Truites mouchetées, ombles de fontaine | règle -at / -a |  | [ ] |
-| Kukamess | Touladi, truite grise | NA | **Kukamessat** | Touladis, truites grises | règle -at / -a |  | [ ] |
-| Unan | Ouananiche | NA | **Unanat** | Ouananiches | règle -at / -a |  | [ ] |
-| Atikamekᵘ | Corégone | NA | **Atikamekuat** | Corégones | règle -at / -a |  | [ ] |
-| Tshinusheu | Grand brochet | NA | **Tshinusheuat** | Grands brochets | règle -at / -a |  | [ ] |
-| Makatsheu | Carpe noire, meunier noir | NA | **Makatsheuat** | Carpes noires, meuniers noirs | règle -at / -a |  | [ ] |
-| Minai | Lotte (un Maître dans la légende) | NA | **Minaiat** | Lottes | règle -at / -a |  | [ ] |
-| Upimishui | Anguille d’Amérique | NA | **Upimishuiat** | Anguilles d’Amérique | règle -at / -a |  | [ ] |
-| Utshashumekᵘ | Saumon atlantique | NA | **Utshashumekuat** | Saumons atlantiques | règle -at / -a |  | [ ] |
-| Uinipeku-matamekᵘ | Truite de mer | NA | **Uinipeku-matamekuat** | Truites de mer | règle -at / -a |  | [ ] |
-| Kashkanamekush | Capelan | NA | **Kashkanamekushat** | Capelans | règle -at / -a |  | [ ] |
-| Unushu | Morue franche | NA | **Unushuat** | Morues franches | règle -at / -a |  | [ ] |
-| Tamakat | Un poisson des chenaux, poulamon atlantique | NA | **Tamakatat** | Des poissons des chenaux, poulamons atlantiques | règle -at / -a |  | [ ] |
-| Papakatishu | Plie ou flétan | NA | **Papakatishuat** | Plies ou flétans | règle -at / -a |  | [ ] |
+| Matamekᵘ | Truite mouchetée, omble de fontaine | NA | **Matamekuat** | Truites mouchetées, ombles de fontaine | règle -at / -a |  | [x] |
+| Kukamess | Touladi, truite grise | NA | **Kukamessat** | Touladis, truites grises | règle -at / -a |  | [x] |
+| Unan | Ouananiche | NA | **Unanat** | Ouananiches | règle -at / -a |  | [x] |
+| Atikamekᵘ | Corégone | NA | **Atikamekuat** | Corégones | règle -at / -a |  | [x] |
+| Tshinusheu | Grand brochet | NA | **Tshinusheuat** | Grands brochets | règle -at / -a |  | [x] |
+| Makatsheu | Carpe noire, meunier noir | NA | **Makatsheuat** | Carpes noires, meuniers noirs | règle -at / -a |  | [x] |
+| Minai | Lotte (un Maître dans la légende) | NA | **Minaiat** | Lottes | règle -at / -a |  | [x] |
+| Upimishui | Anguille d’Amérique | NA | **Upimishuiat** | Anguilles d’Amérique | règle -at / -a |  | [x] |
+| Utshashumekᵘ | Saumon atlantique | NA | **Utshashumekuat** | Saumons atlantiques | règle -at / -a |  | [x] |
+| Uinipeku-matamekᵘ | Truite de mer | NA | **Uinipeku-matamekuat** | Truites de mer | règle -at / -a |  | [x] |
+| Kashkanamekush | Capelan | NA | **Kashkanamekushat** | Capelans | règle -at / -a |  | [x] |
+| Unushu | Morue franche | NA | **Unushuat** | Morues franches | règle -at / -a |  | [x] |
+| Tamakat | Un poisson des chenaux, poulamon atlantique | NA | **Tamakatat** | Des poissons des chenaux, poulamons atlantiques | règle -at / -a |  | [x] |
+| Papakatishu | Plie ou flétan | NA | **Papakatishuat** | Plies ou flétans | règle -at / -a |  | [x] |
 
 ## Les bestioles · Manitushat
 
 | Singulier | Français | Genre | Pluriel proposé | Français | Source | Son au pluriel | Valide ? |
 |---|---|---|---|---|---|---|---|
-| Anik | Crapaud | NA | **Anikat** | Crapauds | règle -at / -a |  | [ ] |
-| Umatshashkukᵘ | Grenouille | NA | **Umatshashkukuat** | Grenouilles | règle -at / -a |  | [ ] |
-| Utemikuanishu | Têtard | NA | **Utemikuanishuat** | Têtards | règle -at / -a |  | [ ] |
-| Atshinepikᵘ | Couleuvre, serpent | NA | **Atshinepikuat** | Couleuvres, serpents | règle -at / -a |  | [ ] |
-| Enikᵘ | Araignée | NA | **Enikuat** | Araignées | règle -at / -a |  | [ ] |
-| Anishku-enikᵘ | Fourmi | NA | **Anishku-enikuat** | Fourmis | règle -at / -a |  | [ ] |
-| Shatshimeu | Moustique (insecte qui pique) | NA | **Shatshimeuat** | Moustiques (insectes qui piquent) | règle -at / -a |  | [ ] |
-| Utsheu | Mouche | NA | **Utsheuat** | Mouches | règle -at / -a |  | [ ] |
-| Missakᵘ | Taon, bourdon | NA | **Missakuat** | Taons, bourdons | règle -at / -a |  | [ ] |
-| Pikush | Brûlot | NA | **Pikushat** | Brûlots | règle -at / -a |  | [ ] |
-| Amu | Abeille | NA | **Amuat** | Abeilles | règle -at / -a |  | [ ] |
-| Tshishtaueshu | Guêpe des conifères | NA | **Tshishtaueshuat** | Guêpes des conifères | règle -at / -a |  | [ ] |
-| Sheuekatshu | Libellule | NA | **Sheuekatshuat** | Libellules | règle -at / -a |  | [ ] |
-| Uashteshish | Luciole, mouche à feu | NA | **Uashteshishat** | Lucioles, mouches à feu | règle -at / -a |  | [ ] |
-| Kuakuapishish | Papillon | NA | **Kuakuapishishat** | Papillons | règle -at / -a |  | [ ] |
+| Anik | Crapaud | NA | **Anikat** | Crapauds | règle -at / -a |  | [x] |
+| Umatshashkukᵘ | Grenouille | NA | **Umatshashkukuat** | Grenouilles | règle -at / -a |  | [x] |
+| Utemikuanishu | Têtard | NA | **Utemikuanishuat** | Têtards | règle -at / -a |  | [x] |
+| Atshinepikᵘ | Couleuvre, serpent | NA | **Atshinepikuat** | Couleuvres, serpents | règle -at / -a |  | [x] |
+| Enikᵘ | Araignée | NA | **Enikuat** | Araignées | règle -at / -a |  | [x] |
+| Anishku-enikᵘ | Fourmi | NA | **Anishku-enikuat** | Fourmis | règle -at / -a |  | [x] |
+| Shatshimeu | Moustique (insecte qui pique) | NA | **Shatshimeuat** | Moustiques (insectes qui piquent) | règle -at / -a |  | [x] |
+| Utsheu | Mouche | NA | **Utsheuat** | Mouches | règle -at / -a |  | [x] |
+| Missakᵘ | Taon, bourdon | NA | **Missakuat** | Taons, bourdons | règle -at / -a |  | [x] |
+| Pikush | Brûlot | NA | **Pikushat** | Brûlots | règle -at / -a |  | [x] |
+| Amu | Abeille | NA | **Amuat** | Abeilles | règle -at / -a |  | [x] |
+| Tshishtaueshu | Guêpe des conifères | NA | **Tshishtaueshuat** | Guêpes des conifères | règle -at / -a |  | [x] |
+| Sheuekatshu | Libellule | NA | **Sheuekatshuat** | Libellules | règle -at / -a |  | [x] |
+| Uashteshish | Luciole, mouche à feu | NA | **Uashteshishat** | Lucioles, mouches à feu | règle -at / -a |  | [x] |
+| Kuakuapishish | Papillon | NA | **Kuakuapishishat** | Papillons | règle -at / -a |  | [x] |
 
 ## Les moyens de transport · Utapana
 
 | Singulier | Français | Genre | Pluriel proposé | Français | Source | Son au pluriel | Valide ? |
 |---|---|---|---|---|---|---|---|
-| Utapan | Automobile | NI | **Utapana** | Automobiles | page « Le nombre des noms » |  | [ ] |
-| Katshishkutamatsheutapan | Autobus | NI | **Katshishkutamatsheutapana** | Autobus | règle -at / -a |  | [ ] |
-| Kamakunueshiutapan | Voiture de police | NI | **Kamakunueshiutapana** | Voitures de police | règle -at / -a |  | [ ] |
-| Akushiutapan | Ambulance | NI | **Akushiutapana** | Ambulances | règle -at / -a |  | [ ] |
-| Ashtueitsheutapan | Camion de pompier | NI | **Ashtueitsheutapana** | Camions de pompier | règle -at / -a |  | [ ] |
-| Ishkuteutapan | Train | NI | **Ishkuteutapana** | Trains | fiche G6-f |  | [ ] |
-| Pipunitapan | Motoneige | NI | **Pipunitapana** | Motoneiges | règle -at / -a |  | [ ] |
-| Utapanashkᵘ | Tabagane | NA | **Utapanashkuat** | Tabaganes | règle -at / -a |  | [ ] |
-| Nepissik | Bicyclette | NI | **Nepissika** | Bicyclettes | règle -at / -a |  | [ ] |
-| Ushkuai-ush | Canot en écorce | NI | **Ushkuai-uta** | Canots en écorce | Leçons d’innu, leçon 3 |  | [ ] |
-| Innu-ush | Canot | NI | **Innu-uta** | Canots | Leçons d’innu, leçon 3 |  | [ ] |
-| Pineshaush | Goélette | NI | **Pineshausha** | Goélettes | règle -at / -a |  | [ ] |
-| Napekuian | Navire à voiles | NI | **Napekuiana** | Navires à voiles | règle -at / -a |  | [ ] |
-| Ishkuteu-ush | Bateau à moteur, à vapeur | NA | **à confirmer** |  | Ishkuteu-ush est animé (NA) : garde-t-il ush → uta comme les canots, ou prend-il -at ? |  | [ ] |
-| Upashtamakan | Avion | NA | **Upashtamakanat** | Avions | fiche G5-f |  | [ ] |
-| Sheuekatshu | Hélicoptère | NA | **Sheuekatshuat** | Hélicoptères | règle -at / -a |  | [ ] |
+| Utapan | Automobile | NI | **Utapana** | Automobiles | page « Le nombre des noms » |  | [x] |
+| Katshishkutamatsheutapan | Autobus | NI | **Katshishkutamatsheutapana** | Autobus | règle -at / -a |  | [x] |
+| Kamakunueshiutapan | Voiture de police | NI | **Kamakunueshiutapana** | Voitures de police | règle -at / -a |  | [x] |
+| Akushiutapan | Ambulance | NI | **Akushiutapana** | Ambulances | règle -at / -a |  | [x] |
+| Ashtueitsheutapan | Camion de pompier | NI | **Ashtueitsheutapana** | Camions de pompier | règle -at / -a |  | [x] |
+| Ishkuteutapan | Train | NI | **Ishkuteutapana** | Trains | fiche G6-f |  | [x] |
+| Pipunitapan | Motoneige | NI | **Pipunitapana** | Motoneiges | règle -at / -a |  | [x] |
+| Utapanashkᵘ | Tabagane | NA | **Utapanashkuat** | Tabaganes | règle -at / -a |  | [x] |
+| Nepissik | Bicyclette | NI | **Nepissika** | Bicyclettes | règle -at / -a |  | [x] |
+| Ushkuai-ush | Canot en écorce | NI | **Ushkuai-uta** | Canots en écorce | Leçons d’innu, leçon 3 |  | [x] |
+| Innu-ush | Canot | NI | **Innu-uta** | Canots | Leçons d’innu, leçon 3 |  | [x] |
+| Pineshaush | Goélette | NI | **Pineshausha** | Goélettes | règle -at / -a |  | [x] |
+| Napekuian | Navire à voiles | NI | **Napekuiana** | Navires à voiles | règle -at / -a |  | [x] |
+| Ishkuteu-ush | Bateau à moteur, à vapeur | NA | **Ishkuteu-uta** |  | Ishkuteu-ush est animé (NA) : garde-t-il ush → uta comme les canots, ou prend-il -at ? |  | [x] |
+| Upashtamakan | Avion | NA | **Upashtamakanat** | Avions | fiche G5-f |  | [x] |
+| Sheuekatshu | Hélicoptère | NA | **Sheuekatshuat** | Hélicoptères | règle -at / -a |  | [x] |
 
 ## Les vêtements · Matshunisha
 
