@@ -201,7 +201,7 @@ Branche `phase2-pluriel` (25 nov. 2026), à tester et à valider avant la fusion
       ancêtres, jumeaux, mes enfants, ma parenté, farine, thé).
 - [x] Ajouter le pluriel de chaque nom : règle -at / -a d'innu-aimun.ca et fiches
       G5-f, G6-f (`js/pluriel.js`), sans extraction du dictionnaire. Formes « à valider ».
-- [ ] Valider les pluriels avec Noëlla, Hubert et Virginie (`docs/pluriel-validation.md`).
+- [x] Pluriels validés au complet avec Noëlla Mckenzie le 25 nov. 2026 (`docs/pluriel-validation.md`).
 - [x] Gestion intelligente du pluriel dans toutes les thématiques : noms sans pluriel
       (parties uniques du corps, non comptables), obviatif (son sourcil), formes
       irrégulières (ush → uta), pluriels à confirmer.

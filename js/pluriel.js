@@ -13,7 +13,7 @@
    - forme irrégulière connue : ush → uta (embarcation), d'où Utapana / Uta.
 
    Types renvoyés par Pluriel.info(w)
-   - regle    : pluriel calculé avec la règle (statut « à valider »)
+   - regle    : pluriel calculé avec la règle
    - fiche    : pluriel donné tel quel par une fiche ou une source
    - toujours : le mot s'emploie au pluriel (des lunettes, les ancêtres…)
    - obv      : nom animé possédé par « il, elle » (son, sa) : marque de
@@ -33,6 +33,7 @@ const PLURIEL_SRC = {
   grammaire: 'Exemple de la page « Le nombre des noms » d’innu-aimun.ca',
   lecon3: 'Leçons d’innu, leçon 3 : ush → uta (forme irrégulière)',
   eric: 'Règle confirmée par Eric Boily (équipe Meshkanau), 25 nov. 2026 : les termes de parenté en -a sont animés; le -a final devient -at (Nussima → Nussimat)',
+  noella: 'Grille de validation du pluriel revue avec Noëlla Mckenzie (25 nov. 2026)',
   fiche: 'Forme plurielle de la fiche de la thématique (affichée dans le jeu avant le 25 nov. 2026)'
 };
 
@@ -58,6 +59,12 @@ const PLURIEL_FORMES = {
   cu_tablespoon: { pl: 'Emikuanat', src: 'G5', genre: 'A' },
   fa_obrother: { pl: 'Nishteshat', src: 'grammaire' },
   fa_ysibling: { pl: 'Nishimat', src: 'G5' },
+  /* Formes données par la grille revue avec Noëlla Mckenzie (25 nov. 2026) */
+  t_ship: { pl: 'Ishkuteu-uta', src: 'noella' },
+  fl_banana: { pl: 'Ka uakashkuak mina', src: 'noella' },
+  fl_peach: { pl: 'Ka minauashit mina', src: 'noella' },
+  fl_lemon: { pl: 'Ka uishakak mina', src: 'noella' },
+  calf: { pl: 'Utashtana(t)', src: 'noella', note: 'Utashtana si le mot est inanimé, Utashtanat s’il est animé : cela dépend de la phrase.' },
   /* Termes de parenté en -a : le -a final devient -at (Eric Boily, 25 nov. 2026) */
   fa_ggmother: { pl: 'Nitanishkutapanukumat', src: 'eric' },
   fa_ggfather: { pl: 'Nitanishkutapanimushumat', src: 'eric' },
@@ -131,12 +138,14 @@ const PLURIEL_SENS = ['head', 'face', 'chest', 'body_all', 'neck', 'back', 'lowe
   'fa_mother', 'fa_father', 'fa_husband', 'fa_wife', 'fa_sweetheart', 'fa_eldest', 'fa_youngest',
   'g_g2_6', 'g_g2_7', 'g_g2_8', 'g_g2_9', 'g_g2_10'];
 
+/* Grille de validation revue avec Noëlla Mckenzie le 25 nov. 2026 : toutes les
+   formes sont validées. Ajouter ici l'id d'un mot dont le pluriel serait à revoir. */
+const PLURIEL_A_VALIDER = [];
+
 /* Pluriels à confirmer avant de les afficher (raison donnée à l'équipe) */
 /* Pluriel montré selon le genre du jeu, mais retiré du défi « Le bon pluriel » tant que l'équipe n'a pas tranché */
 const PLURIEL_DOUTE = {};
 const PLURIEL_ATTENTE = {
-  calf: 'Utashtan est animé ou inanimé selon la phrase : -at ou -a ?',
-  t_ship: 'Ishkuteu-ush est animé (NA) : garde-t-il ush → uta comme les canots, ou prend-il -at ?'
 };
 
 /* Traductions françaises au pluriel, quand la règle simple ne suffit pas */
@@ -275,6 +284,7 @@ const Pluriel = (() => {
     cache.set(w.id, r);
     return r;
   }
+  const st = id => PLURIEL_A_VALIDER.includes(id) ? 'à valider' : 'validé';
   function calcule(w) {
     const g = genreDe(w), id = w.id;
     if (PLURIEL_TOUJOURS[id]) {
@@ -285,19 +295,19 @@ const Pluriel = (() => {
     if (PLURIEL_SENS.includes(id)) return { type: 'sens', g, expl: 'Une seule par personne : le jeu ne propose pas de pluriel pour ce mot.' };
     if (PLURIEL_ATTENTE[id]) return { type: 'attente', g, expl: 'Pluriel à confirmer avec l’équipe : ' + PLURIEL_ATTENTE[id] };
     if (obviatif(w)) return {
-      type: 'obv', g, pl: { innu: w.innu, fr: frPluriel(w), src: PLURIEL_SRC.G5, status: 'à valider', audio: w.audio || '', audioNote: w.audioNote || '' },
+      type: 'obv', g, pl: { innu: w.innu, fr: frPluriel(w), src: PLURIEL_SRC.G5, status: st(id), audio: w.audio || '', audioNote: w.audioNote || '' },
       expl: 'Son, sa, ses : un nom animé possédé par « il » ou « elle » porte la marque de l’obviatif (-a). La même forme sert pour un ou plusieurs (fiche G5-f : peikᵘ atikua, mitshet atikua).',
       parts: w.innu.endsWith('a') ? [{ t: w.innu.slice(0, -1), k: 'base' }, { t: 'a', k: 'obv' }] : [{ t: w.innu, k: 'base' }]
     };
     const f = PLURIEL_FORMES[id];
     if (f) {
       const d = decoupe(w.innu, f.pl, g);
-      return { type: 'fiche', g, d, pl: { innu: f.pl, fr: frPluriel(w), src: PLURIEL_SRC[f.src] || f.src, status: 'à valider', audio: f.audio || '', audioNote: f.audioNote || '', phrase: !!f.phrase }, cle: f.src };
+      return { type: 'fiche', g, d, pl: { innu: f.pl, fr: frPluriel(w), src: PLURIEL_SRC[f.src] || f.src, status: st(id), audio: f.audio || '', audioNote: f.audioNote || '', phrase: !!f.phrase }, cle: f.src, note: f.note || '' };
     }
     const ok = g && ['NA', 'NI', 'NAD', 'NID'].includes(w.tag) && !/\s/.test(w.innu) && !/a$/i.test(w.innu);
     if (!ok) return { type: g ? 'attente' : 'aucun', g, expl: g ? 'Pluriel à confirmer avec l’équipe.' : '' };
     const pl = regle(w.innu, g);
-    return { type: 'regle', g, doute: PLURIEL_DOUTE[id] || '', d: decoupe(w.innu, pl, g), pl: { innu: pl, fr: frPluriel(w), src: PLURIEL_SRC.regle, status: 'à valider', audio: '', audioNote: '' } };
+    return { type: 'regle', g, doute: PLURIEL_DOUTE[id] || '', d: decoupe(w.innu, pl, g), pl: { innu: pl, fr: frPluriel(w), src: PLURIEL_SRC.regle, status: st(id), audio: '', audioNote: '' } };
   }
 
   /* Le mot a-t-il une forme à montrer au pluriel ? */

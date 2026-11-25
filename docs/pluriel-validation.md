@@ -1,6 +1,6 @@
 # Le pluriel des noms (phase 2) : grille de validation
 
-Branche `phase2-pluriel`, 25 novembre 2026. À revoir avec Noëlla Mckenzie, Hubert Lessart et Virginie Michel avant la fusion dans `main`.
+Grille revue au complet avec Noëlla Mckenzie le 25 novembre 2026 : toutes les formes sont validées.
 
 Aucune forme n'a été tirée du dictionnaire par script. Les pluriels viennent :
 
@@ -11,9 +11,9 @@ Aucune forme n'a été tirée du dictionnaire par script. Les pluriels viennent 
 
 Les enregistrements de Uashat de ces mots sont prononcés au singulier (vérifié par Eric Boily le 25 novembre 2026), même quand le nom du fichier est au pluriel (uteiminana, shikuteua, anushkanat, atusseussina, pishakanessina, mittens, socks). Ils restent attachés au singulier. Seule la phrase « Nitauassimat » (mes enfants) donne un pluriel enregistré.
 
-Toutes les formes ont le statut « à valider ». Dans le jeu, on bascule d'**● Un** à **●●● Plusieurs** : la marque du pluriel s'ajoute en couleur (vert pour -at, terre cuite pour -a) et le petit ᵘ grandit en u.
+Toutes les formes ont le statut « validé ». Dans le jeu, on bascule d'**● Un** à **●●● Plusieurs** : la marque du pluriel s'ajoute en couleur (vert pour -at, terre cuite pour -a) et le petit ᵘ grandit en u.
 
-## Décisions à confirmer
+## Décisions
 
 - [x] **Mots du jeu au singulier.** Les chaussures, les petits fruits, les mitaines, les gants, les bas et les cheveux sont maintenant au singulier (Atusseussin, Inniminan, Ashtish, Pishkueun…). Le singulier a été obtenu en retirant la marque du pluriel de la fiche; *inniminan*, *uteiminan*, *anushkan*, *pipunassin* et *pishakanassin* sont confirmés par la fiche G3-f ou le dictionnaire. **Shikuteu** (une plaquebière) est à confirmer.
 - [x] **Toujours au pluriel** : Ussishikukauna (lunettes), Utashpishuna (bretelles), Tshiashinnuat (ancêtres), Kanishishiht (jumeaux), Nitauassimat (mes enfants), Nikanishat (ma parenté), Nushkuauat (farine), Nipisha (thé). Le singulier *utashpishun* existe-t-il ?
@@ -41,7 +41,7 @@ Toutes les formes ont le statut « à valider ». Dans le jeu, on bascule d'**�
 | Ushit | Son pied | NID | **Ushita** | Ses pieds | règle -at / -a |  | [x] |
 | Ninitshikanashtan | Un orteil | NI | **Ninitshikanashtana** | Des orteils | règle -at / -a |  | [x] |
 | Pishkueun | Un cheveu | NI | **Pishkueuna** | Des cheveux | fiche de la thématique |  | [x] |
-| Ushkatikᵘ | Son front | NID | **— un seul** |  |  |  | [ ] |
+| Ushkatikᵘ | Son front | NID | **— un seul** |  |  |  | [x] |
 | Umamama | Son sourcil | NAD | **Umamama** | Ses sourcils | obviatif (G5-f) | oui | [x] |
 | Utamakan | Sa joue | NID | **Utamakana** | Ses joues | règle -at / -a |  | [x] |
 | Utukai | Son oreille | NID | **Utukaia** | Ses oreilles | règle -at / -a |  | [x] |
@@ -65,7 +65,7 @@ Toutes les formes ont le statut « à valider ». Dans le jeu, on bascule d'**�
 | Ushukan | Bas du dos, bassin | NID | **— un seul** |  |  |  | [x] |
 | Utukan | Tête de fémur | NID | **Utukana** | Têtes de fémur | règle -at / -a |  | [x] |
 | Ushikakun | Son jarret (arrière du genou) | NID | **Ushikakuna** | Ses jarrets (arrière du genou) | règle -at / -a |  | [x] |
-| Utashtan | Mollet | NAD/NID | **Utashtana(t)** |  | Utashtan est animé ou inanimé selon la phrase : -at ou -a ? |  | [x] |
+| Utashtan | Mollet | NAD/NID | **Utashtana(t)** | Mollets | Noëlla Mckenzie, 25 nov. 2026 |  | [x] |
 | Utshikun | Genou | NID | **Utshikuna** | Genoux | règle -at / -a |  | [x] |
 | Ukun | Cheville (son poignet) | NID | **Ukuna** | Chevilles (ses poignets) | règle -at / -a |  | [x] |
 | Ututan | Talon | NID | **Ututana** | Talons | règle -at / -a |  | [x] |
@@ -87,10 +87,10 @@ Toutes les formes ont le statut « à valider ». Dans le jeu, on bascule d'**�
 |---|---|---|---|---|---|---|---|
 | Nikaui | Ma mère | NAD | **— un seul** |  |  |  | [x] |
 | Nutaui | Mon père | NAD | **— un seul** |  |  |  | [x] |
-| Nukum | Ma grand-mère | NAD | **Nukumat** | Mes grands-mères | règle -at / -a |  | [ ] |
-| Nimushum | Mon grand-père | NAD | **Nimushumat** | Mes grands-pères | règle -at / -a |  | [ ] |
-| Nitanishkutapanukuma | Mon arrière-grand-mère | NAD | **Nitanishkutapanukumat** | Mes arrière-grands-mères | Eric Boily, 25 nov. 2026 (-a → -at) |  | [ ] |
-| Nitanishkutapanimushuma | Mon arrière-grand-père | NAD | **Nitanishkutapanimushumat** | Mes arrière-grands-pères | Eric Boily, 25 nov. 2026 (-a → -at) |  | [ ] |
+| Nukum | Ma grand-mère | NAD | **Nukumat** | Mes grands-mères | règle -at / -a |  | [x] |
+| Nimushum | Mon grand-père | NAD | **Nimushumat** | Mes grands-pères | règle -at / -a |  | [x] |
+| Nitanishkutapanukuma | Mon arrière-grand-mère | NAD | **Nitanishkutapanukumat** | Mes arrière-grands-mères | Eric Boily, 25 nov. 2026 (-a → -at) |  | [x] |
+| Nitanishkutapanimushuma | Mon arrière-grand-père | NAD | **Nitanishkutapanimushumat** | Mes arrière-grands-pères | Eric Boily, 25 nov. 2026 (-a → -at) |  | [x] |
 | Tshiashinnuat | Les ancêtres | NA | **(toujours au pluriel)** |  | Les ancêtres : le mot est au pluriel (-at, nom animé). |  | [x] |
 | Nishtesh | Mon grand frère | NAD | **Nishteshat** | Mes grands frères | page « Le nombre des noms » |  | [x] |
 | Nimish | Ma grande sœur | NAD | **Nimishat** | Mes grandes sœurs | règle -at / -a |  | [x] |
@@ -197,7 +197,7 @@ Toutes les formes ont le statut « à valider ». Dans le jeu, on bascule d'**�
 | Innu-ush | Canot | NI | **Innu-uta** | Canots | Leçons d’innu, leçon 3 |  | [x] |
 | Pineshaush | Goélette | NI | **Pineshausha** | Goélettes | règle -at / -a |  | [x] |
 | Napekuian | Navire à voiles | NI | **Napekuiana** | Navires à voiles | règle -at / -a |  | [x] |
-| Ishkuteu-ush | Bateau à moteur, à vapeur | NA | **Ishkuteu-uta** |  | Ishkuteu-ush est animé (NA) : garde-t-il ush → uta comme les canots, ou prend-il -at ? |  | [x] |
+| Ishkuteu-ush | Bateau à moteur, à vapeur | NA | **Ishkuteu-uta** | Bateaux à moteur, à vapeur | Noëlla Mckenzie, 25 nov. 2026 |  | [x] |
 | Upashtamakan | Avion | NA | **Upashtamakanat** | Avions | fiche G5-f |  | [x] |
 | Sheuekatshu | Hélicoptère | NA | **Sheuekatshuat** | Hélicoptères | règle -at / -a |  | [x] |
 
@@ -297,10 +297,10 @@ Toutes les formes ont le statut « à valider ». Dans le jeu, on bascule d'**�
 | Anushkan | Framboise | NA | **Anushkanat** | Framboises | fiche de la thématique |  | [x] |
 | Uapimin | Pomme | NA | **Uapiminat** | Pommes | fiche G5-f |  | [x] |
 | Atamu-uapimin | Poire | NA | **Atamu-uapiminat** | Poires | règle -at / -a |  | [x] |
-| Ka uakashkuak min | Banane | NI | **Ka uakashkuak mina** |  |  |  | [x] |
+| Ka uakashkuak min | Banane | NI | **Ka uakashkuak mina** | Bananes | Noëlla Mckenzie, 25 nov. 2026 |  | [x] |
 | Mishta-min | Orange | NI | **Mishta-mina** | Oranges | fiche G6-f |  | [x] |
-| Ka minauashit min | Pêche | NI | **Ka minauashit mina** |  |  |  | [x] |
-| Ka uishakak min | Citron | NI | **Ka uishakak mina** |  |  |  | [x] |
+| Ka minauashit min | Pêche | NI | **Ka minauashit mina** | Pêches | Noëlla Mckenzie, 25 nov. 2026 |  | [x] |
+| Ka uishakak min | Citron | NI | **Ka uishakak mina** | Citrons | Noëlla Mckenzie, 25 nov. 2026 |  | [x] |
 | Kushimash | Citrouille | NI | **Kushimasha** | Citrouilles | règle -at / -a |  | [x] |
 | Mishta-shumin | Prune | NA | **Mishta-shuminat** | Prunes | règle -at / -a |  | [x] |
 | Shumin | Raisin | NA | **Shuminat** | Raisins | règle -at / -a |  | [x] |
@@ -344,7 +344,7 @@ Toutes les formes ont le statut « à valider ». Dans le jeu, on bascule d'**�
 | Minashtakan | Le dimanche | NI | **— un seul** |  |  |  | [x] |
 | Ushtikuan | Sa tête | NID | **— un seul** |  |  |  | [x] |
 | Utun | Sa bouche | NID | **— un seul** |  |  |  | [x] |
-| Ussishikᵘ | Son œil | NID | **Ussishikua** | Ses yeux | règle -at / -a |  |x[ ] |
+| Ussishikᵘ | Son œil | NID | **Ussishikua** | Ses yeux | règle -at / -a |  | [x] |
 | Matinet | Un manteau, un blouson | NI | **Matineta** | Des manteaux, des blousons | règle -at / -a |  | [x] |
 | Nipeukup | Une robe de nuit | NI | **Nipeukupa** | Des robes de nuit | règle -at / -a |  | [x] |
 | Tshimuanakup | Un imperméable | NI | **Tshimuanakupa** | Des imperméables | règle -at / -a |  | [x] |
