@@ -21,7 +21,8 @@ Toutes les formes ont le statut « à valider ». Dans le jeu, on bascule d'**�
 - [ ] **Obviatif** : Umamama (son sourcil), Utenikuma (sa narine) et Ushkashia (son ongle) gardent la même forme au pluriel (fiche G5-f : peikᵘ atikua, mitshet atikua). Est-ce juste ?
 - [x] **Ishkuteutapan** (le train) : inanimé (NI) à Uashat, pluriel **Ishkuteutapana**, comme la fiche G6-f (confirmé par Eric Boily le 25 nov. 2026). La forme animée appartient au parler de Mamit.
 - [ ] **Shumin** (raisin) : le jeu donne Shuminat; la fiche G5-f écrit *shiminat*.
-- [x] **Nikanishat** : réglé le 25 nov. 2026. Nikanish est retiré; le cousin et la cousine se disent Nishteshikauna, Nimishikauna et Nishimikauna (pluriel à confirmer). Nikanishat reste « ma parenté ».
+- [x] **Nikanishat** : réglé le 25 nov. 2026. Nikanish est retiré; le cousin et la cousine se disent Nishteshikauna, Nimishikauna et Nishimikauna. Nikanishat reste « ma parenté ».
+- [x] **Termes de parenté en -a** : réglé le 25 nov. 2026 (Eric Boily). Ce sont des noms animés; le -a final devient -at : Nussima → Nussimat, Nishtaua → Nishtauat, Nitimua → Nitimuat, Nishteshikauna → Nishteshikaunat. Nishtaua et Nitimua sont des NAD. Ces mots ne sont pas proposés dans le défi « Le bon pluriel » (le choix -at / -a ne s’y applique pas tel quel).
 - [ ] **Défi des muffins** : les petits fruits y restent au pluriel, comme dans la recette (*inniminana kie ma kutaka minisha*).
 
 
@@ -88,8 +89,8 @@ Toutes les formes ont le statut « à valider ». Dans le jeu, on bascule d'**�
 | Nutaui | Mon père | NAD | **— un seul** |  |  |  | [ ] |
 | Nukum | Ma grand-mère | NAD | **Nukumat** | Mes grands-mères | règle -at / -a |  | [ ] |
 | Nimushum | Mon grand-père | NAD | **Nimushumat** | Mes grands-pères | règle -at / -a |  | [ ] |
-| Nutanishkutapanukuma | Mon arrière-grand-mère | NAD | **à confirmer** |  | Le mot se termine déjà par -a : quel est son pluriel ? |  | [ ] |
-| Nutanishkutapanimushuma | Mon arrière-grand-père | NAD | **à confirmer** |  | Le mot se termine déjà par -a : quel est son pluriel ? |  | [ ] |
+| Nutanishkutapanukuma | Mon arrière-grand-mère | NAD | **Nutanishkutapanukumat** | Mes arrière-grands-mères | Eric Boily, 25 nov. 2026 (-a → -at) |  | [ ] |
+| Nutanishkutapanimushuma | Mon arrière-grand-père | NAD | **Nutanishkutapanimushumat** | Mes arrière-grands-pères | Eric Boily, 25 nov. 2026 (-a → -at) |  | [ ] |
 | Tshiashinnuat | Les ancêtres | NA | **(toujours au pluriel)** |  | Les ancêtres : le mot est au pluriel (-at, nom animé). |  | [ ] |
 | Nishtesh | Mon grand frère | NAD | **Nishteshat** | Mes grands frères | page « Le nombre des noms » |  | [ ] |
 | Nimish | Ma grande sœur | NAD | **Nimishat** | Mes grandes sœurs | règle -at / -a |  | [ ] |
@@ -97,13 +98,13 @@ Toutes les formes ont le statut « à valider ». Dans le jeu, on bascule d'**�
 | Kanishishiht | Les jumeaux | NAP | **(toujours au pluriel)** |  | Les jumeaux : le mot est au pluriel. |  | [ ] |
 | Nukumish | Mon oncle | NAD | **Nukumishat** | Mes oncles | règle -at / -a |  | [ ] |
 | Nituss | Ma tante | NAD | **Nitussat** | Mes tantes | règle -at / -a |  | [ ] |
-| Nishteshikauna | Mon cousin aîné | NAD | **à confirmer** |  | Nishteshikauna se termine déjà par -a : quel est son pluriel ? |  | [ ] |
-| Nimishikauna | Ma cousine aînée | NAD | **à confirmer** |  | Nimishikauna se termine déjà par -a : quel est son pluriel ? |  | [ ] |
-| Nishimikauna | Mon cousin cadet ou ma cousine cadette | NAD | **à confirmer** |  | Nishimikauna se termine déjà par -a : quel est son pluriel ? |  | [ ] |
+| Nishteshikauna | Mon cousin aîné | NAD | **Nishteshikaunat** | Mes cousins aînés | Eric Boily, 25 nov. 2026 (-a → -at) |  | [ ] |
+| Nimishikauna | Ma cousine aînée | NAD | **Nimishikaunat** | Mes cousines aînées | Eric Boily, 25 nov. 2026 (-a → -at) |  | [ ] |
+| Nishimikauna | Mon cousin cadet ou ma cousine cadette | NAD | **Nishimikaunat** | Mes cousins cadets ou mes cousines cadettes | Eric Boily, 25 nov. 2026 (-a → -at) |  | [ ] |
 | Nitushim | Mon neveu | NAD | **Nitushimat** | Mes neveux | règle -at / -a |  | [ ] |
 | Nitushimishkuem | Ma nièce | NAD | **Nitushimishkuemat** | Mes nièces | règle -at / -a |  | [ ] |
-| Nishtaua | Mon beau-frère |  | **à confirmer** |  | Genre à confirmer avant le pluriel. |  | [ ] |
-| Nitimua | Ma belle-sœur |  | **à confirmer** |  | Genre à confirmer avant le pluriel. |  | [ ] |
+| Nishtaua | Mon beau-frère | NAD | **Nishtauat** | Mes beaux-frères | Eric Boily, 25 nov. 2026 (-a → -at) |  | [ ] |
+| Nitimua | Ma belle-sœur | NAD | **Nitimuat** | Mes belles-sœurs | Eric Boily, 25 nov. 2026 (-a → -at) |  | [ ] |
 | Nitauassim | Mon enfant | NAD | **Nitauassimat** | Mes enfants | fiche de la thématique | oui | [ ] |
 | Nitauassimat | Mes enfants | NAD | **(toujours au pluriel)** |  | Mes enfants : pluriel de Nitauassim (mon enfant), avec -at. |  | [ ] |
 | Nikuss | Mon fils | NAD | **Nikussat** | Mes fils | règle -at / -a |  | [ ] |
@@ -111,13 +112,13 @@ Toutes les formes ont le statut « à valider ». Dans le jeu, on bascule d'**�
 | Auassiss | Un bébé | NA | **Auassissat** | Des bébés | règle -at / -a |  | [ ] |
 | Nishtamushan | L’aîné ou l’aînée de la famille | NA | **— un seul** |  |  |  | [ ] |
 | Mashtenushan | Le benjamin ou la benjamine de la famille | NA | **— un seul** |  |  |  | [ ] |
-| Nussima | Mon petit-fils ou ma petite-fille | NAD | **à confirmer** |  | Nussima se termine déjà par -a : quel est son pluriel ? |  | [ ] |
+| Nussima | Mon petit-fils ou ma petite-fille | NAD | **Nussimat** | Mes petits-enfants | Eric Boily, 25 nov. 2026 (-a → -at) |  | [ ] |
 | Ninapem | Mon mari | NAD | **— un seul** |  |  |  | [ ] |
 | Nitishkuem | Ma femme | NAD | **— un seul** |  |  |  | [ ] |
 | Nuitimimush | Mon amoureux, mon amoureuse | NAD | **— un seul** |  |  |  | [ ] |
 | Nikanishat | Ma parenté, mes proches | NAD | **(toujours au pluriel)** |  | Ma parenté, mes proches : le mot est au pluriel (-at, nom animé). |  | [ ] |
-| Nitaiamieutauia | Mon parrain | NAD | **à confirmer** |  | Le mot se termine déjà par -a : quel est son pluriel ? |  | [ ] |
-| Nitaiamieukauia | Ma marraine | NAD | **à confirmer** |  | Le mot se termine déjà par -a : quel est son pluriel ? |  | [ ] |
+| Nitaiamieutauia | Mon parrain | NAD | **Nitaiamieutauiat** | Mes parrains | Eric Boily, 25 nov. 2026 (-a → -at) |  | [ ] |
+| Nitaiamieukauia | Ma marraine | NAD | **Nitaiamieukauiat** | Mes marraines | Eric Boily, 25 nov. 2026 (-a → -at) |  | [ ] |
 
 ## Les animaux de la forêt · Aueshishat
 

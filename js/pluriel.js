@@ -32,6 +32,7 @@ const PLURIEL_SRC = {
   G6: 'Exemple de la fiche G6-f « Le singulier et le pluriel : noms inanimés » (Yvette Mollen, 2017)',
   grammaire: 'Exemple de la page « Le nombre des noms » d’innu-aimun.ca',
   lecon3: 'Leçons d’innu, leçon 3 : ush → uta (forme irrégulière)',
+  eric: 'Règle confirmée par Eric Boily (équipe Meshkanau), 25 nov. 2026 : les termes de parenté en -a sont animés; le -a final devient -at (Nussima → Nussimat)',
   fiche: 'Forme plurielle de la fiche de la thématique (affichée dans le jeu avant le 25 nov. 2026)'
 };
 
@@ -57,6 +58,17 @@ const PLURIEL_FORMES = {
   cu_tablespoon: { pl: 'Emikuanat', src: 'G5', genre: 'A' },
   fa_obrother: { pl: 'Nishteshat', src: 'grammaire' },
   fa_ysibling: { pl: 'Nishimat', src: 'G5' },
+  /* Termes de parenté en -a : le -a final devient -at (Eric Boily, 25 nov. 2026) */
+  fa_ggmother: { pl: 'Nutanishkutapanukumat', src: 'eric' },
+  fa_ggfather: { pl: 'Nutanishkutapanimushumat', src: 'eric' },
+  fa_grandchild: { pl: 'Nussimat', src: 'eric' },
+  fa_godfather: { pl: 'Nitaiamieutauiat', src: 'eric' },
+  fa_godmother: { pl: 'Nitaiamieukauiat', src: 'eric' },
+  fa_brotherinlaw: { pl: 'Nishtauat', src: 'eric' },
+  fa_sisterinlaw: { pl: 'Nitimuat', src: 'eric' },
+  fa_cousin_m: { pl: 'Nishteshikaunat', src: 'eric' },
+  fa_cousin_f: { pl: 'Nimishikaunat', src: 'eric' },
+  fa_cousin_y: { pl: 'Nishimikaunat', src: 'eric' },
 
   /* Embarcations : ush → uta (Leçons d'innu, leçon 3; titre « Utapana / Uta ») */
   t_canoe: { pl: 'Innu-uta', src: 'lecon3' },
@@ -124,17 +136,7 @@ const PLURIEL_SENS = ['head', 'face', 'chest', 'body_all', 'neck', 'back', 'lowe
 const PLURIEL_DOUTE = {};
 const PLURIEL_ATTENTE = {
   calf: 'Utashtan est animé ou inanimé selon la phrase : -at ou -a ?',
-  t_ship: 'Ishkuteu-ush est animé (NA) : garde-t-il ush → uta comme les canots, ou prend-il -at ?',
-  fa_ggmother: 'Le mot se termine déjà par -a : quel est son pluriel ?',
-  fa_ggfather: 'Le mot se termine déjà par -a : quel est son pluriel ?',
-  fa_grandchild: 'Nussima se termine déjà par -a : quel est son pluriel ?',
-  fa_godfather: 'Le mot se termine déjà par -a : quel est son pluriel ?',
-  fa_godmother: 'Le mot se termine déjà par -a : quel est son pluriel ?',
-  fa_brotherinlaw: 'Genre à confirmer avant le pluriel.',
-  fa_sisterinlaw: 'Genre à confirmer avant le pluriel.',
-  fa_cousin_m: 'Nishteshikauna se termine déjà par -a : quel est son pluriel ?',
-  fa_cousin_f: 'Nimishikauna se termine déjà par -a : quel est son pluriel ?',
-  fa_cousin_y: 'Nishimikauna se termine déjà par -a : quel est son pluriel ?'
+  t_ship: 'Ishkuteu-ush est animé (NA) : garde-t-il ush → uta comme les canots, ou prend-il -at ?'
 };
 
 /* Traductions françaises au pluriel, quand la règle simple ne suffit pas */
@@ -173,7 +175,10 @@ const PLURIEL_FR = {
   fl_potato: 'Pommes de terre (patates)', fl_cabbage: 'Choux', fl_grapes: 'Raisins', fl_plum: 'Prunes',
   fa_child: 'Mes enfants', fa_ysibling: 'Mes petits frères ou mes petites sœurs',
   fa_obrother: 'Mes grands frères', fa_osister: 'Mes grandes sœurs', fa_grandmother: 'Mes grands-mères', fa_grandfather: 'Mes grands-pères',
-  fa_baby: 'Des bébés',
+  fa_baby: 'Des bébés', fa_ggmother: 'Mes arrière-grands-mères', fa_ggfather: 'Mes arrière-grands-pères',
+  fa_grandchild: 'Mes petits-enfants', fa_godfather: 'Mes parrains', fa_godmother: 'Mes marraines',
+  fa_brotherinlaw: 'Mes beaux-frères', fa_sisterinlaw: 'Mes belles-sœurs', fa_cousin_m: 'Mes cousins aînés',
+  fa_cousin_f: 'Mes cousines aînées', fa_cousin_y: 'Mes cousins cadets ou mes cousines cadettes',
   g_g1_5: 'Des grenouilles, des crapauds', g_g1_6: 'Des truites mouchetées', g_g1_13: 'Des chapeaux, des tuques',
   g_g1_14: 'Des robes; des manteaux', g_g2_1: 'Des mitaines, des gants', g_g2_2: 'Des foulards, des écharpes',
   g_g2_12: 'Des manteaux, des blousons', g_g2_13: 'Des robes de nuit'
@@ -209,6 +214,11 @@ const Pluriel = (() => {
         sg: [{ t: base, k: 'base' }, { t: SUP, k: 'u' }],
         pl: [{ t: base, k: 'base' }, { t: 'u', k: 'u' }, { t: fin, k: 'sfx', g, regle: fin === marque }]
       };
+    }
+    /* Nom animé en -a : le -a final devient -at (Nussima → Nussimat) */
+    if (g === 'A' && sg.endsWith('a') && pl === sg + 't') {
+      const base = sg.slice(0, -1);
+      return { sg: [{ t: base, k: 'base' }, { t: 'a', k: 'fin' }], pl: [{ t: base, k: 'base' }, { t: 'at', k: 'sfx', g, regle: true, fusion: true }], fusion: true };
     }
     if (pl.startsWith(sg)) {
       const fin = pl.slice(sg.length);
@@ -293,7 +303,7 @@ const Pluriel = (() => {
   /* Le mot a-t-il une forme à montrer au pluriel ? */
   const aPluriel = w => ['regle', 'fiche', 'toujours', 'obv'].includes(info(w).type);
   /* Peut-on demander de former le pluriel (défi « Le bon pluriel ») ? */
-  const formable = w => { const i = info(w); return !PLURIEL_DOUTE[w.id] && (i.type === 'regle' || i.type === 'fiche') && i.d && !i.d.irr && i.d.pl.some(p => p.k === 'sfx' && p.regle); };
+  const formable = w => { const i = info(w); return !PLURIEL_DOUTE[w.id] && (i.type === 'regle' || i.type === 'fiche') && i.d && !i.d.irr && !i.d.fusion && i.d.pl.some(p => p.k === 'sfx' && p.regle); };
 
   return { info, regle, decoupe, frPluriel, aPluriel, formable, genreDe, applicable: t => PLURIEL_THEMES.includes(t), SRC: PLURIEL_SRC };
 })();

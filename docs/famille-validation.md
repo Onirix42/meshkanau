@@ -19,7 +19,9 @@ Pour chaque ligne, cocher : forme écrite exacte, sens en français, son de Uash
 - [x] Genre des 8 mots ajoutés (Noëlla Mckenzie et Virginie Michel) : NAD pour Nutanishkutapanukuma, Nutanishkutapanimushuma, Nussima, Nitaiamieutauia et Nitaiamieukauia; NAP pour Kanishishiht; NA pour Nishtamushan et Mashtenushan.
 - [x] Nishtamushan et Mashtenushan valent aussi pour une fille (l'aînée, la benjamine).
 - [x] Genre de Tshiashinnuat (les ancêtres) : NA.
-- [ ] Genre de Nishtaua (mon beau-frère) et de Nitimua (ma belle-sœur) ? Le mot change-t-il selon que c'est un homme ou une femme qui parle ?
+- [x] Genre de Nishtaua (mon beau-frère) et de Nitimua (ma belle-sœur) : NAD (Eric Boily, 25 nov. 2026).
+- [x] Pluriel des termes de parenté en -a : noms animés, le -a final devient -at (Nussima → Nussimat; Eric Boily, 25 nov. 2026).
+- [ ] Nishtaua et Nitimua changent-ils selon que c'est un homme ou une femme qui parle ?
 
 
 ## fa1 · Les parents et les grands-parents
