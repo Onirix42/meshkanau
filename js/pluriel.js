@@ -33,6 +33,7 @@ const PLURIEL_SRC = {
   grammaire: 'Exemple de la page « Le nombre des noms » d’innu-aimun.ca',
   lecon3: 'Leçons d’innu, leçon 3 : ush → uta (forme irrégulière)',
   eric: 'Règle confirmée par Eric Boily (équipe Meshkanau), 25 nov. 2026 : les termes de parenté en -a sont animés; le -a final devient -at (Nussima → Nussimat)',
+  lexique: 'Lexique de la thématique, complété par Eric Boily (équipe Meshkanau), 25 nov. 2026',
   noella: 'Grille de validation du pluriel revue avec Noëlla Mckenzie (25 nov. 2026)',
   fiche: 'Forme plurielle de la fiche de la thématique (affichée dans le jeu avant le 25 nov. 2026)'
 };
@@ -56,9 +57,25 @@ const PLURIEL_FORMES = {
   g_g2_3: { pl: 'Upashtamakanat', src: 'G5' },
   fl_apple: { pl: 'Uapiminat', src: 'G5' },
   fl_orange: { pl: 'Mishta-mina', src: 'G6' },
-  cu_tablespoon: { pl: 'Emikuanat', src: 'G5', genre: 'A' },
+  cu_tablespoon: { pl: 'Emikuanat', src: 'G5' },
   fa_obrother: { pl: 'Nishteshat', src: 'grammaire' },
   fa_ysibling: { pl: 'Nishimat', src: 'G5' },
+  /* Lexiques des thématiques, complétés par Eric Boily (25 nov. 2026) */
+  fl_celery: { pl: 'Kashipekuashkuaka', src: 'lexique', genre: 'I' },
+  fl_corn: { pl: 'Katshitshikumakanitat', src: 'lexique', genre: 'A' },
+  cu_bannockpan: { pl: 'Katetapishkanakanitat', src: 'lexique', genre: 'A' },
+  cu_teaspoon: { pl: 'Emikuanissat', src: 'lexique', genre: 'A' },
+  cu_saucepan: { pl: 'Kaushushta', src: 'lexique', genre: 'I' },
+  cu_roundpot: { pl: 'Uituessikua', src: 'lexique', genre: 'I' },
+  cu_kettle: { pl: 'Katepueshtat', src: 'lexique', genre: 'A' },
+  b_beetle: { pl: 'Uetemikuanishuat', src: 'lexique', genre: 'A' },
+  b_spider2: { pl: 'Pishku-enikuat', src: 'lexique', genre: 'A' },
+  b_cricket: { pl: 'Kamamatuekaneshinat', src: 'lexique', genre: 'A' },
+  b_bigmosq: { pl: 'Kakanukatetat', src: 'lexique', genre: 'A' },
+  b_blackfly: { pl: 'Kapeshkutshemuessat', src: 'lexique', genre: 'A' },
+  t_tractor: { pl: 'Kashutshishat', src: 'lexique', genre: 'A' },
+  t_atv: { pl: 'Kaneukatetat', src: 'lexique', genre: 'A' },
+  t_shrimpboat: { pl: 'Tshanipautisha', src: 'lexique', genre: 'I' },
   /* Formes données par la grille revue avec Noëlla Mckenzie (25 nov. 2026) */
   t_ship: { pl: 'Ishkuteu-uta', src: 'noella' },
   fl_banana: { pl: 'Ka uakashkuak mina', src: 'noella' },
@@ -184,7 +201,8 @@ const PLURIEL_FR = {
   fl_potato: 'Pommes de terre (patates)', fl_cabbage: 'Choux', fl_grapes: 'Raisins', fl_plum: 'Prunes',
   fa_child: 'Mes enfants', fa_ysibling: 'Mes petits frères ou mes petites sœurs',
   fa_obrother: 'Mes grands frères', fa_osister: 'Mes grandes sœurs', fa_grandmother: 'Mes grands-mères', fa_grandfather: 'Mes grands-pères',
-  fa_baby: 'Des bébés', fa_ggmother: 'Mes arrière-grands-mères', fa_ggfather: 'Mes arrière-grands-pères',
+  fa_baby: 'Des bébés', cu_saucepan: 'Casseroles à manche (UASH)', b_beetle: 'Des sortes de coléoptères aquatiques (coccinelles)',
+  b_spider2: 'Des sortes d’araignées', fa_ggmother: 'Mes arrière-grands-mères', fa_ggfather: 'Mes arrière-grands-pères',
   fa_grandchild: 'Mes petits-enfants', fa_godfather: 'Mes parrains', fa_godmother: 'Mes marraines',
   fa_brotherinlaw: 'Mes beaux-frères', fa_sisterinlaw: 'Mes belles-sœurs', fa_cousin_m: 'Mes cousins aînés',
   fa_cousin_f: 'Mes cousines aînées', fa_cousin_y: 'Mes cousins cadets ou mes cousines cadettes',
@@ -223,6 +241,11 @@ const Pluriel = (() => {
         sg: [{ t: base, k: 'base' }, { t: SUP, k: 'u' }],
         pl: [{ t: base, k: 'base' }, { t: 'u', k: 'u' }, { t: fin, k: 'sfx', g, regle: fin === marque }]
       };
+    }
+    /* Participe en -it : la finale -it devient -at (Kashutshishit → Kashutshishat) */
+    if (sg.endsWith('it') && pl === sg.slice(0, -2) + 'at') {
+      const base = sg.slice(0, -2);
+      return { sg: [{ t: base, k: 'base' }, { t: 'it', k: 'chg' }], pl: [{ t: base, k: 'base' }, { t: 'at', k: 'chg' }], irr: true };
     }
     /* Nom animé en -a : le -a final devient -at (Nussima → Nussimat) */
     if (g === 'A' && sg.endsWith('a') && pl === sg + 't') {

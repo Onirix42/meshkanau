@@ -167,18 +167,23 @@ Toutes les formes ont le statut « validé ». Dans le jeu, on bascule d'**● U
 | Anik | Crapaud | NA | **Anikat** | Crapauds | règle -at / -a |  | [x] |
 | Umatshashkukᵘ | Grenouille | NA | **Umatshashkukuat** | Grenouilles | règle -at / -a |  | [x] |
 | Utemikuanishu | Têtard | NA | **Utemikuanishuat** | Têtards | règle -at / -a |  | [x] |
+| Kamamatuekaneshinit | Criquet, grillon | NAP | **Kamamatuekaneshinat** | Criquets, grillons | lexique de la thématique (Eric Boily, 25 nov. 2026) |  | [x] |
 | Atshinepikᵘ | Couleuvre, serpent | NA | **Atshinepikuat** | Couleuvres, serpents | règle -at / -a |  | [x] |
 | Enikᵘ | Araignée | NA | **Enikuat** | Araignées | règle -at / -a |  | [x] |
 | Anishku-enikᵘ | Fourmi | NA | **Anishku-enikuat** | Fourmis | règle -at / -a |  | [x] |
 | Shatshimeu | Moustique (insecte qui pique) | NA | **Shatshimeuat** | Moustiques (insectes qui piquent) | règle -at / -a |  | [x] |
+| Kakanukatet | Maringouin | NAP | **Kakanukatetat** | Maringouins | lexique de la thématique (Eric Boily, 25 nov. 2026) |  | [x] |
 | Utsheu | Mouche | NA | **Utsheuat** | Mouches | règle -at / -a |  | [x] |
 | Missakᵘ | Taon, bourdon | NA | **Missakuat** | Taons, bourdons | règle -at / -a |  | [x] |
+| Kapeshkutshemuess | Mouche noire | NAP | **Kapeshkutshemuessat** | Mouches noires | lexique de la thématique (Eric Boily, 25 nov. 2026) |  | [x] |
 | Pikush | Brûlot | NA | **Pikushat** | Brûlots | règle -at / -a |  | [x] |
 | Amu | Abeille | NA | **Amuat** | Abeilles | règle -at / -a |  | [x] |
 | Tshishtaueshu | Guêpe des conifères | NA | **Tshishtaueshuat** | Guêpes des conifères | règle -at / -a |  | [x] |
 | Sheuekatshu | Libellule | NA | **Sheuekatshuat** | Libellules | règle -at / -a |  | [x] |
 | Uashteshish | Luciole, mouche à feu | NA | **Uashteshishat** | Lucioles, mouches à feu | règle -at / -a |  | [x] |
 | Kuakuapishish | Papillon | NA | **Kuakuapishishat** | Papillons | règle -at / -a |  | [x] |
+| Uetemikuanishu | Une sorte de coléoptère aquatique (coccinelle) | NA | **Uetemikuanishuat** | Des sortes de coléoptères aquatiques (coccinelles) | lexique de la thématique (Eric Boily, 25 nov. 2026) |  | [x] |
+| Pishku-enikᵘ | Une sorte d’araignée | NA | **Pishku-enikuat** | Des sortes d’araignées | lexique de la thématique (Eric Boily, 25 nov. 2026) |  | [x] |
 
 ## Les moyens de transport · Utapana
 
@@ -190,6 +195,8 @@ Toutes les formes ont le statut « validé ». Dans le jeu, on bascule d'**● U
 | Akushiutapan | Ambulance | NI | **Akushiutapana** | Ambulances | règle -at / -a |  | [x] |
 | Ashtueitsheutapan | Camion de pompier | NI | **Ashtueitsheutapana** | Camions de pompier | règle -at / -a |  | [x] |
 | Ishkuteutapan | Train | NI | **Ishkuteutapana** | Trains | fiche G6-f |  | [x] |
+| Kashutshishit | Tracteur | NAP | **Kashutshishat** | Tracteurs | lexique de la thématique (Eric Boily, 25 nov. 2026) |  | [x] |
+| Kaneukatet | Véhicule tout terrain | NAP | **Kaneukatetat** | Véhicules tout terrain | lexique de la thématique (Eric Boily, 25 nov. 2026) |  | [x] |
 | Pipunitapan | Motoneige | NI | **Pipunitapana** | Motoneiges | règle -at / -a |  | [x] |
 | Utapanashkᵘ | Tabagane | NA | **Utapanashkuat** | Tabaganes | règle -at / -a |  | [x] |
 | Nepissik | Bicyclette | NI | **Nepissika** | Bicyclettes | règle -at / -a |  | [x] |
@@ -197,6 +204,7 @@ Toutes les formes ont le statut « validé ». Dans le jeu, on bascule d'**● U
 | Innu-ush | Canot | NI | **Innu-uta** | Canots | Leçons d’innu, leçon 3 |  | [x] |
 | Pineshaush | Goélette | NI | **Pineshausha** | Goélettes | règle -at / -a |  | [x] |
 | Napekuian | Navire à voiles | NI | **Napekuiana** | Navires à voiles | règle -at / -a |  | [x] |
+| Tshanipautish | Crevettier | NI | **Tshanipautisha** | Crevettiers | lexique de la thématique (Eric Boily, 25 nov. 2026) |  | [x] |
 | Ishkuteu-ush | Bateau à moteur, à vapeur | NA | **Ishkuteu-uta** | Bateaux à moteur, à vapeur | Noëlla Mckenzie, 25 nov. 2026 |  | [x] |
 | Upashtamakan | Avion | NA | **Upashtamakanat** | Avions | fiche G5-f |  | [x] |
 | Sheuekatshu | Hélicoptère | NA | **Sheuekatshuat** | Hélicoptères | règle -at / -a |  | [x] |
@@ -269,6 +277,7 @@ Toutes les formes ont le statut « validé ». Dans le jeu, on bascule d'**● U
 | Nipisha | Thé | NI | **(toujours au pluriel)** |  | Nipisha (le thé) est le pluriel de nipish (une feuille) : le thé, ce sont des feuilles. |  | [x] |
 | Pakueshikan | Pain | NA | **Pakueshikanat** | Pains | règle -at / -a |  | [x] |
 | Innu-pakueshikan | Bannique | NA | **Innu-pakueshikanat** | Banniques | règle -at / -a |  | [x] |
+| Katetapishkanakanit | Bannique cuite sur le poêlon | NAP | **Katetapishkanakanitat** | Banniques cuites sur le poêlon | lexique de la thématique (Eric Boily, 25 nov. 2026) |  | [x] |
 | Tekanep | Crêpe | NA | **Tekanepat** | Crêpes | règle -at / -a |  | [x] |
 | Utatshishikan | Beigne | NA | **Utatshishikanat** | Beignes | règle -at / -a |  | [x] |
 | Shipai | Grand-père, pâte molle | NA | **Shipaiat** | Grands-pères, pâtes molles | règle -at / -a |  | [x] |
@@ -278,9 +287,13 @@ Toutes les formes ont le statut « validé ». Dans le jeu, on bascule d'**● U
 | Minakan | Verre, tasse | NI | **Minakana** | Verres, tasses | règle -at / -a |  | [x] |
 | Tshakaimaun | Fourchette | NI | **Tshakaimauna** | Fourchettes | règle -at / -a |  | [x] |
 | Mukuman | Couteau | NI | **Mukumana** | Couteaux | règle -at / -a |  | [x] |
-| Emikuan | Cuillère à soupe |  | **Emikuanat** | Cuillères à soupe | fiche G5-f |  | [x] |
+| Emikuan | Cuillère à soupe | NA | **Emikuanat** | Cuillères à soupe | fiche G5-f |  | [x] |
+| Emikuaniss | Cuillère | NA | **Emikuanissat** | Cuillères | lexique de la thématique (Eric Boily, 25 nov. 2026) |  | [x] |
+| Kaushusht | Casserole à manche (UASH) | NI | **Kaushushta** | Casseroles à manche (UASH) | lexique de la thématique (Eric Boily, 25 nov. 2026) |  | [x] |
 | Piminueussikᵘ | Casserole | NI | **Piminueussikua** | Casseroles | règle -at / -a |  | [x] |
+| Uituessikᵘ | Casserole à fond arrondi | NI | **Uituessikua** | Casseroles à fond arrondi | lexique de la thématique (Eric Boily, 25 nov. 2026) |  | [x] |
 | Kuapitsheussikᵘ | Seau pour puiser l’eau | NI | **Kuapitsheussikua** | Seaux pour puiser l’eau | règle -at / -a |  | [x] |
+| Katepuesht | Bouilloire | NA | **Katepueshtat** | Bouilloires | lexique de la thématique (Eric Boily, 25 nov. 2026) |  | [x] |
 | Nipishapussikᵘ | Théière | NI | **Nipishapussikua** | Théières | règle -at / -a |  | [x] |
 | Ushuissikᵘ | Poêlon (UASH) | NI | **Ushuissikua** | Poêlons | règle -at / -a |  | [x] |
 | Kashkatinakan | Moule à pain | NI | **Kashkatinakana** | Moules à pain | règle -at / -a |  | [x] |
@@ -310,8 +323,10 @@ Toutes les formes ont le statut « validé ». Dans le jeu, on bascule d'**● U
 | Ushkuetui | Champignon | NA | **Ushkuetuiat** | Champignons | règle -at / -a |  | [x] |
 | Ushkatiapi | Navet | NI | **Ushkatiapia** | Navets | règle -at / -a |  | [x] |
 | Shikakussu | Oignon | NA | **Shikakussuat** | Oignons | règle -at / -a |  | [x] |
+| Katshitshikumakanit | Maïs (blé d’Inde) | NAP | **Katshitshikumakanitat** | Maïs (blés d’Inde) | lexique de la thématique (Eric Boily, 25 nov. 2026) |  | [x] |
 | Nepet | Betterave | NI | **Nepeta** | Betteraves | règle -at / -a |  | [x] |
 | Netamat | Tomate | NI | **Netamata** | Tomates | règle -at / -a |  | [x] |
+| Kashipekuashkuak | Céleri | NIP | **Kashipekuashkuaka** | Céleris | lexique de la thématique (Eric Boily, 25 nov. 2026) |  | [x] |
 
 ## Animé ou inanimé ?
 
