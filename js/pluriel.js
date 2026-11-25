@@ -131,7 +131,10 @@ const PLURIEL_ATTENTE = {
   fa_godfather: 'Le mot se termine déjà par -a : quel est son pluriel ?',
   fa_godmother: 'Le mot se termine déjà par -a : quel est son pluriel ?',
   fa_brotherinlaw: 'Genre à confirmer avant le pluriel.',
-  fa_sisterinlaw: 'Genre à confirmer avant le pluriel.'
+  fa_sisterinlaw: 'Genre à confirmer avant le pluriel.',
+  fa_cousin_m: 'Nushteshikauna se termine déjà par -a : quel est son pluriel ?',
+  fa_cousin_f: 'Numishikauna se termine déjà par -a : quel est son pluriel ?',
+  fa_cousin_y: 'Nushimikauna se termine déjà par -a : quel est son pluriel ?'
 };
 
 /* Traductions françaises au pluriel, quand la règle simple ne suffit pas */
@@ -168,7 +171,7 @@ const PLURIEL_FR = {
   cu_blueberries: 'Bleuets', cu_strawberries: 'Fraises', cu_lingonberries: 'Graines rouges, airelles vigne d’Ida',
   cu_cloudberries: 'Plaquebières', cu_raspberries: 'Framboises',
   fl_potato: 'Pommes de terre (patates)', fl_cabbage: 'Choux', fl_grapes: 'Raisins', fl_plum: 'Prunes',
-  fa_child: 'Mes enfants', fa_cousin: 'Mes cousins, mes cousines', fa_ysibling: 'Mes petits frères ou mes petites sœurs',
+  fa_child: 'Mes enfants', fa_ysibling: 'Mes petits frères ou mes petites sœurs',
   fa_obrother: 'Mes grands frères', fa_osister: 'Mes grandes sœurs', fa_grandmother: 'Mes grands-mères', fa_grandfather: 'Mes grands-pères',
   fa_baby: 'Des bébés',
   g_g1_5: 'Des grenouilles, des crapauds', g_g1_6: 'Des truites mouchetées', g_g1_13: 'Des chapeaux, des tuques',

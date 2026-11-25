@@ -21,7 +21,7 @@ Toutes les formes ont le statut « à valider ». Dans le jeu, on bascule d'**�
 - [ ] **Obviatif** : Umamama (son sourcil), Utenikuma (sa narine) et Ushkashia (son ongle) gardent la même forme au pluriel (fiche G5-f : peikᵘ atikua, mitshet atikua). Est-ce juste ?
 - [x] **Ishkuteutapan** (le train) : inanimé (NI) à Uashat, pluriel **Ishkuteutapana**, comme la fiche G6-f (confirmé par Eric Boily le 25 nov. 2026). La forme animée appartient au parler de Mamit.
 - [ ] **Shumin** (raisin) : le jeu donne Shuminat; la fiche G5-f écrit *shiminat*.
-- [ ] **Nikanishat** : pluriel de Nikanish (mes cousins) et mot « ma parenté » à la fois : même mot ?
+- [x] **Nikanishat** : réglé le 25 nov. 2026. Nikanish est retiré; le cousin et la cousine se disent Nushteshikauna, Numishikauna et Nushimikauna (pluriel à confirmer). Nikanishat reste « ma parenté ».
 - [ ] **Défi des muffins** : les petits fruits y restent au pluriel, comme dans la recette (*inniminana kie ma kutaka minisha*).
 
 
@@ -97,11 +97,13 @@ Toutes les formes ont le statut « à valider ». Dans le jeu, on bascule d'**�
 | Kanishishiht | Les jumeaux | NAP | **(toujours au pluriel)** |  | Les jumeaux : le mot est au pluriel. |  | [ ] |
 | Nukumish | Mon oncle | NAD | **Nukumishat** | Mes oncles | règle -at / -a |  | [ ] |
 | Nituss | Ma tante | NAD | **Nitussat** | Mes tantes | règle -at / -a |  | [ ] |
-| Nikanish | Mon cousin, ma cousine | NAD | **Nikanishat** | Mes cousins, mes cousines | règle -at / -a |  | [ ] |
 | Nitushim | Mon neveu | NAD | **Nitushimat** | Mes neveux | règle -at / -a |  | [ ] |
 | Nitushimishkuem | Ma nièce | NAD | **Nitushimishkuemat** | Mes nièces | règle -at / -a |  | [ ] |
 | Nishtaua | Mon beau-frère |  | **à confirmer** |  | Genre à confirmer avant le pluriel. |  | [ ] |
 | Nitimua | Ma belle-sœur |  | **à confirmer** |  | Genre à confirmer avant le pluriel. |  | [ ] |
+| Nushteshikauna | Mon cousin aîné | NAD | **à confirmer** |  | Nushteshikauna se termine déjà par -a : quel est son pluriel ? |  | [ ] |
+| Numishikauna | Ma cousine aînée | NAD | **à confirmer** |  | Numishikauna se termine déjà par -a : quel est son pluriel ? |  | [ ] |
+| Nushimikauna | Mon cousin cadet ou ma cousine cadette | NAD | **à confirmer** |  | Nushimikauna se termine déjà par -a : quel est son pluriel ? |  | [ ] |
 | Nitauassim | Mon enfant | NAD | **Nitauassimat** | Mes enfants | fiche de la thématique | oui | [ ] |
 | Nitauassimat | Mes enfants | NAD | **(toujours au pluriel)** |  | Mes enfants : pluriel de Nitauassim (mon enfant), avec -at. |  | [ ] |
 | Nikuss | Mon fils | NAD | **Nikussat** | Mes fils | règle -at / -a |  | [ ] |
