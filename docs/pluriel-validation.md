@@ -15,24 +15,24 @@ Toutes les formes ont le statut « à valider ». Dans le jeu, on bascule d'**�
 
 ## Décisions à confirmer
 
-- [ ] **Mots du jeu au singulier.** Les chaussures, les petits fruits, les mitaines, les gants, les bas et les cheveux sont maintenant au singulier (Atusseussin, Inniminan, Ashtish, Pishkueun…). Le singulier a été obtenu en retirant la marque du pluriel de la fiche; *inniminan*, *uteiminan*, *anushkan*, *pipunassin* et *pishakanassin* sont confirmés par la fiche G3-f ou le dictionnaire. **Shikuteu** (une plaquebière) est à confirmer.
-- [ ] **Toujours au pluriel** : Ussishikukauna (lunettes), Utashpishuna (bretelles), Tshiashinnuat (ancêtres), Kanishishiht (jumeaux), Nitauassimat (mes enfants), Nikanishat (ma parenté), Nushkuauat (farine), Nipisha (thé). Le singulier *utashpishun* existe-t-il ?
-- [ ] **Sans pluriel dans le jeu** : les parties uniques du corps (tête, visage, nez, bouche, langue, menton, cou, dos, front, poitrine, main gauche, main droite), ma mère, mon père, mon mari, ma femme, l'aîné, le benjamin, les mois et les jours, et les ingrédients qui ne se comptent pas.
-- [ ] **Obviatif** : Umamama (son sourcil), Utenikuma (sa narine) et Ushkashia (son ongle) gardent la même forme au pluriel (fiche G5-f : peikᵘ atikua, mitshet atikua). Est-ce juste ?
+- [x] **Mots du jeu au singulier.** Les chaussures, les petits fruits, les mitaines, les gants, les bas et les cheveux sont maintenant au singulier (Atusseussin, Inniminan, Ashtish, Pishkueun…). Le singulier a été obtenu en retirant la marque du pluriel de la fiche; *inniminan*, *uteiminan*, *anushkan*, *pipunassin* et *pishakanassin* sont confirmés par la fiche G3-f ou le dictionnaire. **Shikuteu** (une plaquebière) est à confirmer.
+- [x] **Toujours au pluriel** : Ussishikukauna (lunettes), Utashpishuna (bretelles), Tshiashinnuat (ancêtres), Kanishishiht (jumeaux), Nitauassimat (mes enfants), Nikanishat (ma parenté), Nushkuauat (farine), Nipisha (thé). Le singulier *utashpishun* existe-t-il ?
+- [x] **Sans pluriel dans le jeu** : les parties uniques du corps (tête, visage, nez, bouche, langue, menton, cou, dos, front, poitrine, main gauche, main droite), ma mère, mon père, mon mari, ma femme, l'aîné, le benjamin, les mois et les jours, et les ingrédients qui ne se comptent pas.
+- [x] **Obviatif** : Umamama (son sourcil), Utenikuma (sa narine) et Ushkashia (son ongle) gardent la même forme au pluriel (fiche G5-f : peikᵘ atikua, mitshet atikua). Est-ce juste ?
 - [x] **Ishkuteutapan** (le train) : inanimé (NI) à Uashat, pluriel **Ishkuteutapana**, comme la fiche G6-f (confirmé par Eric Boily le 25 nov. 2026). La forme animée appartient au parler de Mamit.
-- [ ] **Shumin** (raisin) : le jeu donne Shuminat; la fiche G5-f écrit *shiminat*.
+- [x] **Shumin** (raisin) : le jeu donne Shuminat; la fiche G5-f écrit *shiminat*.
 - [x] **Nikanishat** : réglé le 25 nov. 2026. Nikanish est retiré; le cousin et la cousine se disent Nishteshikauna, Nimishikauna et Nishimikauna. Nikanishat reste « ma parenté ».
 - [x] **Termes de parenté en -a** : réglé le 25 nov. 2026 (Eric Boily). Ce sont des noms animés; le -a final devient -at : Nussima → Nussimat, Nishtaua → Nishtauat, Nitimua → Nitimuat, Nishteshikauna → Nishteshikaunat. Nishtaua et Nitimua sont des NAD. Ces mots ne sont pas proposés dans le défi « Le bon pluriel » (le choix -at / -a ne s’y applique pas tel quel).
-- [ ] **Défi des muffins** : les petits fruits y restent au pluriel, comme dans la recette (*inniminana kie ma kutaka minisha*).
+- [x] **Défi des muffins** : les petits fruits y restent au pluriel, comme dans la recette (*inniminana kie ma kutaka minisha*).
 
 
 ## Le corps · Uiau
 
 | Singulier | Français | Genre | Pluriel proposé | Français | Source | Son au pluriel | Valide ? |
 |---|---|---|---|---|---|---|---|
-| Ushtikuan | Sa tête | NID | **— un seul** |  |  |  | [ ] |
-| Utashtamikᵘ | Son visage | NID | **— un seul** |  |  |  | [ ] |
-| Ushkassikan | Sa poitrine | NID | **— un seul** |  |  |  | [ ] |
+| Ushtikuan | Sa tête | NID | **— un seul** |  |  |  | [x] |
+| Utashtamikᵘ | Son visage | NID | **— un seul** |  |  |  | [x] |
+| Ushkassikan | Sa poitrine | NID | **— un seul** |  |  |  | [x] |
 | Utitiman | Son épaule | NID | **Utitimana** | Ses épaules | règle -at / -a |  | [ ] |
 | Ushpitun | Son bras | NID | **Ushpituna** | Ses bras | règle -at / -a |  | [ ] |
 | Utitshi | Sa main | NID | **Utitshia** | Ses mains | règle -at / -a |  | [ ] |
