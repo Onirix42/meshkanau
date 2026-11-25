@@ -76,6 +76,8 @@ const PLURIEL_FORMES = {
   t_tractor: { pl: 'Kashutshishat', src: 'lexique', genre: 'A' },
   t_atv: { pl: 'Kaneukatetat', src: 'lexique', genre: 'A' },
   t_shrimpboat: { pl: 'Tshanipautisha', src: 'lexique', genre: 'I' },
+  f_herring: { pl: 'Kaushkanushtat', src: 'lexique', genre: 'A' },
+  f_smelt: { pl: 'Kauapishishtat', src: 'lexique', genre: 'A' },
   /* Formes données par la grille revue avec Noëlla Mckenzie (25 nov. 2026) */
   t_ship: { pl: 'Ishkuteu-uta', src: 'noella' },
   fl_banana: { pl: 'Ka uakashkuak mina', src: 'noella' },
@@ -201,7 +203,7 @@ const PLURIEL_FR = {
   fl_potato: 'Pommes de terre (patates)', fl_cabbage: 'Choux', fl_grapes: 'Raisins', fl_plum: 'Prunes',
   fa_child: 'Mes enfants', fa_ysibling: 'Mes petits frères ou mes petites sœurs',
   fa_obrother: 'Mes grands frères', fa_osister: 'Mes grandes sœurs', fa_grandmother: 'Mes grands-mères', fa_grandfather: 'Mes grands-pères',
-  fa_baby: 'Des bébés', cu_saucepan: 'Casseroles à manche (UASH)', b_beetle: 'Des sortes de coléoptères aquatiques (coccinelles)',
+  fa_baby: 'Des bébés', f_smelt: 'Éperlans arc-en-ciel', cu_saucepan: 'Casseroles à manche (UASH)', b_beetle: 'Des sortes de coléoptères aquatiques (coccinelles)',
   b_spider2: 'Des sortes d’araignées', fa_ggmother: 'Mes arrière-grands-mères', fa_ggfather: 'Mes arrière-grands-pères',
   fa_grandchild: 'Mes petits-enfants', fa_godfather: 'Mes parrains', fa_godmother: 'Mes marraines',
   fa_brotherinlaw: 'Mes beaux-frères', fa_sisterinlaw: 'Mes belles-sœurs', fa_cousin_m: 'Mes cousins aînés',

@@ -155,7 +155,9 @@ Toutes les formes ont le statut « validé ». Dans le jeu, on bascule d'**● U
 | Upimishui | Anguille d’Amérique | NA | **Upimishuiat** | Anguilles d’Amérique | règle -at / -a |  | [x] |
 | Utshashumekᵘ | Saumon atlantique | NA | **Utshashumekuat** | Saumons atlantiques | règle -at / -a |  | [x] |
 | Uinipeku-matamekᵘ | Truite de mer | NA | **Uinipeku-matamekuat** | Truites de mer | règle -at / -a |  | [x] |
+| Kauapishisht | Éperlan arc-en-ciel | NAP | **Kauapishishtat** | Éperlans arc-en-ciel | lexique de la thématique (Eric Boily, 25 nov. 2026) |  | [x] |
 | Kashkanamekush | Capelan | NA | **Kashkanamekushat** | Capelans | règle -at / -a |  | [x] |
+| Kaushkanusht | Hareng atlantique | NAP | **Kaushkanushtat** | Harengs atlantiques | lexique de la thématique (Eric Boily, 25 nov. 2026) |  | [x] |
 | Unushu | Morue franche | NA | **Unushuat** | Morues franches | règle -at / -a |  | [x] |
 | Tamakat | Un poisson des chenaux, poulamon atlantique | NA | **Tamakatat** | Des poissons des chenaux, poulamons atlantiques | règle -at / -a |  | [x] |
 | Papakatishu | Plie ou flétan | NA | **Papakatishuat** | Plies ou flétans | règle -at / -a |  | [x] |
