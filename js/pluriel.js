@@ -59,8 +59,8 @@ const PLURIEL_FORMES = {
   fa_obrother: { pl: 'Nishteshat', src: 'grammaire' },
   fa_ysibling: { pl: 'Nishimat', src: 'G5' },
   /* Termes de parenté en -a : le -a final devient -at (Eric Boily, 25 nov. 2026) */
-  fa_ggmother: { pl: 'Nutanishkutapanukumat', src: 'eric' },
-  fa_ggfather: { pl: 'Nutanishkutapanimushumat', src: 'eric' },
+  fa_ggmother: { pl: 'Nitanishkutapanukumat', src: 'eric' },
+  fa_ggfather: { pl: 'Nitanishkutapanimushumat', src: 'eric' },
   fa_grandchild: { pl: 'Nussimat', src: 'eric' },
   fa_godfather: { pl: 'Nitaiamieutauiat', src: 'eric' },
   fa_godmother: { pl: 'Nitaiamieukauiat', src: 'eric' },

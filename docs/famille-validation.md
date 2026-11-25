@@ -16,7 +16,7 @@ Pour chaque ligne, cocher : forme écrite exacte, sens en français, son de Uash
 - [ ] *Auassiss* : « un bébé » (non possédé) ; faut-il plutôt « mon bébé » ?
 
 
-- [x] Genre des 8 mots ajoutés (Noëlla Mckenzie et Virginie Michel) : NAD pour Nutanishkutapanukuma, Nutanishkutapanimushuma, Nussima, Nitaiamieutauia et Nitaiamieukauia; NAP pour Kanishishiht; NA pour Nishtamushan et Mashtenushan.
+- [x] Genre des 8 mots ajoutés (Noëlla Mckenzie et Virginie Michel) : NAD pour Nitanishkutapanukuma, Nitanishkutapanimushuma, Nussima, Nitaiamieutauia et Nitaiamieukauia; NAP pour Kanishishiht; NA pour Nishtamushan et Mashtenushan.
 - [x] Nishtamushan et Mashtenushan valent aussi pour une fille (l'aînée, la benjamine).
 - [x] Genre de Tshiashinnuat (les ancêtres) : NA.
 - [x] Genre de Nishtaua (mon beau-frère) et de Nitimua (ma belle-sœur) : NAD (Eric Boily, 25 nov. 2026).
@@ -32,8 +32,8 @@ Pour chaque ligne, cocher : forme écrite exacte, sens en français, son de Uash
 | `img/fa_father.webp` | Nutaui | Mon père | Nuta (Pour l’appeler (papa)) | oui | Radio-Canada, « Kautishkuemit – La famille » (lexique); innu-aimun.ca, fiche G9-f « Les noms animés dépendants » | [ ] |
 | `img/fa_grandmother.webp` | Nukum | Ma grand-mère |  | oui | Radio-Canada, « Kautishkuemit – La famille » (lexique); innu-aimun.ca, fiche G9-f « Les noms animés dépendants » | [ ] |
 | `img/fa_grandfather.webp` | Nimushum | Mon grand-père |  | oui | Radio-Canada, « Kautishkuemit – La famille » (lexique); innu-aimun.ca, fiche G9-f « Les noms animés dépendants » | [ ] |
-| `img/fa_ggmother.webp` | Nutanishkutapanukuma | Mon arrière-grand-mère |  | à enregistrer | Noëlla Mckenzie et Virginie Michel (rencontre du 24 nov. 2026) | [ ] |
-| `img/fa_ggfather.webp` | Nutanishkutapanimushuma | Mon arrière-grand-père |  | à enregistrer | Noëlla Mckenzie et Virginie Michel (rencontre du 24 nov. 2026) | [ ] |
+| `img/fa_ggmother.webp` | Nitanishkutapanukuma | Mon arrière-grand-mère |  | à enregistrer | Noëlla Mckenzie et Virginie Michel (rencontre du 24 nov. 2026) | [ ] |
+| `img/fa_ggfather.webp` | Nitanishkutapanimushuma | Mon arrière-grand-père |  | à enregistrer | Noëlla Mckenzie et Virginie Michel (rencontre du 24 nov. 2026) | [ ] |
 | `img/fa_ancestors.webp` | Tshiashinnuat | Les ancêtres |  | à enregistrer | Noëlla Mckenzie et Virginie Michel (rencontre du 24 nov. 2026) | [ ] |
 
 ## fa2 · La fratrie · Les grands et les petits

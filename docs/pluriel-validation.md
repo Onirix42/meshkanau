@@ -89,8 +89,8 @@ Toutes les formes ont le statut « à valider ». Dans le jeu, on bascule d'**�
 | Nutaui | Mon père | NAD | **— un seul** |  |  |  | [ ] |
 | Nukum | Ma grand-mère | NAD | **Nukumat** | Mes grands-mères | règle -at / -a |  | [ ] |
 | Nimushum | Mon grand-père | NAD | **Nimushumat** | Mes grands-pères | règle -at / -a |  | [ ] |
-| Nutanishkutapanukuma | Mon arrière-grand-mère | NAD | **Nutanishkutapanukumat** | Mes arrière-grands-mères | Eric Boily, 25 nov. 2026 (-a → -at) |  | [ ] |
-| Nutanishkutapanimushuma | Mon arrière-grand-père | NAD | **Nutanishkutapanimushumat** | Mes arrière-grands-pères | Eric Boily, 25 nov. 2026 (-a → -at) |  | [ ] |
+| Nitanishkutapanukuma | Mon arrière-grand-mère | NAD | **Nitanishkutapanukumat** | Mes arrière-grands-mères | Eric Boily, 25 nov. 2026 (-a → -at) |  | [ ] |
+| Nitanishkutapanimushuma | Mon arrière-grand-père | NAD | **Nitanishkutapanimushumat** | Mes arrière-grands-pères | Eric Boily, 25 nov. 2026 (-a → -at) |  | [ ] |
 | Tshiashinnuat | Les ancêtres | NA | **(toujours au pluriel)** |  | Les ancêtres : le mot est au pluriel (-at, nom animé). |  | [ ] |
 | Nishtesh | Mon grand frère | NAD | **Nishteshat** | Mes grands frères | page « Le nombre des noms » |  | [ ] |
 | Nimish | Ma grande sœur | NAD | **Nimishat** | Mes grandes sœurs | règle -at / -a |  | [ ] |
