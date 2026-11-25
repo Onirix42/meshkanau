@@ -29,7 +29,23 @@ Les **défis** propres à certaines thématiques sont regroupés sous « Défis 
 - **🔢 Construis le nombre** (chiffres) : on choisit 2, 3 ou 4 chiffres, puis on écrit le nombre en mots avec ses parties reliées par « ashu ».
 - **🎨 Nomme la forme et la couleur** (formes et couleurs) : une forme colorée s'affiche, on choisit le mot de la forme, puis celui de la couleur.
 - **📅 La date d'aujourd'hui** (calendrier) : on écrit la date du jour en trois parties, jour de la semaine, nombre (relié par « ashu ») et mois, par exemple « Ushkat-atushkan, nishunnu ashu nishtᵘ takuatshi-pishimᵘ » (lundi 23 novembre), puis cinq autres dates.
+- **➕ Le bon pluriel** (mode écrit, thématiques qui ont des noms) : un nom s'affiche au singulier; on choisit son pluriel, avec -at (nom animé) ou -a (nom inanimé). Après la réponse, la marque s'ajoute au mot en couleur.
 - **🗂️ Trie les noms** (animé ou inanimé ?) : on range chaque nom dans la bonne catégorie grammaticale. Dans la thématique « Animé ou inanimé ? », la série « Au hasard dans toute l'appli » tire seize noms parmi tous les mots de l'application à chaque partie.
+
+### ● Un · ●●● Plusieurs (le pluriel)
+
+Les mots du jeu sont donnés au singulier (un mocassin, un bleuet, une mitaine), sauf ceux qui s'emploient toujours au pluriel (des lunettes, les ancêtres, mes enfants…). Dans les thématiques qui ont des noms (corps, famille, animaux, poissons, bestioles, transport, vêtements, cuisine, fruits, animé ou inanimé), le sélecteur « ● Singulier | ●●● Pluriel » et le bouton « ● Un | ●●● Plusieurs » de la fiche font passer le mot au pluriel.
+
+- Le mot se transforme sous les yeux de l'élève : la partie commune reste en place, la marque s'ajoute en couleur (vert pour -at, nom animé; terre cuite pour -a, nom inanimé) et le petit ᵘ final grandit en u (atikᵘ → atikuat). Des pastilles expliquent ce qui s'est ajouté.
+- Les formes irrégulières connues sont montrées comme un changement (innu-ush → innu-uta). Les noms sans pluriel dans le jeu (une seule tête, le sucre…) et les pluriels à confirmer l'indiquent clairement.
+- Les pluriels formés avec la règle restent « à valider »; ceux d'une fiche ou d'un enregistrement le disent. Les pluriels seront enregistrés plus tard.
+- Le choix est conservé sur l'appareil. `?pluriel` ouvre l'application au pluriel; le mode Classe peut l'imposer (`nombre=sg` ou `nombre=pl`).
+- La tuile **Un ou plusieurs ?** (section « Comprendre la langue », à droite d'Animé ou inanimé ?) rassemble des mots de toutes les thématiques en trois planches : « Animé : + at », « Inanimé : + a » et « Les surprises du pluriel » (mots qui changent, toujours au pluriel, obviatif, sans pluriel). Le sélecteur transforme tous les mots de la planche en même temps; 🔀 tire d'autres mots. D'autres tuiles de ce genre suivront (possessifs, etc.).
+- Le défi « ➕ Pluriel » est aussi offert directement sur les cartes de la page d'accueil (mode écrit).
+- Les enregistrements de Uashat sont prononcés au singulier, même quand le nom du fichier est au pluriel (uteiminana, atusseussina…).
+- La visualisation est générique (`js/morpho.js`) : elle servira aussi aux préfixes et suffixes des possessifs et des verbes.
+
+Les règles, les formes attestées, les exceptions et leurs sources sont dans `js/pluriel.js`; la grille de validation est dans `docs/pluriel-validation.md`.
 
 ### 🔍 Derrière le mot
 
@@ -65,6 +81,7 @@ La page [`classe.html`](https://onirix42.github.io/meshkanau/classe.html) prépa
 - les **thématiques** (une seule ouvre directement l'activité; plusieurs : l'élève choisit parmi elles);
 - les **activités** offertes (une seule activité avec une seule thématique : l'élève arrive directement dans l'exercice);
 - le **mode** : 👂 Oral, 📖 Écrit ou au choix de l'élève;
+- le **nombre** : ● Singulier, ●●● Pluriel ou au choix de l'élève;
 - les **aides** à retirer : traductions et bouton « Afficher la traduction », consignes en français, lexique, indices grammaticaux, « Afficher ce mot » en mode oral.
 
 La page affiche un code QR (créé dans le navigateur, sans service externe) à projeter au tableau; les élèves le scannent avec l'appareil photo de l'iPad. Tout le réglage tient dans l'adresse, par exemple :
@@ -75,7 +92,7 @@ La page affiche un code QR (créé dans le navigateur, sans service externe) à 
 
 Un bandeau « 🏫 Mode Classe » rappelle le réglage. Le réglage tient 3 heures dans l'onglet, même si l'élève recharge la page; pour le quitter avant, garder le doigt appuyé 3 secondes sur « 🔒 Quitter ». Le mode Classe ne modifie pas les réglages enregistrés sur l'iPad. Un paramètre inconnu est ignoré.
 
-**Ajouter un réglage** (singulier/pluriel, possessifs…) : ajouter une entrée dans `CLASSE_REGLAGES` (`js/classe.js`). Elle apparaît alors automatiquement dans `classe.html`, dans l'adresse, dans le code QR et dans le résumé; il reste à en tenir compte dans le jeu (`CL.<id>` dans `index.html`).
+**Ajouter un réglage** (possessifs…) : ajouter une entrée dans `CLASSE_REGLAGES` (`js/classe.js`). Elle apparaît alors automatiquement dans `classe.html`, dans l'adresse, dans le code QR et dans le résumé; il reste à en tenir compte dans le jeu (`CL.<id>` dans `index.html`).
 
 ## Thématiques
 
@@ -89,7 +106,8 @@ Une page **À propos** (`index.html#apropos`), accessible depuis l'accueil et le
 
 Le détail est dans la [feuille de route](ROADMAP.md). En bref :
 
-- genre (animé ou inanimé) et noms dépendants : pastilles NA, NI, NAD, NID ajoutées là où le dictionnaire innu-aimun.ca a été consulté (en cours), puis pluriels et possessifs;
+- genre (animé ou inanimé) et noms dépendants : pastilles NA, NI, NAD, NID ajoutées là où le dictionnaire innu-aimun.ca a été consulté (en cours);
+- pluriel des noms (phase 2, branche `phase2-pluriel`, à valider), puis possessifs;
 - verbes, mots de liaison et phrases courtes, avec le son du mot puis une phrase d'exemple;
 - nouveaux mots et nouvelles thématiques tirés du matériel de l'équipe de Virginie Michel (ITUM);
 - achat des domaines meshkanau.ca et meshkanau.com;
@@ -99,7 +117,7 @@ Le détail est dans la [feuille de route](ROADMAP.md). En bref :
 
 ## Utilisation
 
-L'application tient dans le fichier `index.html`, accompagné des dossiers `img/`, `fonts/` et `js/`. Le dossier `js/` contient le catalogue des thématiques et des défis (`catalogue.js`), partagé par le jeu et la page du mode Classe, le registre des réglages du mode Classe (`classe.js`), les explications de « Derrière le mot » (`derriere.js`) et la bibliothèque de codes QR [qrcode-generator](https://github.com/kazuhikoarase/qrcode-generator) de Kazuhiko Arase (licence MIT, `qrcode.js`). Il n'y a rien à installer : on ouvre `index.html` dans un navigateur, ou on publie le dépôt avec GitHub Pages. Une connexion Internet est nécessaire pour les sons, qui sont lus depuis leurs sites d'origine.
+L'application tient dans le fichier `index.html`, accompagné des dossiers `img/`, `fonts/` et `js/`. Le dossier `js/` contient le catalogue des thématiques et des défis (`catalogue.js`), partagé par le jeu et la page du mode Classe, le registre des réglages du mode Classe (`classe.js`), les explications de « Derrière le mot » (`derriere.js`), le pluriel des noms (`pluriel.js`), la visualisation des préfixes et suffixes (`morpho.js`) et la bibliothèque de codes QR [qrcode-generator](https://github.com/kazuhikoarase/qrcode-generator) de Kazuhiko Arase (licence MIT, `qrcode.js`). Il n'y a rien à installer : on ouvre `index.html` dans un navigateur, ou on publie le dépôt avec GitHub Pages. Une connexion Internet est nécessaire pour les sons, qui sont lus depuis leurs sites d'origine.
 
 Aucun compte, aucun classement, aucune donnée recueillie : la progression s'efface à la fermeture de la page. Seul le choix d'affichage des mots est conservé dans le navigateur de l'appareil.
 
@@ -108,7 +126,8 @@ Aucun compte, aucun classement, aucune donnée recueillie : la progression s'eff
 - [Leçons d'innu (innu-aimun.ca)](https://lessons.innu.atlas-ling.ca/) : enregistrements du dialecte de Uashat mak Mani-utenam, genre des noms.
 - [Atlas linguistique algonquien](https://www.atlas-ling.ca/) : phrases enregistrées par Doris Vollant (Uashat mak Mani-utenam) pour les pronoms et la famille; guide [Innu-aimitutau!](https://www.atlas-ling.ca/pdf/Innu_Conversation_dialectes_Quebec.pdf) pour les termes de parenté.
 - [Dictionnaire innu-aimun.ca](https://dictionary.innu-aimun.ca/) : genre et catégorie des mots, consultés mot par mot.
-- [Grammaire d'innu-aimun.ca](https://www.innu-aimun.ca/francais/grammaire/) : pronoms personnels, genre et pluriel des noms.
+- [Grammaire d'innu-aimun.ca](https://www.innu-aimun.ca/francais/grammaire/) : pronoms personnels, genre et [pluriel des noms](https://innu-aimun.ca/francais/grammaire/noms/le-nombre-des-noms/).
+- Fiches d'Yvette Mollen [G5-f](https://www.innu-aimun.ca/wp-content/uploads/2017/07/G5-f.pdf) (pluriel et obviatif des noms animés) et [G6-f](https://www.innu-aimun.ca/wp-content/uploads/2017/07/G6-f.pdf) (pluriel des noms inanimés), et [leçon 3 des Leçons d'innu](https://www.innu-aimun.ca/wp-content/uploads/2021/06/LEC%CC%A7ON-03-e%CC%81dition-2010-traduction-2020.pdf) (ush → uta) : pluriel des noms (détail dans `docs/pluriel-validation.md`).
 - [Fiches de langue innue d'Yvette Mollen (2017)](https://www.innu-aimun.ca/fiches-a-telecharger/) : « Les couleurs » (V6-f), « Mois de l'année » (V4-f) et « Jour de la semaine » (V3-f), pour « Derrière le mot ».
 - [Liste « Months of the Year »](https://www.innu-aimun.ca/english/dictionaries/vocabulary-lists/months-of-the-year/) d'innu-aimun.ca : sens littéral des mois.
 - [Radio-Canada, « Kautishkuemit – La famille »](https://ici.radio-canada.ca/nouvelle/1173803/langue-innue-kautishkuemit-la-famille), fiches G8-b, G9-f et G10-b d'Yvette Mollen, livre de leçons de Sheshatshiu et [lexique de la Saint-Valentin du Nord-Côtier](https://lenord-cotier.com/2023/02/14/le-lexique-de-la-saint-valentin-en-innu-aimun/) : termes de la famille (détail dans `docs/famille-validation.md`).
