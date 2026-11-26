@@ -215,6 +215,12 @@ Branche `phase2-pluriel` (25 nov. 2026), à tester et à valider avant la fusion
 - [ ] Clarifier avec Virginie les terminaisons entre parenthèses du cahier
       ((an), (i), (a)).
 - [x] Mode d'entraînement singulier ↔ pluriel : défi « ➕ Le bon pluriel » (mode écrit).
+- [x] « ➕ Le bon pluriel » repensé (26 nov. 2026) : étape 1 le genre (NA ou NI), étape 2 la
+      tuile -at ou -a à glisser au bout du mot. Rétroaction sur l'obviatif quand un nom animé
+      reçoit -a (la forme existe, mais ce n'est pas le pluriel). Images de détail du corps.
+- [ ] Niveau suivant du pluriel : image d'un ou de trois personnages, ou phrase avec un verbe
+      (ex. « je les vois »), à valider avec Noëlla avant de l'ajouter.
+- [ ] Faire valider par Noëlla l'explication de l'obviatif affichée dans le défi.
 - [ ] Enregistrer les pluriels à Uashat (seuls quelques-uns le sont).
 - [ ] Adapter les défis existants (plateau, panier, muffins) au pluriel. Fait pour les
       muffins (les petits fruits restent au pluriel, comme dans la recette).

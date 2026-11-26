@@ -8,6 +8,6 @@ const DEFIS={cuisine:[['tray','🍽️ Plateau','Prépare le plateau'],['muffins
 /* Thématiques où le singulier et le pluriel des noms sont offerts (phase 2, js/pluriel.js) */
 const PLURIEL_THEMES=['corps','famille','animaux','poissons','bestioles','transport','batiments','vetements','cuisine','fruits','genre','pluriel'];
 /* Activités communes, dans l'ordre de la barre d'activités */
-const ACTIVITES=[{id:'explore',label:'🔎 Explorer'},{id:'find',label:'🎯 Trouver le repère'},{id:'choose',label:'🧩 Choisir le son / le mot'},{id:'sort',label:'🗂️ Trie les noms',note:'Animé ou inanimé ?'},{id:'plur',label:'➕ Le bon pluriel',note:'Animé + at, inanimé + a',themes:PLURIEL_THEMES}];
+const ACTIVITES=[{id:'explore',label:'🔎 Explorer'},{id:'find',label:'🎯 Trouver le repère'},{id:'choose',label:'🧩 Choisir le son / le mot'},{id:'sort',label:'🗂️ Trie les noms',note:'Animé ou inanimé ?'},{id:'plur',label:'➕ Le bon pluriel',note:'Genre, puis -at ou -a',themes:PLURIEL_THEMES}];
 /* Défis de lecture : offerts seulement en mode écrit */
 const WRITTEN_ONLY=['build','muffins','date','plur'];
