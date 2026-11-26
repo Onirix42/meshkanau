@@ -30,7 +30,7 @@ Les **défis** propres à certaines thématiques sont regroupés sous « Défis 
 - **🎨 Nomme la forme et la couleur** (formes et couleurs) : une forme colorée s'affiche, on choisit le mot de la forme, puis celui de la couleur.
 - **📅 La date d'aujourd'hui** (calendrier) : on écrit la date du jour en trois parties, jour de la semaine, nombre (relié par « ashu ») et mois, par exemple « Ushkat-atushkan, nishunnu ashu nishtᵘ takuatshi-pishimᵘ » (lundi 23 novembre), puis cinq autres dates.
 - **➕ Le bon pluriel** (mode écrit, thématiques qui ont des noms) : un nom s'affiche au singulier; on choisit son pluriel, avec -at (nom animé) ou -a (nom inanimé). Après la réponse, la marque s'ajoute au mot en couleur.
-- **🗂️ Trie les noms** (animé ou inanimé ?) : on range chaque nom dans la bonne catégorie grammaticale. Dans la thématique « Animé ou inanimé ? », la série « Au hasard dans toute l'appli » tire seize noms parmi tous les mots de l'application à chaque partie.
+- **🗂️ Trie les noms** (animé ou inanimé ?) : sur une seule planche, deux boîtes en carton, **NA** (nom animé) et **NI** (nom inanimé), et douze tuiles de mots (six animés et six inanimés quand la thématique le permet). On touche une tuile pour entendre le mot, puis on la glisse dans une boîte (ou on touche la boîte). Chaque mot déposé est corrigé tout de suite : ✓ s'il est bien rangé, ✗ s'il ne l'est pas, et il rejoint alors sa bonne boîte. Le pointage (✓ / ✗) avance à chaque tuile et le bilan s'affiche après la douzième. En mode oral, les tuiles montrent l'image sans le mot écrit. Dans la thématique « Animé ou inanimé ? », la série « Au hasard dans toute l'appli » tire seize noms parmi tous les mots de l'application à chaque partie.
 
 ### ● Un · ●●● Plusieurs (le pluriel)
 
