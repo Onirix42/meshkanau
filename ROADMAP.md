@@ -187,7 +187,7 @@ sur la provenance du mot. Il enrichit la fiche sans nuire au jeu.
       dans le dictionnaire le 10 nov. 2026; validation de Noëlla Mckenzie le 18 nov. 2026
       (une question reste sur la carotte).
 - [x] Étendre « Animé ou inanimé ? » aux thématiques dont le genre est connu :
-      corps, calendrier, transport, vêtements, cuisine, fruits et légumes
+      corps, calendrier, transport, bâtiments, vêtements, cuisine, fruits et légumes
       (genre « à valider » par l'équipe).
 - [x] Sons du dialecte central du dictionnaire pour les mots qui en avaient
       (24 mots ajoutés le 10 nov. 2026). Les autres mots restent à enregistrer.

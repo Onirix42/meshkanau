@@ -34,7 +34,7 @@ Les **défis** propres à certaines thématiques sont regroupés sous « Défis 
 
 ### ● Un · ●●● Plusieurs (le pluriel)
 
-Les mots du jeu sont donnés au singulier (un mocassin, un bleuet, une mitaine), sauf ceux qui s'emploient toujours au pluriel (des lunettes, les ancêtres, mes enfants…). Dans les thématiques qui ont des noms (corps, famille, animaux, poissons, bestioles, transport, vêtements, cuisine, fruits, animé ou inanimé), le sélecteur « ● Singulier | ●●● Pluriel » et le bouton « ● Un | ●●● Plusieurs » de la fiche font passer le mot au pluriel.
+Les mots du jeu sont donnés au singulier (un mocassin, un bleuet, une mitaine), sauf ceux qui s'emploient toujours au pluriel (des lunettes, les ancêtres, mes enfants…). Dans les thématiques qui ont des noms (corps, famille, animaux, poissons, bestioles, transport, bâtiments, vêtements, cuisine, fruits, animé ou inanimé), le sélecteur « ● Singulier | ●●● Pluriel » et le bouton « ● Un | ●●● Plusieurs » de la fiche font passer le mot au pluriel.
 
 - Le mot se transforme sous les yeux de l'élève : la partie commune reste en place, la marque s'ajoute en couleur (vert pour -at, nom animé; terre cuite pour -a, nom inanimé) et le petit ᵘ final grandit en u (atikᵘ → atikuat). Des pastilles expliquent ce qui s'est ajouté.
 - Les formes irrégulières connues sont montrées comme un changement (innu-ush → innu-uta). Les noms sans pluriel dans le jeu (une seule tête, le sucre…) et les pluriels à confirmer l'indiquent clairement.
@@ -96,9 +96,9 @@ Un bandeau « 🏫 Mode Classe » rappelle le réglage. Le réglage tient 3 heur
 
 ## Thématiques
 
-Le corps (Uiau), la famille (Kautishkuemit : parents, grands-parents, fratrie, famille élargie, enfants et liens du cœur), les formes et les couleurs (Eshinakunihk tshekuana mak Atishauiana), les chiffres (Atshitashuna), les animaux (Aueshishat), les poissons (Nameshat : eau douce et eau salée), les bestioles (Manitushat : insectes, araignées, grenouilles et couleuvres), le calendrier (Tshishtekaikan), les pronoms, animé ou inanimé, les moyens de transport (Utapana), les vêtements (Matshunisha), la cuisine (Mitshim : aliments, vaisselle et chaudrons) et les fruits et les légumes (Mina mak patshitinaun-mitshima, avec les petits fruits). Au total, 14 thématiques et 370 fiches de mots, dont 274 avec un enregistrement.
+Le corps (Uiau), la famille (Kautishkuemit : parents, grands-parents, fratrie, famille élargie, enfants et liens du cœur), les formes et les couleurs (Eshinakunihk tshekuana mak Atishauiana), les chiffres (Atshitashuna), les animaux (Aueshishat), les poissons (Nameshat : eau douce et eau salée), les bestioles (Manitushat : insectes, araignées, grenouilles et couleuvres), le calendrier (Tshishtekaikan), les pronoms, animé ou inanimé, les moyens de transport (Utapana), les bâtiments (Eshinakuaki mitshuapa : maison, école, magasin, restaurant, hôpital, bureau de poste, cinéma, centre récréatif, église), les vêtements (Matshunisha), la cuisine (Mitshim : aliments, vaisselle et chaudrons) et les fruits et les légumes (Mina mak patshitinaun-mitshima, avec les petits fruits). Au total, 15 thématiques et 379 fiches de mots, dont 283 avec un enregistrement. Dans « Animé ou inanimé ? », le défi « Trie les noms » montre une image pour chacun des 32 mots.
 
-On peut ouvrir directement une thématique avec l'adresse `index.html#corps`, `#famille`, `#couleurs`, `#chiffres`, `#animaux`, `#poissons`, `#bestioles`, `#calendrier`, `#pronoms`, `#genre`, `#transport`, `#vetements`, `#cuisine` ou `#fruits`.
+On peut ouvrir directement une thématique avec l'adresse `index.html#corps`, `#famille`, `#couleurs`, `#chiffres`, `#animaux`, `#poissons`, `#bestioles`, `#calendrier`, `#pronoms`, `#genre`, `#transport`, `#batiments`, `#vetements`, `#cuisine` ou `#fruits`.
 
 Une page **À propos** (`index.html#apropos`), accessible depuis l'accueil et le bas de page, regroupe le mode d'emploi, les sources, les notes par thématique, la liste des points à valider avec une personne locutrice (dont les mots sans enregistrement) et les crédits. Les pages d'activités n'affichent que le lexique de la thématique ouverte.
 
@@ -136,7 +136,7 @@ Aucun compte, aucun classement, aucune donnée recueillie : la progression s'eff
 ## Droits
 
 - Les enregistrements appartiennent à leurs auteurs et à leurs producteurs. Ils ne sont pas copiés dans ce dépôt. Une autorisation écrite est en cours de demande.
-- Aucune image trouvée sur le Web n'est utilisée. Les illustrations des animaux, des poissons, des bestioles, des moyens de transport, des vêtements, de la cuisine, des fruits et légumes, de la famille, l'illustration des yeux et les scènes des tuiles de l'accueil (`img/themes/`) ont été générées par IA dans le style de l'application. Les objets culturels innus seront photographiés par Eric Boily, avec l'accord des personnes qui les prêtent.
+- Aucune image trouvée sur le Web n'est utilisée. Les illustrations des animaux, des poissons, des bestioles, des moyens de transport, des bâtiments, des vêtements, de la cuisine, des fruits et légumes, de la famille, l'illustration des yeux, les images du défi « Trie les noms » (chat, chien, baleine, cadenas, sourcil, tête, bouche, œil) et les scènes des tuiles de l'accueil (`img/themes/`) ont été générées par IA dans le style de l'application. Les objets culturels innus seront photographiés par Eric Boily, avec l'accord des personnes qui les prêtent.
 - Les photos de la thématique du corps montrent Maïté et Ezechiel Michel-Fontaine (enfants de Virginie Michel) ainsi que les mains de Stéphane Fontaine. Elles sont publiées avec leur accord.
 
 ## Avertissement

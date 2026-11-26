@@ -51,6 +51,11 @@ const PLURIEL_FORMES = {
   g_g1_0: { pl: 'Minushat', src: 'grammaire' },
   g_g1_1: { pl: 'Atimuat', src: 'grammaire' },
   g_g1_8: { pl: 'Mitshuapa', src: 'G6' },
+  bt_house: { pl: 'Mitshuapa', src: 'G6' },
+  /* Thématique des bâtiments (26 nov. 2026) : la maison, l'église et le magasin
+     reprennent les formes revues dans « Animé ou inanimé ? » */
+  bt_church: { pl: 'Aiamieutshuapa', src: 'noella' },
+  bt_store: { pl: 'Atautshuapa', src: 'noella' },
   g_g1_11: { pl: 'Utapana', src: 'grammaire' },
   t_car: { pl: 'Utapana', src: 'grammaire' },
   t_plane: { pl: 'Upashtamakanat', src: 'G5' },
@@ -159,7 +164,7 @@ const PLURIEL_SENS = ['head', 'face', 'chest', 'body_all', 'neck', 'back', 'lowe
 
 /* Grille de validation revue avec Noëlla Mckenzie le 25 nov. 2026 : toutes les
    formes sont validées. Ajouter ici l'id d'un mot dont le pluriel serait à revoir. */
-const PLURIEL_A_VALIDER = [];
+const PLURIEL_A_VALIDER = ['bt_school', 'bt_hospital', 'bt_postoffice', 'bt_recreation'];
 
 /* Pluriels à confirmer avant de les afficher (raison donnée à l'équipe) */
 /* Pluriel montré selon le genre du jeu, mais retiré du défi « Le bon pluriel » tant que l'équipe n'a pas tranché */
@@ -210,7 +215,8 @@ const PLURIEL_FR = {
   fa_cousin_f: 'Mes cousines aînées', fa_cousin_y: 'Mes cousins cadets ou mes cousines cadettes',
   g_g1_5: 'Des grenouilles, des crapauds', g_g1_6: 'Des truites mouchetées', g_g1_13: 'Des chapeaux, des tuques',
   g_g1_14: 'Des robes; des manteaux', g_g2_1: 'Des mitaines, des gants', g_g2_2: 'Des foulards, des écharpes',
-  g_g2_12: 'Des manteaux, des blousons', g_g2_13: 'Des robes de nuit'
+  g_g2_12: 'Des manteaux, des blousons', g_g2_13: 'Des robes de nuit',
+  bt_postoffice: 'Des bureaux de poste, des bureaux', bt_recreation: 'Des centres récréatifs, des salles des loisirs', bt_hospital: 'Des hôpitaux'
 };
 
 const Pluriel = (() => {
