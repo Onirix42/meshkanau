@@ -271,6 +271,12 @@ Branche `phase2-pluriel` (25 nov. 2026), à tester et à valider avant la fusion
         lit pas encore.
   - [ ] Enregistrements manquants : les illustrations sans assez de sons
         (ex. pronoms de priorité) ne permettent pas encore les défis à l'oral.
+- [x] Les pronoms : nouveau look d'après la feuille d'Hubert Lessart (26 nov.
+      2026). Les 15 cartes reprennent les personnages de la famille; la
+      fillette au chandail orange parle (nin, au centre, avec la bulle), tshin
+      est à gauche, uin à droite et nenua derrière le pointillé. Personnes
+      désignées en couleur, autres pâlies; l'étoile veut dire « d'abord ».
+      Les 8 pronoms suivent l'ordre de la feuille d'Hubert.
 - [x] Nouvelle thématique Kautishkuemit (la famille), fusionnée dans `main`
       le 24 nov. 2026 : 32 mots en 5 illustrations, 12 avec un son de Uashat. Le 25 nov. 2026,
       Nikanish est remplacé par trois mots (cousin aîné, cousine aînée,
